@@ -1072,7 +1072,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 30,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/7.jpg",
     "translations": {
       "fr": { "name": "Crêpe Fromage" },
       "en": { "name": "Cheese Crepe" },
@@ -1084,7 +1084,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/1.jpg",
     "translations": {
       "fr": { "name": "Crêpe Dinde Fumée" },
       "en": { "name": "Smoked Turkey Crepe" },
@@ -1096,7 +1096,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/2.jpg",
     "translations": {
       "fr": { "name": "Crêpe Poulet et Champignons" },
       "en": { "name": "Chicken & Mushroom Crepe" },
@@ -1108,7 +1108,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/3.jpg",
     "translations": {
       "fr": { "name": "Crêpe Viande Hachée" },
       "en": { "name": "Minced Meat Crepe" },
@@ -1120,7 +1120,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/4.jpg",
     "translations": {
       "fr": { "name": "Crêpe Crevettes" },
       "en": { "name": "Prawn Crepe" },
@@ -1132,7 +1132,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/5.jpg",
     "translations": {
       "fr": { "name": "Crêpe Végétarienne" },
       "en": { "name": "Vegetarian Crepe" },
@@ -1144,7 +1144,7 @@
     "category": "desserts",
     "subcategory": "crepes-salees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/CREP salee/6.jpg",
     "translations": {
       "fr": { "name": "Crêpe Thon" },
       "en": { "name": "Tuna Crepe" },
@@ -1156,7 +1156,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 20,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/1.jpg",
     "translations": {
       "fr": { "name": "Crêpe Nature" },
       "en": { "name": "Plain Crepe" },
@@ -1168,7 +1168,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 25,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/2.jpg",
     "translations": {
       "fr": { "name": "Crêpe au Sucre" },
       "en": { "name": "Sugar Crepe" },
@@ -1180,7 +1180,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 30,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/3.jpg",
     "translations": {
       "fr": { "name": "Crêpe Nutella" },
       "en": { "name": "Nutella Crepe" },
@@ -1192,7 +1192,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/4.jpg",
     "translations": {
       "fr": { "name": "Crêpe Nutella et Banane" },
       "en": { "name": "Nutella & Banana Crepe" },
@@ -1204,7 +1204,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/5.jpg",
     "translations": {
       "fr": { "name": "Crêpe Pistache" },
       "en": { "name": "Pistachio Crepe" },
@@ -1216,7 +1216,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/6.jpg",
     "translations": {
       "fr": { "name": "Crêpe Amlou ou Miel" },
       "en": { "name": "Amlou or Honey Crepe" },
@@ -1228,7 +1228,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 45,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/7.jpg",
     "translations": {
       "fr": { "name": "Crêpe Dubaï", "ingredients": "Nutella, pistache, konafa" },
       "en": { "name": "Dubai Crepe", "ingredients": "Nutella, pistachio, knafeh" },
@@ -1240,7 +1240,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/8.jpg",
     "translations": {
       "fr": { "name": "Crêpe Brazilian", "ingredients": "Nutella, banane, topping caramel, crème Chantilly" },
       "en": { "name": "Brazilian Crepe", "ingredients": "Nutella, banana, caramel topping, whipped cream" },
@@ -1252,7 +1252,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 55,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/9.jpg",
     "translations": {
       "fr": { "name": "Maison Pandy", "ingredients": "Pistache, Nutella, boule de glace au choix, banane, topping chocolat" },
       "en": { "name": "Pandy House", "ingredients": "Pistachio, Nutella, scoop of ice cream of choice, banana, chocolate topping" },
@@ -1264,7 +1264,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 45,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/10.jpg",
     "translations": {
       "fr": { "name": "Crêpe Gourmande", "ingredients": "Lotus, caramel, Oreo, kinder Bueno, KitKat" },
       "en": { "name": "Gourmet Crepe", "ingredients": "Lotus, caramel, Oreo, Kinder Bueno, KitKat" },
@@ -1276,7 +1276,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 60,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/10.jpg",
     "translations": {
       "fr": { "name": "Crêpe Royal", "ingredients": "Nutella, Oreo, kinder Bueno, banane, boule de glace, crème Chantilly" },
       "en": { "name": "Royal Crepe", "ingredients": "Nutella, Oreo, Kinder Bueno, banana, scoop of ice cream, whipped cream" },
@@ -1288,7 +1288,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 55,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/11.jpg",
     "translations": {
       "fr": { "name": "Crêpe Tropical", "ingredients": "Fruits de saison, topping tropical, crème Chantilly" },
       "en": { "name": "Tropical Crepe", "ingredients": "Seasonal fruits, tropical topping, whipped cream" },
@@ -1300,7 +1300,7 @@
     "category": "desserts",
     "subcategory": "crepes-sucrees",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/crep sucre/12.jpg",
     "translations": {
       "fr": { "name": "Croissant Glacé", "ingredients": "Boule de glace au choix" },
       "en": { "name": "Ice Cream Croissant", "ingredients": "Scoop of ice cream of choice" },
@@ -1312,7 +1312,7 @@
     "category": "boissons",
     "subcategory": "ice-coffee",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/1.jpg",
     "translations": {
       "fr": { "name": "Ice Coffee" },
       "en": { "name": "Ice Coffee" },
@@ -1324,7 +1324,7 @@
     "category": "boissons",
     "subcategory": "ice-coffee",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/2.jpg",
     "translations": {
       "fr": { "name": "Ice Coffee Latte" },
       "en": { "name": "Iced Coffee Latte" },
@@ -1336,7 +1336,7 @@
     "category": "boissons",
     "subcategory": "ice-coffee",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/3.jpg",
     "translations": {
       "fr": { "name": "Ice Coconut Latte" },
       "en": { "name": "Iced Coconut Latte" },
@@ -1348,7 +1348,7 @@
     "category": "boissons",
     "subcategory": "ice-tea",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/4.jpg",
     "translations": {
       "fr": { "name": "Ice Tea Citron" },
       "en": { "name": "Lemon Iced Tea" },
@@ -1360,7 +1360,7 @@
     "category": "boissons",
     "subcategory": "ice-tea",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/5.jpg",
     "translations": {
       "fr": { "name": "Ice Tea Pêche" },
       "en": { "name": "Peach Iced Tea" },
@@ -1372,7 +1372,7 @@
     "category": "boissons",
     "subcategory": "ice-tea",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/6.jpg",
     "translations": {
       "fr": { "name": "Ice Tea Fruits Rouges" },
       "en": { "name": "Red Fruits Iced Tea" },
@@ -1384,7 +1384,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/8.jpg",
     "translations": {
       "fr": { "name": "Mojito Virgin" },
       "en": { "name": "Virgin Mojito" },
@@ -1396,7 +1396,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/9.jpg",
     "translations": {
       "fr": { "name": "Mojito Green" },
       "en": { "name": "Green Mojito" },
@@ -1408,7 +1408,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/10.jpg",
     "translations": {
       "fr": { "name": "Mojito Red" },
       "en": { "name": "Red Mojito" },
@@ -1420,7 +1420,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/11.jpg",
     "translations": {
       "fr": { "name": "Mojito Blue" },
       "en": { "name": "Blue Mojito" },
@@ -1432,7 +1432,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 45,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/12.jpg",
     "translations": {
       "fr": { "name": "Mojito Piña Colada" },
       "en": { "name": "Piña Colada Mojito" },
@@ -1444,7 +1444,7 @@
     "category": "boissons",
     "subcategory": "mojitos-virgin",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/13.jpg",
     "translations": {
       "fr": { "name": "Mojito Énergétique" },
       "en": { "name": "Energy Mojito" },
@@ -1456,7 +1456,7 @@
     "category": "boissons",
     "subcategory": "smoothies",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/14.jpg",
     "translations": {
       "fr": { "name": "Smoothie Mangue" },
       "en": { "name": "Mango Smoothie" },
@@ -1468,7 +1468,7 @@
     "category": "boissons",
     "subcategory": "smoothies",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/15.jpg",
     "translations": {
       "fr": { "name": "Smoothie Fraise" },
       "en": { "name": "Strawberry Smoothie" },
@@ -1480,7 +1480,7 @@
     "category": "boissons",
     "subcategory": "smoothies",
     "price": 45,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/16.jpg",
     "translations": {
       "fr": { "name": "Smoothie Ananas" },
       "en": { "name": "Pineapple Smoothie" },
@@ -1492,7 +1492,7 @@
     "category": "boissons",
     "subcategory": "smoothies",
     "price": 45,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/menu 2/17.jpg",
     "translations": {
       "fr": { "name": "Smoothie Flower" },
       "en": { "name": "Flower Smoothie" },
@@ -1504,7 +1504,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/2.jpg",
     "translations": {
       "fr": { "name": "Milkshake Fraise" },
       "en": { "name": "Strawberry Milkshake" },
@@ -1516,7 +1516,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/3.jpg",
     "translations": {
       "fr": { "name": "Milkshake Chocolat" },
       "en": { "name": "Chocolate Milkshake" },
@@ -1528,7 +1528,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/4.jpg",
     "translations": {
       "fr": { "name": "Milkshake Vanille" },
       "en": { "name": "Vanilla Milkshake" },
@@ -1540,7 +1540,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/5.jpg",
     "translations": {
       "fr": { "name": "Milkshake Yaourt" },
       "en": { "name": "Yogurt Milkshake" },
@@ -1552,7 +1552,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/7.jpg",
     "translations": {
       "fr": { "name": "Milkshake Citron" },
       "en": { "name": "Lemon Milkshake" },
@@ -1564,7 +1564,7 @@
     "category": "boissons",
     "subcategory": "milkshakes-speciaux",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/milkshake/8.jpg",
     "translations": {
       "fr": { "name": "Milkshake Pistache" },
       "en": { "name": "Pistachio Milkshake" },
@@ -1576,7 +1576,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/1.jpg",
     "translations": {
       "fr": { "name": "Coupe de Sorbets", "ingredients": "Fraise, citron et crème Chantilly" },
       "en": { "name": "Sorbet Cup", "ingredients": "Strawberry, lemon and whipped cream" },
@@ -1588,7 +1588,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/2.jpg",
     "translations": {
       "fr": { "name": "Coupe Enfants", "ingredients": "Vanille, fraise, citron et crème Chantilly" },
       "en": { "name": "Kids Cup", "ingredients": "Vanilla, strawberry, lemon and whipped cream" },
@@ -1600,7 +1600,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/3.jpg",
     "translations": {
       "fr": { "name": "Coupe Pan Dy", "ingredients": "Yaourt, fraise, citron et crème Chantilly" },
       "en": { "name": "Pan Dy Cup", "ingredients": "Yogurt, strawberry, lemon and whipped cream" },
@@ -1612,7 +1612,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/4.jpg",
     "translations": {
       "fr": { "name": "Coupe Split", "ingredients": "Chocolat, vanille, pistache et crème Chantilly" },
       "en": { "name": "Split Cup", "ingredients": "Chocolate, vanilla, pistachio and whipped cream" },
@@ -1624,7 +1624,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/5.jpg",
     "translations": {
       "fr": { "name": "Coupe Valor", "ingredients": "Vanille et crème Chantilly" },
       "en": { "name": "Valor Cup", "ingredients": "Vanilla and whipped cream" },
@@ -1636,7 +1636,7 @@
     "category": "desserts",
     "subcategory": "glaces",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/glaces/6.jpg",
     "translations": {
       "fr": { "name": "Coupe Med", "ingredients": "Yaourt, citron et crème Chantilly" },
       "en": { "name": "Med Cup", "ingredients": "Yogurt, lemon and whipped cream" },
@@ -2200,7 +2200,7 @@
     "category": "petit-dejeuner",
     "subcategory": "oeuf-au-plat",
     "price": 30,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/9.jpg",
     "translations": {
       "fr": { "name": "Tajine, Œufs au Khlie" },
       "en": { "name": "Tagine, Eggs with Khlie (Preserved Meat)" },
@@ -2212,7 +2212,7 @@
     "category": "petit-dejeuner",
     "subcategory": "oeuf-au-plat",
     "price": 40,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/9.jpg",
     "translations": {
       "fr": { "name": "Tajine avec 2 Œufs au Khlie" },
       "en": { "name": "Tagine with 2 Eggs & Khlie" },
@@ -2284,7 +2284,7 @@
     "category": "petit-dejeuner",
     "subcategory": "croque",
     "price": 20,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/5.jpg",
     "translations": {
       "fr": { "name": "Pain au Fromage" },
       "en": { "name": "Cheese Bread" },
@@ -2296,7 +2296,7 @@
     "category": "petit-dejeuner",
     "subcategory": "croque",
     "price": 15,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/7.jpg",
     "translations": {
       "fr": { "name": "Farci", "ingredients": "Baghrir, rghayef, harcha, meloui, pain cake" },
       "en": { "name": "Stuffed Assortment", "ingredients": "Baghrir, rghayef, harcha, meloui, loaf cake" },
@@ -2308,7 +2308,7 @@
     "category": "petit-dejeuner",
     "subcategory": "toast-item",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/4.jpg",
     "translations": {
       "fr": { "name": "Granola Bowl", "ingredients": "Granola Maison aux Grains et Fruits Secs, Yaourt Fraise, et Fruits de saison" },
       "en": { "name": "Granola Bowl", "ingredients": "Homemade Granola with Grains and Dried Fruits, Strawberry Yogurt, and Seasonal Fruits" },
@@ -2344,7 +2344,7 @@
     "category": "petit-dejeuner",
     "subcategory": "toast-item",
     "price": 30,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/7.jpg",
     "translations": {
       "fr": { "name": "Toast Spécial", "ingredients": "Œuf, Fromage Rouge, Dinde Fumée, Mortadella, Kiri" },
       "en": { "name": "Special Toast", "ingredients": "Egg, Red Cheese, Smoked Turkey, Mortadella, Kiri cheese" },
@@ -2356,7 +2356,7 @@
     "category": "petit-dejeuner",
     "subcategory": "toast-item",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/10.jpg",
     "translations": {
       "fr": { "name": "Toast Avocat et Saumon" },
       "en": { "name": "Avocado and Salmon Toast" },
@@ -2524,7 +2524,7 @@
     "category": "petit-dejeuner",
     "subcategory": "petit-dejeuner",
     "price": 55,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/10.jpg",
     "translations": {
       "fr": { "name": "Pan Dy", "ingredients": "Boisson Chaude (Thé à la menthe ou Café), Croque, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Mini Jus d'orange et eau minérale" },
       "en": { "name": "Pan Dy Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Croque, 2 Mini Pastries or 1 Large Pastry, Mini Orange Juice and Mineral Water" },
@@ -2548,7 +2548,7 @@
     "category": "petit-dejeuner",
     "subcategory": "petit-dejeuner",
     "price": 50,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/9.jpg",
     "translations": {
       "fr": { "name": "Beldi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Œufs Beldi, Olives, Fromage Beldi, Rghayef, Harcha, Huil d'Olive, Corbeille à Pain, Mini Jus d'Orange, eau Minérale" },
       "en": { "name": "Beldi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Beldi Eggs, Olives, Beldi Cheese, Rghayef, Harcha, Olive Oil, Bread Basket, Mini Orange Juice, Mineral Water" },
@@ -2560,7 +2560,7 @@
     "category": "petit-dejeuner",
     "subcategory": "petit-dejeuner",
     "price": 35,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/8.jpg",
     "translations": {
       "fr": { "name": "Parisien", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Mini Viennoiseries, Mini Jus d'Orange" },
       "en": { "name": "Parisian Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Mini Pastries, Mini Orange Juice" },
@@ -2572,7 +2572,7 @@
     "category": "petit-dejeuner",
     "subcategory": "petit-dejeuner",
     "price": 60,
-    "image": "assets/images/placeholder.jpg",
+    "image": "assets/images/ftorat/9.jpg",
     "translations": {
       "fr": { "name": "Fassi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), Tagine 2 Œufs au Khlie, Olives, Huile d'Olive, Corbeille à Pain, Mini Jus d'Orange et Eau minérale" },
       "en": { "name": "Fassi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Tagine with 2 Eggs & Khlie, Olives, Olive Oil, Bread Basket, Mini Orange Juice and Mineral Water" },
