@@ -1,0 +1,20 @@
+{
+  "cat_fast-food": "Fast Food & Snacks",
+  "cat_italien": "Italian Specialties",
+  "cat_entrees": "Starters & Salads",
+  "cat_plats": "Main Courses",
+  "sub_tacos": "Tacos",
+  "sub_panini": "Paninis",
+  "sub_wrap": "Wraps",
+  "sub_sandwich": "Sandwiches",
+  "sub_hamburgers": "Homemade Burgers",
+  "sub_pates": "Pasta of Choice",
+  "sub_pasticcio": "Baked Pasta (Pasticcio)",
+  "sub_risotto": "Risotto",
+  "sub_pizza": "Pizza",
+  "sub_entrees-chaudes": "Hot Starters",
+  "sub_salade": "Salads",
+  "sub_viandes": "Meats",
+  "sub_volailles": "Poultry",
+  "sub_poissons": "Fish"
+}

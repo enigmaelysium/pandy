@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "tacos-poulet",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Au Poulet" },
+      "en": { "name": "Chicken Tacos" },
+      "es": { "name": "Tacos de Pollo" }
+    }
+  },
+  {
+    "id": "tacos-viande-hachee",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos À la Viande Hachée" },
+      "en": { "name": "Minced Meat Tacos" },
+      "es": { "name": "Tacos de Carne Picada" }
+    }
+  },
+  {
+    "id": "tacos-cordon-bleu",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Cordon Bleu" },
+      "en": { "name": "Cordon Bleu Tacos" },
+      "es": { "name": "Tacos Cordon Bleu" }
+    }
+  },
+  {
+    "id": "tacos-nuggets",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Aux Nuggets" },
+      "en": { "name": "Nugget Tacos" },
+      "es": { "name": "Tacos con Nuggets" }
+    }
+  },
+  {
+    "id": "tacos-mixte",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Mixte" },
+      "en": { "name": "Mixed Tacos" },
+      "es": { "name": "Tacos Mixtos" }
+    }
+  },
+  {
+    "id": "tacos-fruits-de-mer",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Aux Fruits de Mer" },
+      "en": { "name": "Seafood Tacos" },
+      "es": { "name": "Tacos de Mariscos" }
+    }
+  },
+  {
+    "id": "tacos-crispy",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos Crispy" },
+      "en": { "name": "Crispy Tacos" },
+      "es": { "name": "Tacos Crujientes" }
+    }
+  },
+  {
+    "id": "tacos-sauce-fromagere",
+    "category": "fast-food",
+    "subcategory": "tacos",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tacos à la sauce Fromagère", "ingredients": "Poulet, viande hachée, nuggets (au choix)" },
+      "en": { "name": "Cheese Sauce Tacos", "ingredients": "Chicken, minced meat, or nuggets (your choice)" },
+      "es": { "name": "Tacos con Salsa de Queso", "ingredients": "Pollo, carne picada o nuggets (a elegir)" }
+    }
+  },
+  {
+    "id": "panini-poulet",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Au Poulet" },
+      "en": { "name": "Chicken Panini" },
+      "es": { "name": "Panini de Pollo" }
+    }
+  },
+  {
+    "id": "panini-viande-hachee",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini À La Viande Hachée" },
+      "en": { "name": "Minced Meat Panini" },
+      "es": { "name": "Panini de Carne Picada" }
+    }
+  },
+  {
+    "id": "panini-mixte",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Mixte" },
+      "en": { "name": "Mixed Panini" },
+      "es": { "name": "Panini Mixto" }
+    }
+  },
+  {
+    "id": "panini-saumon",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Au Saumon" },
+      "en": { "name": "Salmon Panini" },
+      "es": { "name": "Panini de Salmón" }
+    }
+  },
+  {
+    "id": "panini-fruits-de-mer",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Aux Fruits de Mer" },
+      "en": { "name": "Seafood Panini" },
+      "es": { "name": "Panini de Mariscos" }
+    }
+  },
+  {
+    "id": "panini-charcuterie",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Charcuterie" },
+      "en": { "name": "Deli Meat Panini" },
+      "es": { "name": "Panini de Embutidos" }
+    }
+  },
+  {
+    "id": "panini-thon",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini Au Thon" },
+      "en": { "name": "Tuna Panini" },
+      "es": { "name": "Panini de Atún" }
+    }
+  },
+  {
+    "id": "panini-4-fromages",
+    "category": "fast-food",
+    "subcategory": "panini",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panini 4 Fromages" },
+      "en": { "name": "4 Cheese Panini" },
+      "es": { "name": "Panini 4 Quesos" }
+    }
+  },
+  {
+    "id": "wrap-poulet",
+    "category": "fast-food",
+    "subcategory": "wrap",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Wrap Au Poulet" },
+      "en": { "name": "Chicken Wrap" },
+      "es": { "name": "Wrap de Pollo" }
+    }
+  },
+  {
+    "id": "wrap-viande-hachee",
+    "category": "fast-food",
+    "subcategory": "wrap",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Wrap À la Viande Hachée" },
+      "en": { "name": "Minced Meat Wrap" },
+      "es": { "name": "Wrap de Carne Picada" }
+    }
+  },
+  {
+    "id": "wrap-thon",
+    "category": "fast-food",
+    "subcategory": "wrap",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Wrap Au Thon" },
+      "en": { "name": "Tuna Wrap" },
+      "es": { "name": "Wrap de Atún" }
+    }
+  },
+  {
+    "id": "wrap-saumon-fume",
+    "category": "fast-food",
+    "subcategory": "wrap",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Wrap Au Saumon Fumé" },
+      "en": { "name": "Smoked Salmon Wrap" },
+      "es": { "name": "Wrap de Salmón Ahumado" }
+    }
+  },
+  {
+    "id": "sandwich-poulet",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich Au Poulet" },
+      "en": { "name": "Chicken Sandwich" },
+      "es": { "name": "Sándwich de Pollo" }
+    }
+  },
+  {
+    "id": "sandwich-viande-hachee",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich À La Viande Hachée" },
+      "en": { "name": "Minced Meat Sandwich" },
+      "es": { "name": "Sándwich de Carne Picada" }
+    }
+  },
+  {
+    "id": "sandwich-mixte",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich Mixte" },
+      "en": { "name": "Mixed Sandwich" },
+      "es": { "name": "Sándwich Mixto" }
+    }
+  },
+  {
+    "id": "sandwich-fruits-de-mer",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich Aux Fruits de Mer" },
+      "en": { "name": "Seafood Sandwich" },
+      "es": { "name": "Sándwich de Mariscos" }
+    }
+  },
+  {
+    "id": "sandwich-boeuf",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich Au Bœuf" },
+      "en": { "name": "Beef Sandwich" },
+      "es": { "name": "Sándwich de Ternera" }
+    }
+  },
+  {
+    "id": "sandwich-crispy",
+    "category": "fast-food",
+    "subcategory": "sandwich",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sandwich Crispy" },
+      "en": { "name": "Crispy Sandwich" },
+      "es": { "name": "Sándwich Crujiente" }
+    }
+  },
+  {
+    "id": "hamburger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Hamburger" },
+      "en": { "name": "Hamburger" },
+      "es": { "name": "Hamburguesa" }
+    }
+  },
+  {
+    "id": "egg-burger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Egg Burger" },
+      "en": { "name": "Egg Burger" },
+      "es": { "name": "Hamburguesa con Huevo" }
+    }
+  },
+  {
+    "id": "egg-cheese-burger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Egg Cheese Burger" },
+      "en": { "name": "Egg Cheese Burger" },
+      "es": { "name": "Hamburguesa con Huevo y Queso" }
+    }
+  },
+  {
+    "id": "double-cheese",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Double Cheese" },
+      "en": { "name": "Double Cheese" },
+      "es": { "name": "Doble Queso" }
+    }
+  },
+  {
+    "id": "luxe-burger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 70,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Luxe Burger" },
+      "en": { "name": "Luxury Burger" },
+      "es": { "name": "Hamburguesa de Lujo" }
+    }
+  },
+  {
+    "id": "crispy-burger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crispy Burger" },
+      "en": { "name": "Crispy Burger" },
+      "es": { "name": "Hamburguesa Crujiente" }
+    }
+  },
+  {
+    "id": "chicken-burger",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Chicken Burger" },
+      "en": { "name": "Chicken Burger" },
+      "es": { "name": "Hamburguesa de Pollo" }
+    }
+  },
+  {
+    "id": "burger-royal",
+    "category": "fast-food",
+    "subcategory": "hamburgers",
+    "price": 70,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Burger Royal" },
+      "en": { "name": "Royal Burger" },
+      "es": { "name": "Hamburguesa Royal" }
+    }
+  },
+  {
+    "id": "pates-thon",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes Au Thon", "ingredients": "Spaghetti, tagliatelles ou penne" },
+      "en": { "name": "Tuna Pasta", "ingredients": "Spaghetti, tagliatelle, or penne" },
+      "es": { "name": "Pasta con Atún", "ingredients": "Espaguetis, tallarines o penne" }
+    }
+  },
+  {
+    "id": "pates-bolognaise",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes À la Bolognaise" },
+      "en": { "name": "Bolognese Pasta" },
+      "es": { "name": "Pasta a la Boloñesa" }
+    }
+  },
+  {
+    "id": "pates-fruits-de-mer",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 75,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes Aux Fruits de Mer" },
+      "en": { "name": "Seafood Pasta" },
+      "es": { "name": "Pasta de Mariscos" }
+    }
+  },
+  {
+    "id": "pates-saumon",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes Au saumon" },
+      "en": { "name": "Salmon Pasta" },
+      "es": { "name": "Pasta con Salmón" }
+    }
+  },
+  {
+    "id": "pates-moules",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes Aux Moules", "ingredients": "Sauce à l'Ail et fromage" },
+      "en": { "name": "Mussel Pasta", "ingredients": "Garlic sauce and cheese" },
+      "es": { "name": "Pasta con Mejillones", "ingredients": "Salsa de ajo y queso" }
+    }
+  },
+  {
+    "id": "penne-pesto",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Penne avec Pesto au Fromage" },
+      "en": { "name": "Penne with Cheese Pesto" },
+      "es": { "name": "Penne con Pesto y Queso" }
+    }
+  },
+  {
+    "id": "lasagne-bolognaise",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Lasagne à la Bolognaise" },
+      "en": { "name": "Bolognese Lasagna" },
+      "es": { "name": "Lasaña Boloñesa" }
+    }
+  },
+  {
+    "id": "pates-poulet",
+    "category": "italien",
+    "subcategory": "pates",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pâtes Au Poulet" },
+      "en": { "name": "Chicken Pasta" },
+      "es": { "name": "Pasta con Pollo" }
+    }
+  },
+  {
+    "id": "pasticcio-charcuterie",
+    "category": "italien",
+    "subcategory": "pasticcio",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pasticcio Charcuterie" },
+      "en": { "name": "Deli Meat Pasticcio" },
+      "es": { "name": "Pasticcio de Embutidos" }
+    }
+  },
+  {
+    "id": "pasticcio-poulet-champignons",
+    "category": "italien",
+    "subcategory": "pasticcio",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pasticcio Au Poulet et Champignons" },
+      "en": { "name": "Chicken & Mushroom Pasticcio" },
+      "es": { "name": "Pasticcio de Pollo y Champiñones" }
+    }
+  },
+  {
+    "id": "pasticcio-thon",
+    "category": "italien",
+    "subcategory": "pasticcio",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pasticcio Au Thon" },
+      "en": { "name": "Tuna Pasticcio" },
+      "es": { "name": "Pasticcio de Atún" }
+    }
+  },
+  {
+    "id": "pasticcio-viande-hachee",
+    "category": "italien",
+    "subcategory": "pasticcio",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pasticcio À la Viande Hachée" },
+      "en": { "name": "Minced Meat Pasticcio" },
+      "es": { "name": "Pasticcio de Carne Picada" }
+    }
+  },
+  {
+    "id": "pasticcio-pepperoni",
+    "category": "italien",
+    "subcategory": "pasticcio",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pasticcio Charcuterie Pepperoni" },
+      "en": { "name": "Pepperoni Pasticcio" },
+      "es": { "name": "Pasticcio de Pepperoni" }
+    }
+  },
+  {
+    "id": "risotto-fungo",
+    "category": "italien",
+    "subcategory": "risotto",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Risotto Fungo au Poulet et Champignons" },
+      "en": { "name": "Chicken & Mushroom Fungo Risotto" },
+      "es": { "name": "Risotto de Pollo y Champiñones" }
+    }
+  },
+  {
+    "id": "risotto-gambas",
+    "category": "italien",
+    "subcategory": "risotto",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Risotto aux Gambas" },
+      "en": { "name": "Prawn Risotto" },
+      "es": { "name": "Risotto con Gambas" }
+    }
+  },
+  {
+    "id": "risotto-manzo",
+    "category": "italien",
+    "subcategory": "risotto",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Risotto al Manzo (Bœuf)" },
+      "en": { "name": "Beef Risotto" },
+      "es": { "name": "Risotto de Ternera" }
+    }
+  },
+  {
+    "id": "pizza-margherita",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Margherita", "ingredients": "Sauce de tomate, fromage, olives noires" },
+      "en": { "name": "Margherita Pizza", "ingredients": "Tomato sauce, cheese, black olives" },
+      "es": { "name": "Pizza Margarita", "ingredients": "Salsa de tomate, queso, aceitunas negras" }
+    }
+  },
+  {
+    "id": "pizza-fruits-de-mer",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 75,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza aux Fruits de Mer", "ingredients": "Sauce de tomate, crevettes, calamars, champignons, surimi et moules" },
+      "en": { "name": "Seafood Pizza", "ingredients": "Tomato sauce, prawns, calamari, mushrooms, surimi, and mussels" },
+      "es": { "name": "Pizza de Mariscos", "ingredients": "Salsa de tomate, gambas, calamares, champiñones, surimi y mejillones" }
+    }
+  },
+  {
+    "id": "pizza-4-saisons",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza 4 Saisons", "ingredients": "Sauce de tomate, fromage, crevettes, thon, viande hachée, poulet" },
+      "en": { "name": "Four Seasons Pizza", "ingredients": "Tomato sauce, cheese, prawns, tuna, minced meat, chicken" },
+      "es": { "name": "Pizza 4 Estaciones", "ingredients": "Salsa de tomate, queso, gambas, atún, carne picada, pollo" }
+    }
+  },
+  {
+    "id": "pizza-thon",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Thon", "ingredients": "Sauce tomate, fromage, oignons, champignons" },
+      "en": { "name": "Tuna Pizza", "ingredients": "Tomato sauce, cheese, onions, mushrooms" },
+      "es": { "name": "Pizza de Atún", "ingredients": "Salsa de tomate, queso, cebollas, champiñones" }
+    }
+  },
+  {
+    "id": "pizza-vegetarienne",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Végétarienne", "ingredients": "Sauce tomate, fromage, poivron jaune, poivron rouge, oignons, tomate, maïs et olives noires" },
+      "en": { "name": "Vegetarian Pizza", "ingredients": "Tomato sauce, cheese, yellow pepper, red pepper, onions, tomato, corn, and black olives" },
+      "es": { "name": "Pizza Vegetariana", "ingredients": "Salsa de tomate, queso, pimiento amarillo, pimiento rojo, cebollas, tomate, maíz y aceitunas negras" }
+    }
+  },
+  {
+    "id": "pizza-napolitaine",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Napolitaine", "ingredients": "Sauce de tomate, fromage, câpres, anchois, champignons, oignons, olives noires" },
+      "en": { "name": "Neapolitan Pizza", "ingredients": "Tomato sauce, cheese, capers, anchovies, mushrooms, onions, black olives" },
+      "es": { "name": "Pizza Napolitana", "ingredients": "Salsa de tomate, queso, alcaparras, anchoas, champiñones, cebollas, aceitunas negras" }
+    }
+  },
+  {
+    "id": "pizza-royale",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Royale", "ingredients": "Sauce tomate, crevettes, calamar, moules, thon, poivrons jaunes, poivron vert, et olives noires" },
+      "en": { "name": "Royal Pizza", "ingredients": "Tomato sauce, prawns, calamari, mussels, tuna, yellow peppers, green pepper, and black olives" },
+      "es": { "name": "Pizza Royal", "ingredients": "Salsa de tomate, gambas, calamar, mejillones, atún, pimientos amarillos, pimiento verde y aceitunas negras" }
+    }
+  },
+  {
+    "id": "pizza-pandy",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 85,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Pandy", "ingredients": "Sauce tomate, fromage, saumon fumé, champignons" },
+      "en": { "name": "Pandy Pizza", "ingredients": "Tomato sauce, cheese, smoked salmon, mushrooms" },
+      "es": { "name": "Pizza Pandy", "ingredients": "Salsa de tomate, queso, salmón ahumado, champiñones" }
+    }
+  },
+  {
+    "id": "pizza-bolognaise",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Bolognaise", "ingredients": "Sauce de tomate, viande hachée et fromage" },
+      "en": { "name": "Bolognese Pizza", "ingredients": "Tomato sauce, minced meat, and cheese" },
+      "es": { "name": "Pizza Boloñesa", "ingredients": "Salsa de tomate, carne picada y queso" }
+    }
+  },
+  {
+    "id": "pizza-pepperoni",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 70,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Pepperoni", "ingredients": "Sauce de tomate, pepperoni et fromage" },
+      "en": { "name": "Pepperoni Pizza", "ingredients": "Tomato sauce, pepperoni, and cheese" },
+      "es": { "name": "Pizza de Pepperoni", "ingredients": "Salsa de tomate, pepperoni y queso" }
+    }
+  },
+  {
+    "id": "pizza-alfredo",
+    "category": "italien",
+    "subcategory": "pizza",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pizza Alfredo (Poulet)", "ingredients": "Sauce tomate, fromage, champignons, poulet" },
+      "en": { "name": "Alfredo Pizza (Chicken)", "ingredients": "Tomato sauce, cheese, mushrooms, chicken" },
+      "es": { "name": "Pizza Alfredo (Pollo)", "ingredients": "Salsa de tomate, queso, champiñones, pollo" }
+    }
+  },
+  {
+    "id": "soupe-poisson",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Soupe de poisson" },
+      "en": { "name": "Fish Soup" },
+      "es": { "name": "Sopa de Pescado" }
+    }
+  },
+  {
+    "id": "soupe-legumes",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Soupe de Légumes" },
+      "en": { "name": "Vegetable Soup" },
+      "es": { "name": "Sopa de Verduras" }
+    }
+  },
+  {
+    "id": "gratin-poulet",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Gratin de Poulet" },
+      "en": { "name": "Chicken Gratin" },
+      "es": { "name": "Gratinado de Pollo" }
+    }
+  },
+  {
+    "id": "toasts-saumon",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toasts au Saumon" },
+      "en": { "name": "Salmon Toasts" },
+      "es": { "name": "Tostadas de Salmón" }
+    }
+  },
+  {
+    "id": "toasts-thon",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toasts au Thon" },
+      "en": { "name": "Tuna Toasts" },
+      "es": { "name": "Tostadas de Atún" }
+    }
+  },
+  {
+    "id": "batata-bravas",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Batata Bravas" },
+      "en": { "name": "Patatas Bravas" },
+      "es": { "name": "Patatas Bravas" }
+    }
+  },
+  {
+    "id": "chicken-crispy",
+    "category": "entrees",
+    "subcategory": "entrees-chaudes",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Chicken Crispy" },
+      "en": { "name": "Crispy Chicken" },
+      "es": { "name": "Pollo Crujiente" }
+    }
+  },
+  {
+    "id": "salade-nicoise",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Niçoise", "ingredients": "Pomme de terre, carotte, haricots verts, thon, anchois, œufs, laitue" },
+      "en": { "name": "Niçoise Salad", "ingredients": "Potato, carrot, green beans, tuna, anchovies, eggs, lettuce" },
+      "es": { "name": "Ensalada Niçoise", "ingredients": "Patata, zanahoria, judías verdes, atún, anchoas, huevos, lechuga" }
+    }
+  },
+  {
+    "id": "salade-marocaine",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Marocaine", "ingredients": "Laitue, tomate, thon, maïs, olives noirs" },
+      "en": { "name": "Moroccan Salad", "ingredients": "Lettuce, tomato, tuna, corn, black olives" },
+      "es": { "name": "Ensalada Marroquí", "ingredients": "Lechuga, tomate, atún, maíz, aceitunas negras" }
+    }
+  },
+  {
+    "id": "salade-cesar",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade César", "ingredients": "Laitue, fromage, croûtons de pain, sauce césar, tomate, poulet mariné" },
+      "en": { "name": "Caesar Salad", "ingredients": "Lettuce, cheese, croutons, Caesar dressing, tomato, marinated chicken" },
+      "es": { "name": "Ensalada César", "ingredients": "Lechuga, queso, picatostes, salsa césar, tomate, pollo marinado" }
+    }
+  },
+  {
+    "id": "salade-russe",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Russe", "ingredients": "Pomme de terre, carotte, petits pois, thon, œufs" },
+      "en": { "name": "Russian Salad", "ingredients": "Potato, carrot, green peas, tuna, eggs" },
+      "es": { "name": "Ensaladilla Rusa", "ingredients": "Patata, zanahoria, guisantes, atún, huevos" }
+    }
+  },
+  {
+    "id": "salade-pecheur",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Pêcheur", "ingredients": "Laitue, crevette, moules, calamar, surimi, thon" },
+      "en": { "name": "Fisherman's Salad", "ingredients": "Lettuce, prawns, mussels, calamari, surimi, tuna" },
+      "es": { "name": "Ensalada Marinera", "ingredients": "Lechuga, gambas, mejillones, calamar, surimi, atún" }
+    }
+  },
+  {
+    "id": "salade-italienne",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Italienne", "ingredients": "Penne, thon, maïs, poivron mix, fromage rouge" },
+      "en": { "name": "Italian Salad", "ingredients": "Penne, tuna, corn, mixed peppers, red cheese" },
+      "es": { "name": "Ensalada Italiana", "ingredients": "Penne, atún, maíz, mezcla de pimientos, queso rojo" }
+    }
+  },
+  {
+    "id": "salade-pandy",
+    "category": "entrees",
+    "subcategory": "salade",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade Pandy", "ingredients": "Mangue, ananas, maïs, crevette, riz, haricot vert, avocat, sauce chef" },
+      "en": { "name": "Pandy Salad", "ingredients": "Mango, pineapple, corn, prawns, rice, green beans, avocado, chef's sauce" },
+      "es": { "name": "Ensalada Pandy", "ingredients": "Mango, piña, maíz, gambas, arroz, judías verdes, aguacate, salsa del chef" }
+    }
+  },
+  {
+    "id": "filet-boeuf",
+    "category": "plats",
+    "subcategory": "viandes",
+    "price": 140,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Filet de Bœuf avec sauce aux champignons", "ingredients": "Servi avec deux accompagnements au choix: riz, légumes de saison, frites, potatoes" },
+      "en": { "name": "Beef Fillet with Mushroom Sauce", "ingredients": "Served with two side dishes of choice: rice, seasonal vegetables, fries, wedges" },
+      "es": { "name": "Filete de Ternera con Salsa de Champiñones", "ingredients": "Servido con dos guarniciones a elegir: arroz, verduras de temporada, patatas fritas, patatas gajo" }
+    }
+  },
+  {
+    "id": "brochettes-boeuf",
+    "category": "plats",
+    "subcategory": "viandes",
+    "price": 100,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Brochettes de Bœuf", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Beef Skewers", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Pinchos de Ternera", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "emince-boeuf",
+    "category": "plats",
+    "subcategory": "viandes",
+    "price": 110,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Émincé de Bœuf", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Sliced Beef", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Tiras de Ternera", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "brochettes-viande-hachee",
+    "category": "plats",
+    "subcategory": "viandes",
+    "price": 90,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Brochettes de Viande Hachée", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Minced Meat Skewers", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Pinchos de Carne Picada", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "emince-poulet",
+    "category": "plats",
+    "subcategory": "volailles",
+    "price": 85,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Émincé de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Sliced Chicken", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Tiras de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "brochettes-poulet",
+    "category": "plats",
+    "subcategory": "volailles",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Brochettes de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Chicken Skewers", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Pinchos de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "escalopes-milanaise",
+    "category": "plats",
+    "subcategory": "volailles",
+    "price": 85,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Escalopes de poulet à la Milanaise", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Chicken Escalope Milanese", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Escalope de Pollo a la Milanesa", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "spirale-poulet",
+    "category": "plats",
+    "subcategory": "volailles",
+    "price": 80,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Spirale de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Chicken Spiral", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Espiral de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "poulet-parmigiana",
+    "category": "plats",
+    "subcategory": "volailles",
+    "price": 90,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Poulet Parmigiana", "ingredients": "Servi avec deux accompagnements au choix" },
+      "en": { "name": "Chicken Parmigiana", "ingredients": "Served with two side dishes of choice" },
+      "es": { "name": "Pollo a la Parmesana", "ingredients": "Servido con dos guarniciones a elegir" }
+    }
+  },
+  {
+    "id": "espadon-champignon",
+    "category": "plats",
+    "subcategory": "poissons",
+    "price": 120,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Espadon à la Crème Champignon" },
+      "en": { "name": "Swordfish in Mushroom Cream Sauce" },
+      "es": { "name": "Pez Espada con Crema de Champiñones" }
+    }
+  },
+  {
+    "id": "saint-pierre-champignon",
+    "category": "plats",
+    "subcategory": "poissons",
+    "price": 110,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Saint-Pierre à la Crème Champignon" },
+      "en": { "name": "John Dory in Mushroom Cream Sauce" },
+      "es": { "name": "Pez de San Pedro con Crema de Champiñones" }
+    }
+  },
+  {
+    "id": "saumon-champignon",
+    "category": "plats",
+    "subcategory": "poissons",
+    "price": 130,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pavé de saumon à la Crème Champignon" },
+      "en": { "name": "Salmon Steak in Mushroom Cream Sauce" },
+      "es": { "name": "Lomo de Salmón con Crema de Champiñones" }
+    }
+  },
+  {
+    "id": "pil-pil-ajillo",
+    "category": "plats",
+    "subcategory": "poissons",
+    "price": 75,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pil Pil al Ajillo" },
+      "en": { "name": "Garlic Pil Pil" },
+      "es": { "name": "Pil Pil al Ajillo" }
+    }
+  },
+  {
+    "id": "poisson-rigamonte",
+    "category": "plats",
+    "subcategory": "poissons",
+    "price": 120,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Poisson Rigamonte" },
+      "en": { "name": "Rigamonte Fish" },
+      "es": { "name": "Pescado Rigamonte" }
+    }
+  }
+]

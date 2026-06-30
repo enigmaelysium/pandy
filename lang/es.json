@@ -1,0 +1,20 @@
+{
+  "cat_fast-food": "Comida Rápida y Snacks",
+  "cat_italien": "Especialidades Italianas",
+  "cat_entrees": "Entrantes y Ensaladas",
+  "cat_plats": "Platos Principales",
+  "sub_tacos": "Tacos",
+  "sub_panini": "Paninis",
+  "sub_wrap": "Wraps",
+  "sub_sandwich": "Sándwiches",
+  "sub_hamburgers": "Hamburguesas Caseras",
+  "sub_pates": "Pasta a Elección",
+  "sub_pasticcio": "Pasta al Horno (Pasticcio)",
+  "sub_risotto": "Risottos",
+  "sub_pizza": "Pizzas",
+  "sub_entrees-chaudes": "Entrantes Calientes",
+  "sub_salade": "Ensaladas",
+  "sub_viandes": "Carnes",
+  "sub_volailles": "Aves",
+  "sub_poissons": "Pescados"
+}

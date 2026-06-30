@@ -1,0 +1,44 @@
+/* Custom Scrollbar for Category Nav */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Smooth Image Loading */
+.img-lazy {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+.img-lazy.loaded {
+    opacity: 1;
+}
+
+/* Card Hover Animation */
+.menu-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.menu-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px -5px rgba(126, 56, 71, 0.15); /* Accent color shadow */
+}
+
+/* Active Navigation Item */
+.nav-btn.active {
+    background-color: #7E3847; /* Accent */
+    color: #FFFFFF;
+}
+
+/* Smooth Fade in for Sections */
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+    will-change: opacity, visibility;
+}
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+}
