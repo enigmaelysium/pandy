@@ -185,7 +185,7 @@ createCardHTML(item, lang) {
                             ${translation.name || ''}
                         </h3>
                         <span class="text-sm md:text-lg font-bold text-accent whitespace-nowrap">
-                            ${item.price} ${this.i18n.t('currency')}
+                            ${item.price} ${this.i18n.t('DH')}
                         </span>
                     </div>
                     

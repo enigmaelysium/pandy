@@ -1066,5 +1066,1529 @@
       "en": { "name": "Rigamonte Fish" },
       "es": { "name": "Pescado Rigamonte" }
     }
+  },
+  {
+    "id": "crepe-fromage",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Fromage" },
+      "en": { "name": "Cheese Crepe" },
+      "es": { "name": "Crepe de Queso" }
+    }
+  },
+  {
+    "id": "crepe-dinde-fumee",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Dinde Fumée" },
+      "en": { "name": "Smoked Turkey Crepe" },
+      "es": { "name": "Crepe de Pavo Ahumado" }
+    }
+  },
+  {
+    "id": "crepe-poulet-champignons",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Poulet et Champignons" },
+      "en": { "name": "Chicken & Mushroom Crepe" },
+      "es": { "name": "Crepe de Pollo y Champiñones" }
+    }
+  },
+  {
+    "id": "crepe-viande-hachee",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Viande Hachée" },
+      "en": { "name": "Minced Meat Crepe" },
+      "es": { "name": "Crepe de Carne Picada" }
+    }
+  },
+  {
+    "id": "crepe-crevettes",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Crevettes" },
+      "en": { "name": "Prawn Crepe" },
+      "es": { "name": "Crepe de Gambas" }
+    }
+  },
+  {
+    "id": "crepe-vegetarien",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Végétarienne" },
+      "en": { "name": "Vegetarian Crepe" },
+      "es": { "name": "Crepe Vegetariana" }
+    }
+  },
+  {
+    "id": "crepe-thon",
+    "category": "desserts",
+    "subcategory": "crepes-salees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Thon" },
+      "en": { "name": "Tuna Crepe" },
+      "es": { "name": "Crepe de Atún" }
+    }
+  },
+  {
+    "id": "crepe-nature",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Nature" },
+      "en": { "name": "Plain Crepe" },
+      "es": { "name": "Crepe Natural" }
+    }
+  },
+  {
+    "id": "crepe-au-sucre",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe au Sucre" },
+      "en": { "name": "Sugar Crepe" },
+      "es": { "name": "Crepe con Azúcar" }
+    }
+  },
+  {
+    "id": "crepe-nutella",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Nutella" },
+      "en": { "name": "Nutella Crepe" },
+      "es": { "name": "Crepe de Nutella" }
+    }
+  },
+  {
+    "id": "crepe-nutella-banane",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Nutella et Banane" },
+      "en": { "name": "Nutella & Banana Crepe" },
+      "es": { "name": "Crepe de Nutella y Plátano" }
+    }
+  },
+  {
+    "id": "crepe-pistache",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Pistache" },
+      "en": { "name": "Pistachio Crepe" },
+      "es": { "name": "Crepe de Pistacho" }
+    }
+  },
+  {
+    "id": "crepe-amlou-miel",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Amlou ou Miel" },
+      "en": { "name": "Amlou or Honey Crepe" },
+      "es": { "name": "Crepe de Amlou o Miel" }
+    }
+  },
+  {
+    "id": "crepe-dubai",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Dubaï", "ingredients": "Nutella, pistache, konafa" },
+      "en": { "name": "Dubai Crepe", "ingredients": "Nutella, pistachio, knafeh" },
+      "es": { "name": "Crepe Dubái", "ingredients": "Nutella, pistacho, knafeh" }
+    }
+  },
+  {
+    "id": "crepe-brazilian",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Brazilian", "ingredients": "Nutella, banane, topping caramel, crème Chantilly" },
+      "en": { "name": "Brazilian Crepe", "ingredients": "Nutella, banana, caramel topping, whipped cream" },
+      "es": { "name": "Crepe Brasileño", "ingredients": "Nutella, plátano, sirope de caramelo, nata montada" }
+    }
+  },
+  {
+    "id": "maison-pandy",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Maison Pandy", "ingredients": "Pistache, Nutella, boule de glace au choix, banane, topping chocolat" },
+      "en": { "name": "Pandy House", "ingredients": "Pistachio, Nutella, scoop of ice cream of choice, banana, chocolate topping" },
+      "es": { "name": "Especial Casa Pandy", "ingredients": "Pistacho, Nutella, bola de helado a elegir, plátano, sirope de chocolate" }
+    }
+  },
+  {
+    "id": "crepe-assortiment",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Gourmande", "ingredients": "Lotus, caramel, Oreo, kinder Bueno, KitKat" },
+      "en": { "name": "Gourmet Crepe", "ingredients": "Lotus, caramel, Oreo, Kinder Bueno, KitKat" },
+      "es": { "name": "Crepe Gourmet", "ingredients": "Lotus, caramelo, Oreo, Kinder Bueno, KitKat" }
+    }
+  },
+  {
+    "id": "crepe-royal",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Royal", "ingredients": "Nutella, Oreo, kinder Bueno, banane, boule de glace, crème Chantilly" },
+      "en": { "name": "Royal Crepe", "ingredients": "Nutella, Oreo, Kinder Bueno, banana, scoop of ice cream, whipped cream" },
+      "es": { "name": "Crepe Real", "ingredients": "Nutella, Oreo, Kinder Bueno, plátano, bola de helado, nata montada" }
+    }
+  },
+  {
+    "id": "crepe-tropical",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Crêpe Tropical", "ingredients": "Fruits de saison, topping tropical, crème Chantilly" },
+      "en": { "name": "Tropical Crepe", "ingredients": "Seasonal fruits, tropical topping, whipped cream" },
+      "es": { "name": "Crepe Tropical", "ingredients": "Frutas de temporada, sirope tropical, nata montada" }
+    }
+  },
+  {
+    "id": "croissant-glace",
+    "category": "desserts",
+    "subcategory": "crepes-sucrees",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Croissant Glacé", "ingredients": "Boule de glace au choix" },
+      "en": { "name": "Ice Cream Croissant", "ingredients": "Scoop of ice cream of choice" },
+      "es": { "name": "Croissant con Helado", "ingredients": "Bola de helado a elegir" }
+    }
+  },
+  {
+    "id": "ice-coffee",
+    "category": "boissons",
+    "subcategory": "ice-coffee",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Coffee" },
+      "en": { "name": "Ice Coffee" },
+      "es": { "name": "Café Helado" }
+    }
+  },
+  {
+    "id": "ice-coffee-latte",
+    "category": "boissons",
+    "subcategory": "ice-coffee",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Coffee Latte" },
+      "en": { "name": "Iced Coffee Latte" },
+      "es": { "name": "Café Latte Helado" }
+    }
+  },
+  {
+    "id": "ice-coconut-latte",
+    "category": "boissons",
+    "subcategory": "ice-coffee",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Coconut Latte" },
+      "en": { "name": "Iced Coconut Latte" },
+      "es": { "name": "Café Latte de Coco Helado" }
+    }
+  },
+  {
+    "id": "ice-tea-citron",
+    "category": "boissons",
+    "subcategory": "ice-tea",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Tea Citron" },
+      "en": { "name": "Lemon Iced Tea" },
+      "es": { "name": "Té Helado de Limón" }
+    }
+  },
+  {
+    "id": "ice-tea-peche",
+    "category": "boissons",
+    "subcategory": "ice-tea",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Tea Pêche" },
+      "en": { "name": "Peach Iced Tea" },
+      "es": { "name": "Té Helado de Melocotón" }
+    }
+  },
+  {
+    "id": "ice-tea-fruits-rouges",
+    "category": "boissons",
+    "subcategory": "ice-tea",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ice Tea Fruits Rouges" },
+      "en": { "name": "Red Fruits Iced Tea" },
+      "es": { "name": "Té Helado de Frutos Rojos" }
+    }
+  },
+  {
+    "id": "mojito-virgin",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Virgin" },
+      "en": { "name": "Virgin Mojito" },
+      "es": { "name": "Mojito Clásico (Sin Alcohol)" }
+    }
+  },
+  {
+    "id": "mojito-green",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Green" },
+      "en": { "name": "Green Mojito" },
+      "es": { "name": "Mojito Verde" }
+    }
+  },
+  {
+    "id": "mojito-red",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Red" },
+      "en": { "name": "Red Mojito" },
+      "es": { "name": "Mojito Rojo" }
+    }
+  },
+  {
+    "id": "mojito-blue",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Blue" },
+      "en": { "name": "Blue Mojito" },
+      "es": { "name": "Mojito Azul" }
+    }
+  },
+  {
+    "id": "mojito-pina-colada",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Piña Colada" },
+      "en": { "name": "Piña Colada Mojito" },
+      "es": { "name": "Mojito Piña Colada" }
+    }
+  },
+  {
+    "id": "mojito-energetique",
+    "category": "boissons",
+    "subcategory": "mojitos-virgin",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mojito Énergétique" },
+      "en": { "name": "Energy Mojito" },
+      "es": { "name": "Mojito Energético" }
+    }
+  },
+  {
+    "id": "smoothie-mangue",
+    "category": "boissons",
+    "subcategory": "smoothies",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Smoothie Mangue" },
+      "en": { "name": "Mango Smoothie" },
+      "es": { "name": "Smoothie de Mango" }
+    }
+  },
+  {
+    "id": "smoothie-fraise",
+    "category": "boissons",
+    "subcategory": "smoothies",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Smoothie Fraise" },
+      "en": { "name": "Strawberry Smoothie" },
+      "es": { "name": "Smoothie de Fresa" }
+    }
+  },
+  {
+    "id": "smoothie-ananas",
+    "category": "boissons",
+    "subcategory": "smoothies",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Smoothie Ananas" },
+      "en": { "name": "Pineapple Smoothie" },
+      "es": { "name": "Smoothie de Piña" }
+    }
+  },
+  {
+    "id": "smoothie-flower",
+    "category": "boissons",
+    "subcategory": "smoothies",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Smoothie Flower" },
+      "en": { "name": "Flower Smoothie" },
+      "es": { "name": "Smoothie Flower" }
+    }
+  },
+  {
+    "id": "milkshake-fraise",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Fraise" },
+      "en": { "name": "Strawberry Milkshake" },
+      "es": { "name": "Batido de Fresa" }
+    }
+  },
+  {
+    "id": "milkshake-chocolat",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Chocolat" },
+      "en": { "name": "Chocolate Milkshake" },
+      "es": { "name": "Batido de Chocolate" }
+    }
+  },
+  {
+    "id": "milkshake-vanille",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Vanille" },
+      "en": { "name": "Vanilla Milkshake" },
+      "es": { "name": "Batido de Vainilla" }
+    }
+  },
+  {
+    "id": "milkshake-yaourt",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Yaourt" },
+      "en": { "name": "Yogurt Milkshake" },
+      "es": { "name": "Batido de Yogur" }
+    }
+  },
+  {
+    "id": "milkshake-citron",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Citron" },
+      "en": { "name": "Lemon Milkshake" },
+      "es": { "name": "Batido de Limón" }
+    }
+  },
+  {
+    "id": "milkshake-pistache",
+    "category": "boissons",
+    "subcategory": "milkshakes-speciaux",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Milkshake Pistache" },
+      "en": { "name": "Pistachio Milkshake" },
+      "es": { "name": "Batido de Pistacho" }
+    }
+  },
+  {
+    "id": "coupe-sorbets",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe de Sorbets", "ingredients": "Fraise, citron et crème Chantilly" },
+      "en": { "name": "Sorbet Cup", "ingredients": "Strawberry, lemon and whipped cream" },
+      "es": { "name": "Copa de Sorbetes", "ingredients": "Fresa, limón y nata montada" }
+    }
+  },
+  {
+    "id": "coupe-enfants",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe Enfants", "ingredients": "Vanille, fraise, citron et crème Chantilly" },
+      "en": { "name": "Kids Cup", "ingredients": "Vanilla, strawberry, lemon and whipped cream" },
+      "es": { "name": "Copa Infantil", "ingredients": "Vainilla, fresa, limón y nata montada" }
+    }
+  },
+  {
+    "id": "coupe-pan-dy",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe Pan Dy", "ingredients": "Yaourt, fraise, citron et crème Chantilly" },
+      "en": { "name": "Pan Dy Cup", "ingredients": "Yogurt, strawberry, lemon and whipped cream" },
+      "es": { "name": "Copa Pan Dy", "ingredients": "Yogur, fresa, limón y nata montada" }
+    }
+  },
+  {
+    "id": "coupe-split",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe Split", "ingredients": "Chocolat, vanille, pistache et crème Chantilly" },
+      "en": { "name": "Split Cup", "ingredients": "Chocolate, vanilla, pistachio and whipped cream" },
+      "es": { "name": "Copa Split", "ingredients": "Chocolate, vainilla, pistacho y nata montada" }
+    }
+  },
+  {
+    "id": "coupe-valor",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe Valor", "ingredients": "Vanille et crème Chantilly" },
+      "en": { "name": "Valor Cup", "ingredients": "Vanilla and whipped cream" },
+      "es": { "name": "Copa Valor", "ingredients": "Vainilla y nata montada" }
+    }
+  },
+  {
+    "id": "coupe-med",
+    "category": "desserts",
+    "subcategory": "glaces",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Coupe Med", "ingredients": "Yaourt, citron et crème Chantilly" },
+      "en": { "name": "Med Cup", "ingredients": "Yogurt, lemon and whipped cream" },
+      "es": { "name": "Copa Med", "ingredients": "Yogur, limón y nata montada" }
+    }
+  },
+  {
+    "id": "jus-fruit-saison",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Fruit de Saison" },
+      "en": { "name": "Seasonal Fruit" },
+      "es": { "name": "Fruta de Temporada" }
+    }
+  },
+  {
+    "id": "jus-ananas-presse",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ananas Pressé" },
+      "en": { "name": "Fresh Squeezed Pineapple" },
+      "es": { "name": "Piña Exprimida" }
+    }
+  },
+  {
+    "id": "jus-pomme-pressee",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pomme Pressée" },
+      "en": { "name": "Fresh Squeezed Apple" },
+      "es": { "name": "Manzana Exprimida" }
+    }
+  },
+  {
+    "id": "jus-carotte-pressee",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Carotte Pressée" },
+      "en": { "name": "Fresh Squeezed Carrot" },
+      "es": { "name": "Zanahoria Exprimida" }
+    }
+  },
+  {
+    "id": "jus-poire-pressee",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Poire Pressée" },
+      "en": { "name": "Fresh Squeezed Pear" },
+      "es": { "name": "Pera Exprimida" }
+    }
+  },
+  {
+    "id": "jus-pomme-ananas",
+    "category": "boissons",
+    "subcategory": "jus-presses",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pomme Ananas" },
+      "en": { "name": "Apple & Pineapple" },
+      "es": { "name": "Manzana y Piña" }
+    }
+  },
+  {
+    "id": "jus-tropical",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tropical - Mangue & Ananas" },
+      "en": { "name": "Tropical - Mango & Pineapple" },
+      "es": { "name": "Tropical - Mango y Piña" }
+    }
+  },
+  {
+    "id": "jus-banane",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Banane" },
+      "en": { "name": "Banana" },
+      "es": { "name": "Plátano" }
+    }
+  },
+  {
+    "id": "jus-pomme",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pomme" },
+      "en": { "name": "Apple" },
+      "es": { "name": "Manzana" }
+    }
+  },
+  {
+    "id": "jus-avocat",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Avocat" },
+      "en": { "name": "Avocado" },
+      "es": { "name": "Aguacate" }
+    }
+  },
+  {
+    "id": "jus-ananas",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Ananas" },
+      "en": { "name": "Pineapple" },
+      "es": { "name": "Piña" }
+    }
+  },
+  {
+    "id": "jus-fraise",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Fraise" },
+      "en": { "name": "Strawberry" },
+      "es": { "name": "Fresa" }
+    }
+  },
+  {
+    "id": "jus-mangue",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mangue" },
+      "en": { "name": "Mango" },
+      "es": { "name": "Mango" }
+    }
+  },
+  {
+    "id": "jus-peche",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pêche" },
+      "en": { "name": "Peach" },
+      "es": { "name": "Melocotón" }
+    }
+  },
+  {
+    "id": "jus-dragon",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Dragon" },
+      "en": { "name": "Dragon Fruit" },
+      "es": { "name": "Fruta del Dragón" }
+    }
+  },
+  {
+    "id": "jus-dragon-fruits",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Dragon et Fruits" },
+      "en": { "name": "Dragon Fruit & Mixed Fruits" },
+      "es": { "name": "Fruta del Dragón y Frutas Mixtas" }
+    }
+  },
+  {
+    "id": "jus-special-pandy",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Spécial Pan Dy" },
+      "en": { "name": "Pan Dy Special" },
+      "es": { "name": "Especial Pan Dy" }
+    }
+  },
+  {
+    "id": "jus-panache",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Panaché aux Fruits" },
+      "en": { "name": "Mixed Fruit Panaché" },
+      "es": { "name": "Panaché de Frutas" }
+    }
+  },
+  {
+    "id": "salade-de-fruits",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Salade de Fruits" },
+      "en": { "name": "Fruit Salad" },
+      "es": { "name": "Ensalada de Frutas" }
+    }
+  },
+  {
+    "id": "jus-citron",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Citron" },
+      "en": { "name": "Lemon" },
+      "es": { "name": "Limón" }
+    }
+  },
+  {
+    "id": "jus-citron-gingembre",
+    "category": "boissons",
+    "subcategory": "jus-de-fruits",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Citron Gingembre" },
+      "en": { "name": "Lemon Ginger" },
+      "es": { "name": "Limón y Jengibre" }
+    }
+  },
+  {
+    "id": "chaud-nespresso",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Nespresso" },
+      "en": { "name": "Nespresso" },
+      "es": { "name": "Nespresso" }
+    }
+  },
+  {
+    "id": "chaud-nespresso-lait",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 22,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Nespresso au Lait" },
+      "en": { "name": "Nespresso with Milk" },
+      "es": { "name": "Nespresso con Leche" }
+    }
+  },
+  {
+    "id": "chaud-cafe-separe",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Café Séparé" },
+      "en": { "name": "Separated Coffee (Milk on the side)" },
+      "es": { "name": "Café Separado (Leche aparte)" }
+    }
+  },
+  {
+    "id": "chaud-cafe-americain",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Café Américain" },
+      "en": { "name": "Americano Coffee" },
+      "es": { "name": "Café Americano" }
+    }
+  },
+  {
+    "id": "chaud-cafe-noir",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Café Noir" },
+      "en": { "name": "Black Coffee" },
+      "es": { "name": "Café Solo" }
+    }
+  },
+  {
+    "id": "chaud-cafe-italien",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Café Italien" },
+      "en": { "name": "Italian Coffee" },
+      "es": { "name": "Café Italiano" }
+    }
+  },
+  {
+    "id": "chaud-cafe-creme",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Café Crème" },
+      "en": { "name": "Coffee with Cream" },
+      "es": { "name": "Café con Crema" }
+    }
+  },
+  {
+    "id": "chaud-cappuccino",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Cappuccino" },
+      "en": { "name": "Cappuccino" },
+      "es": { "name": "Capuchino" }
+    }
+  },
+  {
+    "id": "chaud-colacao",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Colacao" },
+      "en": { "name": "Colacao (Hot Chocolate)" },
+      "es": { "name": "Colacao" }
+    }
+  },
+  {
+    "id": "chaud-lait-chaud",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Lait Chaud" },
+      "en": { "name": "Hot Milk" },
+      "es": { "name": "Leche Caliente" }
+    }
+  },
+  {
+    "id": "chaud-the-marocain",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Thé Marocain / Noir" },
+      "en": { "name": "Moroccan Tea / Black Tea" },
+      "es": { "name": "Té Marroquí / Té Negro" }
+    }
+  },
+  {
+    "id": "chaud-the-lait",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Thé au Lait" },
+      "en": { "name": "Tea with Milk" },
+      "es": { "name": "Té con Leche" }
+    }
+  },
+  {
+    "id": "chaud-the-gingembre",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Thé au Gingembre" },
+      "en": { "name": "Ginger Tea" },
+      "es": { "name": "Té de Jengibre" }
+    }
+  },
+  {
+    "id": "chaud-infusion",
+    "category": "boissons",
+    "subcategory": "boissons-chaudes",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Infusion" },
+      "en": { "name": "Herbal Tea" },
+      "es": { "name": "Infusión" }
+    }
+  },
+  {
+    "id": "froid-sodas",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Sodas Canettes" },
+      "en": { "name": "Canned Sodas" },
+      "es": { "name": "Refrescos en Lata" }
+    }
+  },
+  {
+    "id": "froid-oulmes",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Oulmès 25CL" },
+      "en": { "name": "Oulmès Sparkling Water 25CL" },
+      "es": { "name": "Agua con Gas Oulmès 25CL" }
+    }
+  },
+  {
+    "id": "froid-eau-15l",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Eau Minérale 1,5L" },
+      "en": { "name": "Mineral Water 1.5L" },
+      "es": { "name": "Agua Mineral 1,5L" }
+    }
+  },
+  {
+    "id": "froid-eau-demi",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 10,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Eau Minérale 1/2L" },
+      "en": { "name": "Mineral Water 1/2L" },
+      "es": { "name": "Agua Mineral 1/2L" }
+    }
+  },
+  {
+    "id": "froid-eau-33cl",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 5,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Eau Minérale 33CL" },
+      "en": { "name": "Mineral Water 33CL" },
+      "es": { "name": "Agua Mineral 33CL" }
+    }
+  },
+  {
+    "id": "froid-redbull",
+    "category": "boissons",
+    "subcategory": "boissons-fraiches",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Red Bull" },
+      "en": { "name": "Red Bull" },
+      "es": { "name": "Red Bull" }
+    }
+  },
+  {
+    "id": "oeuf-plat-normal",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Œuf au Plat Normal" },
+      "en": { "name": "Fried Egg (Regular)" },
+      "es": { "name": "Huevo Frito Normal" }
+    }
+  },
+  {
+    "id": "oeuf-plat-deux",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Deux Œufs au Plat" },
+      "en": { "name": "Two Fried Eggs" },
+      "es": { "name": "Dos Huevos Fritos" }
+    }
+  },
+  {
+    "id": "oeuf-plat-fromage",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Œuf au Plat avec Fromage" },
+      "en": { "name": "Fried Egg with Cheese" },
+      "es": { "name": "Huevo Frito con Queso" }
+    }
+  },
+  {
+    "id": "oeuf-plat-deux-fromage",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Deux Œufs au Plat avec Fromage" },
+      "en": { "name": "Two Fried Eggs with Cheese" },
+      "es": { "name": "Dos Huevos Fritos con Queso" }
+    }
+  },
+  {
+    "id": "oeuf-plat-deux-special",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Deux Œufs au Plat Spécial" },
+      "en": { "name": "Two Fried Eggs Special" },
+      "es": { "name": "Dos Huevos Fritos Especial" }
+    }
+  },
+  {
+    "id": "oeuf-tajine-khlie",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tajine, Œufs au Khlie" },
+      "en": { "name": "Tagine, Eggs with Khlie (Preserved Meat)" },
+      "es": { "name": "Tajine, Huevos con Khlie (Carne Conservada)" }
+    }
+  },
+  {
+    "id": "oeuf-tajine-2-khlie",
+    "category": "petit-dejeuner",
+    "subcategory": "oeuf-au-plat",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Tajine avec 2 Œufs au Khlie" },
+      "en": { "name": "Tagine with 2 Eggs & Khlie" },
+      "es": { "name": "Tajine con 2 Huevos y Khlie" }
+    }
+  },
+  {
+    "id": "croque-normal",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Croque Normal" },
+      "en": { "name": "Classic Croque" },
+      "es": { "name": "Croque Clásico" }
+    }
+  },
+  {
+    "id": "croque-monsieur",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Croque Monsieur" },
+      "en": { "name": "Croque Monsieur" },
+      "es": { "name": "Croque Monsieur" }
+    }
+  },
+  {
+    "id": "croque-madame",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Croque Madame" },
+      "en": { "name": "Croque Madame" },
+      "es": { "name": "Croque Madame" }
+    }
+  },
+  {
+    "id": "croque-pain-special",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pain Spécial" },
+      "en": { "name": "Special Bread" },
+      "es": { "name": "Pan Especial" }
+    }
+  },
+  {
+    "id": "croque-pain-farci",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pain Farci" },
+      "en": { "name": "Stuffed Bread" },
+      "es": { "name": "Pan Relleno" }
+    }
+  },
+  {
+    "id": "croque-pain-fromage",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pain au Fromage" },
+      "en": { "name": "Cheese Bread" },
+      "es": { "name": "Pan de Queso" }
+    }
+  },
+  {
+    "id": "croque-farci-assorti",
+    "category": "petit-dejeuner",
+    "subcategory": "croque",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Farci", "ingredients": "Baghrir, rghayef, harcha, meloui, pain cake" },
+      "en": { "name": "Stuffed Assortment", "ingredients": "Baghrir, rghayef, harcha, meloui, loaf cake" },
+      "es": { "name": "Variado Relleno", "ingredients": "Baghrir, rghayef, harcha, meloui, bizcocho" }
+    }
+  },
+  {
+    "id": "granola-bowl",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Granola Bowl", "ingredients": "Granola Maison aux Grains et Fruits Secs, Yaourt Fraise, et Fruits de saison" },
+      "en": { "name": "Granola Bowl", "ingredients": "Homemade Granola with Grains and Dried Fruits, Strawberry Yogurt, and Seasonal Fruits" },
+      "es": { "name": "Bol de Granola", "ingredients": "Granola Casera con Granos y Frutos Secos, Yogur de Fresa y Frutas de Temporada" }
+    }
+  },
+  {
+    "id": "toast-farci",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 15,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast Farci" },
+      "en": { "name": "Stuffed Toast" },
+      "es": { "name": "Tostada Rellena" }
+    }
+  },
+  {
+    "id": "toast-fromage",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 20,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast au Fromage" },
+      "en": { "name": "Cheese Toast" },
+      "es": { "name": "Tostada con Queso" }
+    }
+  },
+  {
+    "id": "toast-special",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast Spécial", "ingredients": "Œuf, Fromage Rouge, Dinde Fumée, Mortadella, Kiri" },
+      "en": { "name": "Special Toast", "ingredients": "Egg, Red Cheese, Smoked Turkey, Mortadella, Kiri cheese" },
+      "es": { "name": "Tostada Especial", "ingredients": "Huevo, Queso Rojo, Pavo Ahumado, Mortadela, Queso Kiri" }
+    }
+  },
+  {
+    "id": "toast-avocat-saumon",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast Avocat et Saumon" },
+      "en": { "name": "Avocado and Salmon Toast" },
+      "es": { "name": "Tostada de Aguacate y Salmón" }
+    }
+  },
+  {
+    "id": "toast-thon-tomates",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast Thon et Tomates" },
+      "en": { "name": "Tuna and Tomato Toast" },
+      "es": { "name": "Tostada de Atún y Tomate" }
+    }
+  },
+  {
+    "id": "toast-espagnol",
+    "category": "petit-dejeuner",
+    "subcategory": "toast-item",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Toast Espagnol" },
+      "en": { "name": "Spanish Toast" },
+      "es": { "name": "Tostada Española" }
+    }
+  },
+  {
+    "id": "omelette-nature",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 25,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Nature" },
+      "en": { "name": "Plain Omelet" },
+      "es": { "name": "Tortilla Francesa" }
+    }
+  },
+  {
+    "id": "omelette-fromage",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette au Fromage" },
+      "en": { "name": "Cheese Omelet" },
+      "es": { "name": "Tortilla de Queso" }
+    }
+  },
+  {
+    "id": "omelette-vegetarienne",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Végétarienne" },
+      "en": { "name": "Vegetarian Omelet" },
+      "es": { "name": "Tortilla Vegetariana" }
+    }
+  },
+  {
+    "id": "omelette-champignons",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette aux Champignons" },
+      "en": { "name": "Mushroom Omelet" },
+      "es": { "name": "Tortilla de Champiñones" }
+    }
+  },
+  {
+    "id": "omelette-espagnole",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Espagnole (Tortilla)" },
+      "en": { "name": "Spanish Omelet (Tortilla)" },
+      "es": { "name": "Tortilla Española" }
+    }
+  },
+  {
+    "id": "omelette-fromage-thon",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Fromage Thon" },
+      "en": { "name": "Cheese & Tuna Omelet" },
+      "es": { "name": "Tortilla de Queso y Atún" }
+    }
+  },
+  {
+    "id": "omelette-fromage-dinde",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Fromage et Dinde" },
+      "en": { "name": "Cheese & Turkey Omelet" },
+      "es": { "name": "Tortilla de Queso y Pavo" }
+    }
+  },
+  {
+    "id": "omelette-charcuteries",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 30,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Charcuteries" },
+      "en": { "name": "Deli Meat Omelet" },
+      "es": { "name": "Tortilla de Embutidos" }
+    }
+  },
+  {
+    "id": "mqila-marocaine",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 40,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Mqila Marocaine" },
+      "en": { "name": "Moroccan Mqila" },
+      "es": { "name": "Mqila Marroquí" }
+    }
+  },
+  {
+    "id": "omelette-crevettes",
+    "category": "petit-dejeuner",
+    "subcategory": "omelettes",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Omelette Crevettes" },
+      "en": { "name": "Shrimp Omelet" },
+      "es": { "name": "Tortilla de Gambas" }
+    }
+  },
+  {
+    "id": "pdj-espagnol",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Espagnol", "ingredients": "Pain Grillé, Tortilla, Fromage de Manchego, Thon, Fromage Blanc, Huile d'Olive, Tomate Râpée, Origan et l'Ail" },
+      "en": { "name": "Spanish Breakfast", "ingredients": "Toasted Bread, Tortilla, Manchego Cheese, Tuna, White Cheese, Olive Oil, Grated Tomato, Oregano and Garlic" },
+      "es": { "name": "Desayuno Español", "ingredients": "Pan Tostado, Tortilla, Queso Manchego, Atún, Queso Blanco, Aceite de Oliva, Tomate Rallado, Orégano y Ajo" }
+    }
+  },
+  {
+    "id": "pdj-pandy",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 55,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Pan Dy", "ingredients": "Boisson Chaude (Thé à la menthe ou Café), Croque, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Mini Jus d'orange et eau minérale" },
+      "en": { "name": "Pan Dy Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Croque, 2 Mini Pastries or 1 Large Pastry, Mini Orange Juice and Mineral Water" },
+      "es": { "name": "Desayuno Pan Dy", "ingredients": "Bebida Caliente (Té de Menta o Café), Croque, 2 Mini Bollerías o 1 Bollería Grande, Mini Zumo de Naranja y Agua Mineral" }
+    }
+  },
+  {
+    "id": "pdj-prestige",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 45,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Prestige", "ingredients": "Boisson Chaude (Thé à la Menthe ou café), Jus d'Orange, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Corbeille à pain, Miel, Confiture, Kiri, Beurre, Amlou et Eau Minérale" },
+      "en": { "name": "Prestige Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Orange Juice, 2 Mini Pastries or 1 Large Pastry, Bread Basket, Honey, Jam, Kiri, Butter, Amlou and Mineral Water" },
+      "es": { "name": "Desayuno Prestige", "ingredients": "Bebida Caliente (Té de Menta o Café), Zumo de Naranja, 2 Mini Bollerías o 1 Bollería Grande, Cesta de Pan, Miel, Mermelada, Kiri, Mantequilla, Amlou y Agua Mineral" }
+    }
+  },
+  {
+    "id": "pdj-beldi",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 50,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Beldi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Œufs Beldi, Olives, Fromage Beldi, Rghayef, Harcha, Huil d'Olive, Corbeille à Pain, Mini Jus d'Orange, eau Minérale" },
+      "en": { "name": "Beldi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Beldi Eggs, Olives, Beldi Cheese, Rghayef, Harcha, Olive Oil, Bread Basket, Mini Orange Juice, Mineral Water" },
+      "es": { "name": "Desayuno Beldi", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Huevos Beldi, Aceitunas, Queso Beldi, Rghayef, Harcha, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja, Agua Mineral" }
+    }
+  },
+  {
+    "id": "pdj-parisien",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 35,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Parisien", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Mini Viennoiseries, Mini Jus d'Orange" },
+      "en": { "name": "Parisian Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Mini Pastries, Mini Orange Juice" },
+      "es": { "name": "Desayuno Parisino", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Mini Bollerías, Mini Zumo de Naranja" }
+    }
+  },
+  {
+    "id": "pdj-fassi",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 60,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Fassi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), Tagine 2 Œufs au Khlie, Olives, Huile d'Olive, Corbeille à Pain, Mini Jus d'Orange et Eau minérale" },
+      "en": { "name": "Fassi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Tagine with 2 Eggs & Khlie, Olives, Olive Oil, Bread Basket, Mini Orange Juice and Mineral Water" },
+      "es": { "name": "Desayuno Fassi", "ingredients": "Bebida Caliente (Té de Menta o Café), Tajine de 2 Huevos con Khlie, Aceitunas, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja y Agua Mineral" }
+    }
+  },
+  {
+    "id": "pdj-healthy",
+    "category": "petit-dejeuner",
+    "subcategory": "petit-dejeuner",
+    "price": 65,
+    "image": "assets/images/placeholder.jpg",
+    "translations": {
+      "fr": { "name": "Petit Déjeuner Healthy", "ingredients": "Tartine de Pain Complet, Guacamole, Œuf Poché, Mini Granola aux Fruits Secs, Olive Noire, Huile d'Olive, Pain Grillé, Mini Jus d'Orange, Boisson Chaude au Choix" },
+      "en": { "name": "Healthy Breakfast", "ingredients": "Whole Wheat Toast, Guacamole, Poached Egg, Mini Granola with Dried Fruits, Black Olive, Olive Oil, Toasted Bread, Mini Orange Juice, Hot Drink of Choice" },
+      "es": { "name": "Desayuno Saludable", "ingredients": "Tostada de Pan Integral, Guacamole, Huevo Escalfado, Mini Granola con Frutos Secos, Aceituna Negra, Aceite de Oliva, Pan Tostado, Mini Zumo de Naranja, Bebida Caliente a Elegir" }
+    }
   }
 ]
