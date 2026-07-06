@@ -1,2594 +1,3065 @@
 [
   {
-    "id": "tacos-poulet",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Au Poulet" },
-      "en": { "name": "Chicken Tacos" },
-      "es": { "name": "Tacos de Pollo" }
-    }
-  },
-  {
-    "id": "tacos-viande-hachee",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos À la Viande Hachée" },
-      "en": { "name": "Minced Meat Tacos" },
-      "es": { "name": "Tacos de Carne Picada" }
-    }
-  },
-  {
-    "id": "tacos-cordon-bleu",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Cordon Bleu" },
-      "en": { "name": "Cordon Bleu Tacos" },
-      "es": { "name": "Tacos Cordon Bleu" }
-    }
-  },
-  {
-    "id": "tacos-nuggets",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Aux Nuggets" },
-      "en": { "name": "Nugget Tacos" },
-      "es": { "name": "Tacos con Nuggets" }
-    }
-  },
-  {
-    "id": "tacos-mixte",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Mixte" },
-      "en": { "name": "Mixed Tacos" },
-      "es": { "name": "Tacos Mixtos" }
-    }
-  },
-  {
-    "id": "tacos-fruits-de-mer",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Aux Fruits de Mer" },
-      "en": { "name": "Seafood Tacos" },
-      "es": { "name": "Tacos de Mariscos" }
-    }
-  },
-  {
-    "id": "tacos-crispy",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos Crispy" },
-      "en": { "name": "Crispy Tacos" },
-      "es": { "name": "Tacos Crujientes" }
-    }
-  },
-  {
-    "id": "tacos-sauce-fromagere",
-    "category": "fast-food",
-    "subcategory": "tacos",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tacos à la sauce Fromagère", "ingredients": "Poulet, viande hachée, nuggets (au choix)" },
-      "en": { "name": "Cheese Sauce Tacos", "ingredients": "Chicken, minced meat, or nuggets (your choice)" },
-      "es": { "name": "Tacos con Salsa de Queso", "ingredients": "Pollo, carne picada o nuggets (a elegir)" }
-    }
-  },
-  {
-    "id": "panini-poulet",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Au Poulet" },
-      "en": { "name": "Chicken Panini" },
-      "es": { "name": "Panini de Pollo" }
-    }
-  },
-  {
-    "id": "panini-viande-hachee",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini À La Viande Hachée" },
-      "en": { "name": "Minced Meat Panini" },
-      "es": { "name": "Panini de Carne Picada" }
-    }
-  },
-  {
-    "id": "panini-mixte",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Mixte" },
-      "en": { "name": "Mixed Panini" },
-      "es": { "name": "Panini Mixto" }
-    }
-  },
-  {
-    "id": "panini-saumon",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 55,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Au Saumon" },
-      "en": { "name": "Salmon Panini" },
-      "es": { "name": "Panini de Salmón" }
-    }
-  },
-  {
-    "id": "panini-fruits-de-mer",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Aux Fruits de Mer" },
-      "en": { "name": "Seafood Panini" },
-      "es": { "name": "Panini de Mariscos" }
-    }
-  },
-  {
-    "id": "panini-charcuterie",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Charcuterie" },
-      "en": { "name": "Deli Meat Panini" },
-      "es": { "name": "Panini de Embutidos" }
-    }
-  },
-  {
-    "id": "panini-thon",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini Au Thon" },
-      "en": { "name": "Tuna Panini" },
-      "es": { "name": "Panini de Atún" }
-    }
-  },
-  {
-    "id": "panini-4-fromages",
-    "category": "fast-food",
-    "subcategory": "panini",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panini 4 Fromages" },
-      "en": { "name": "4 Cheese Panini" },
-      "es": { "name": "Panini 4 Quesos" }
-    }
-  },
-  {
-    "id": "wrap-poulet",
-    "category": "fast-food",
-    "subcategory": "wrap",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Wrap Au Poulet" },
-      "en": { "name": "Chicken Wrap" },
-      "es": { "name": "Wrap de Pollo" }
-    }
-  },
-  {
-    "id": "wrap-viande-hachee",
-    "category": "fast-food",
-    "subcategory": "wrap",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Wrap À la Viande Hachée" },
-      "en": { "name": "Minced Meat Wrap" },
-      "es": { "name": "Wrap de Carne Picada" }
-    }
-  },
-  {
-    "id": "wrap-thon",
-    "category": "fast-food",
-    "subcategory": "wrap",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Wrap Au Thon" },
-      "en": { "name": "Tuna Wrap" },
-      "es": { "name": "Wrap de Atún" }
-    }
-  },
-  {
-    "id": "wrap-saumon-fume",
-    "category": "fast-food",
-    "subcategory": "wrap",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Wrap Au Saumon Fumé" },
-      "en": { "name": "Smoked Salmon Wrap" },
-      "es": { "name": "Wrap de Salmón Ahumado" }
-    }
-  },
-  {
-    "id": "sandwich-poulet",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich Au Poulet" },
-      "en": { "name": "Chicken Sandwich" },
-      "es": { "name": "Sándwich de Pollo" }
-    }
-  },
-  {
-    "id": "sandwich-viande-hachee",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich À La Viande Hachée" },
-      "en": { "name": "Minced Meat Sandwich" },
-      "es": { "name": "Sándwich de Carne Picada" }
-    }
-  },
-  {
-    "id": "sandwich-mixte",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich Mixte" },
-      "en": { "name": "Mixed Sandwich" },
-      "es": { "name": "Sándwich Mixto" }
-    }
-  },
-  {
-    "id": "sandwich-fruits-de-mer",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich Aux Fruits de Mer" },
-      "en": { "name": "Seafood Sandwich" },
-      "es": { "name": "Sándwich de Mariscos" }
-    }
-  },
-  {
-    "id": "sandwich-boeuf",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 55,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich Au Bœuf" },
-      "en": { "name": "Beef Sandwich" },
-      "es": { "name": "Sándwich de Ternera" }
-    }
-  },
-  {
-    "id": "sandwich-crispy",
-    "category": "fast-food",
-    "subcategory": "sandwich",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sandwich Crispy" },
-      "en": { "name": "Crispy Sandwich" },
-      "es": { "name": "Sándwich Crujiente" }
-    }
-  },
-  {
-    "id": "hamburger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Hamburger" },
-      "en": { "name": "Hamburger" },
-      "es": { "name": "Hamburguesa" }
-    }
-  },
-  {
-    "id": "egg-burger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Egg Burger" },
-      "en": { "name": "Egg Burger" },
-      "es": { "name": "Hamburguesa con Huevo" }
-    }
-  },
-  {
-    "id": "egg-cheese-burger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Egg Cheese Burger" },
-      "en": { "name": "Egg Cheese Burger" },
-      "es": { "name": "Hamburguesa con Huevo y Queso" }
-    }
-  },
-  {
-    "id": "double-cheese",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Double Cheese" },
-      "en": { "name": "Double Cheese" },
-      "es": { "name": "Doble Queso" }
-    }
-  },
-  {
-    "id": "luxe-burger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 70,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Luxe Burger" },
-      "en": { "name": "Luxury Burger" },
-      "es": { "name": "Hamburguesa de Lujo" }
-    }
-  },
-  {
-    "id": "crispy-burger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Crispy Burger" },
-      "en": { "name": "Crispy Burger" },
-      "es": { "name": "Hamburguesa Crujiente" }
-    }
-  },
-  {
-    "id": "chicken-burger",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Chicken Burger" },
-      "en": { "name": "Chicken Burger" },
-      "es": { "name": "Hamburguesa de Pollo" }
-    }
-  },
-  {
-    "id": "burger-royal",
-    "category": "fast-food",
-    "subcategory": "hamburgers",
-    "price": 70,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Burger Royal" },
-      "en": { "name": "Royal Burger" },
-      "es": { "name": "Hamburguesa Royal" }
-    }
-  },
-  {
-    "id": "pates-thon",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes Au Thon", "ingredients": "Spaghetti, tagliatelles ou penne" },
-      "en": { "name": "Tuna Pasta", "ingredients": "Spaghetti, tagliatelle, or penne" },
-      "es": { "name": "Pasta con Atún", "ingredients": "Espaguetis, tallarines o penne" }
-    }
-  },
-  {
-    "id": "pates-bolognaise",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes À la Bolognaise" },
-      "en": { "name": "Bolognese Pasta" },
-      "es": { "name": "Pasta a la Boloñesa" }
-    }
-  },
-  {
-    "id": "pates-fruits-de-mer",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 75,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes Aux Fruits de Mer" },
-      "en": { "name": "Seafood Pasta" },
-      "es": { "name": "Pasta de Mariscos" }
-    }
-  },
-  {
-    "id": "pates-saumon",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes Au saumon" },
-      "en": { "name": "Salmon Pasta" },
-      "es": { "name": "Pasta con Salmón" }
-    }
-  },
-  {
-    "id": "pates-moules",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes Aux Moules", "ingredients": "Sauce à l'Ail et fromage" },
-      "en": { "name": "Mussel Pasta", "ingredients": "Garlic sauce and cheese" },
-      "es": { "name": "Pasta con Mejillones", "ingredients": "Salsa de ajo y queso" }
-    }
-  },
-  {
-    "id": "penne-pesto",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Penne avec Pesto au Fromage" },
-      "en": { "name": "Penne with Cheese Pesto" },
-      "es": { "name": "Penne con Pesto y Queso" }
-    }
-  },
-  {
-    "id": "lasagne-bolognaise",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Lasagne à la Bolognaise" },
-      "en": { "name": "Bolognese Lasagna" },
-      "es": { "name": "Lasaña Boloñesa" }
-    }
-  },
-  {
-    "id": "pates-poulet",
-    "category": "italien",
-    "subcategory": "pates",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pâtes Au Poulet" },
-      "en": { "name": "Chicken Pasta" },
-      "es": { "name": "Pasta con Pollo" }
-    }
-  },
-  {
-    "id": "pasticcio-charcuterie",
-    "category": "italien",
-    "subcategory": "pasticcio",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pasticcio Charcuterie" },
-      "en": { "name": "Deli Meat Pasticcio" },
-      "es": { "name": "Pasticcio de Embutidos" }
-    }
-  },
-  {
-    "id": "pasticcio-poulet-champignons",
-    "category": "italien",
-    "subcategory": "pasticcio",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pasticcio Au Poulet et Champignons" },
-      "en": { "name": "Chicken & Mushroom Pasticcio" },
-      "es": { "name": "Pasticcio de Pollo y Champiñones" }
-    }
-  },
-  {
-    "id": "pasticcio-thon",
-    "category": "italien",
-    "subcategory": "pasticcio",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pasticcio Au Thon" },
-      "en": { "name": "Tuna Pasticcio" },
-      "es": { "name": "Pasticcio de Atún" }
-    }
-  },
-  {
-    "id": "pasticcio-viande-hachee",
-    "category": "italien",
-    "subcategory": "pasticcio",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pasticcio À la Viande Hachée" },
-      "en": { "name": "Minced Meat Pasticcio" },
-      "es": { "name": "Pasticcio de Carne Picada" }
-    }
-  },
-  {
-    "id": "pasticcio-pepperoni",
-    "category": "italien",
-    "subcategory": "pasticcio",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pasticcio Charcuterie Pepperoni" },
-      "en": { "name": "Pepperoni Pasticcio" },
-      "es": { "name": "Pasticcio de Pepperoni" }
-    }
-  },
-  {
-    "id": "risotto-fungo",
-    "category": "italien",
-    "subcategory": "risotto",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Risotto Fungo au Poulet et Champignons" },
-      "en": { "name": "Chicken & Mushroom Fungo Risotto" },
-      "es": { "name": "Risotto de Pollo y Champiñones" }
-    }
-  },
-  {
-    "id": "risotto-gambas",
-    "category": "italien",
-    "subcategory": "risotto",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Risotto aux Gambas" },
-      "en": { "name": "Prawn Risotto" },
-      "es": { "name": "Risotto con Gambas" }
-    }
-  },
-  {
-    "id": "risotto-manzo",
-    "category": "italien",
-    "subcategory": "risotto",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Risotto al Manzo (Bœuf)" },
-      "en": { "name": "Beef Risotto" },
-      "es": { "name": "Risotto de Ternera" }
-    }
-  },
-  {
-    "id": "pizza-margherita",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Margherita", "ingredients": "Sauce de tomate, fromage, olives noires" },
-      "en": { "name": "Margherita Pizza", "ingredients": "Tomato sauce, cheese, black olives" },
-      "es": { "name": "Pizza Margarita", "ingredients": "Salsa de tomate, queso, aceitunas negras" }
-    }
-  },
-  {
-    "id": "pizza-fruits-de-mer",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 75,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza aux Fruits de Mer", "ingredients": "Sauce de tomate, crevettes, calamars, champignons, surimi et moules" },
-      "en": { "name": "Seafood Pizza", "ingredients": "Tomato sauce, prawns, calamari, mushrooms, surimi, and mussels" },
-      "es": { "name": "Pizza de Mariscos", "ingredients": "Salsa de tomate, gambas, calamares, champiñones, surimi y mejillones" }
-    }
-  },
-  {
-    "id": "pizza-4-saisons",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza 4 Saisons", "ingredients": "Sauce de tomate, fromage, crevettes, thon, viande hachée, poulet" },
-      "en": { "name": "Four Seasons Pizza", "ingredients": "Tomato sauce, cheese, prawns, tuna, minced meat, chicken" },
-      "es": { "name": "Pizza 4 Estaciones", "ingredients": "Salsa de tomate, queso, gambas, atún, carne picada, pollo" }
-    }
-  },
-  {
-    "id": "pizza-thon",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 55,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Thon", "ingredients": "Sauce tomate, fromage, oignons, champignons" },
-      "en": { "name": "Tuna Pizza", "ingredients": "Tomato sauce, cheese, onions, mushrooms" },
-      "es": { "name": "Pizza de Atún", "ingredients": "Salsa de tomate, queso, cebollas, champiñones" }
-    }
-  },
-  {
-    "id": "pizza-vegetarienne",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Végétarienne", "ingredients": "Sauce tomate, fromage, poivron jaune, poivron rouge, oignons, tomate, maïs et olives noires" },
-      "en": { "name": "Vegetarian Pizza", "ingredients": "Tomato sauce, cheese, yellow pepper, red pepper, onions, tomato, corn, and black olives" },
-      "es": { "name": "Pizza Vegetariana", "ingredients": "Salsa de tomate, queso, pimiento amarillo, pimiento rojo, cebollas, tomate, maíz y aceitunas negras" }
-    }
-  },
-  {
-    "id": "pizza-napolitaine",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Napolitaine", "ingredients": "Sauce de tomate, fromage, câpres, anchois, champignons, oignons, olives noires" },
-      "en": { "name": "Neapolitan Pizza", "ingredients": "Tomato sauce, cheese, capers, anchovies, mushrooms, onions, black olives" },
-      "es": { "name": "Pizza Napolitana", "ingredients": "Salsa de tomate, queso, alcaparras, anchoas, champiñones, cebollas, aceitunas negras" }
-    }
-  },
-  {
-    "id": "pizza-royale",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Royale", "ingredients": "Sauce tomate, crevettes, calamar, moules, thon, poivrons jaunes, poivron vert, et olives noires" },
-      "en": { "name": "Royal Pizza", "ingredients": "Tomato sauce, prawns, calamari, mussels, tuna, yellow peppers, green pepper, and black olives" },
-      "es": { "name": "Pizza Royal", "ingredients": "Salsa de tomate, gambas, calamar, mejillones, atún, pimientos amarillos, pimiento verde y aceitunas negras" }
-    }
-  },
-  {
-    "id": "pizza-pandy",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 85,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Pandy", "ingredients": "Sauce tomate, fromage, saumon fumé, champignons" },
-      "en": { "name": "Pandy Pizza", "ingredients": "Tomato sauce, cheese, smoked salmon, mushrooms" },
-      "es": { "name": "Pizza Pandy", "ingredients": "Salsa de tomate, queso, salmón ahumado, champiñones" }
-    }
-  },
-  {
-    "id": "pizza-bolognaise",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Bolognaise", "ingredients": "Sauce de tomate, viande hachée et fromage" },
-      "en": { "name": "Bolognese Pizza", "ingredients": "Tomato sauce, minced meat, and cheese" },
-      "es": { "name": "Pizza Boloñesa", "ingredients": "Salsa de tomate, carne picada y queso" }
-    }
-  },
-  {
-    "id": "pizza-pepperoni",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 70,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Pepperoni", "ingredients": "Sauce de tomate, pepperoni et fromage" },
-      "en": { "name": "Pepperoni Pizza", "ingredients": "Tomato sauce, pepperoni, and cheese" },
-      "es": { "name": "Pizza de Pepperoni", "ingredients": "Salsa de tomate, pepperoni y queso" }
-    }
-  },
-  {
-    "id": "pizza-alfredo",
-    "category": "italien",
-    "subcategory": "pizza",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pizza Alfredo (Poulet)", "ingredients": "Sauce tomate, fromage, champignons, poulet" },
-      "en": { "name": "Alfredo Pizza (Chicken)", "ingredients": "Tomato sauce, cheese, mushrooms, chicken" },
-      "es": { "name": "Pizza Alfredo (Pollo)", "ingredients": "Salsa de tomate, queso, champiñones, pollo" }
-    }
-  },
-  {
-    "id": "soupe-poisson",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Soupe de poisson" },
-      "en": { "name": "Fish Soup" },
-      "es": { "name": "Sopa de Pescado" }
-    }
-  },
-  {
-    "id": "soupe-legumes",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Soupe de Légumes" },
-      "en": { "name": "Vegetable Soup" },
-      "es": { "name": "Sopa de Verduras" }
-    }
-  },
-  {
-    "id": "gratin-poulet",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Gratin de Poulet" },
-      "en": { "name": "Chicken Gratin" },
-      "es": { "name": "Gratinado de Pollo" }
-    }
-  },
-  {
-    "id": "toasts-saumon",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toasts au Saumon" },
-      "en": { "name": "Salmon Toasts" },
-      "es": { "name": "Tostadas de Salmón" }
-    }
-  },
-  {
-    "id": "toasts-thon",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toasts au Thon" },
-      "en": { "name": "Tuna Toasts" },
-      "es": { "name": "Tostadas de Atún" }
-    }
-  },
-  {
-    "id": "batata-bravas",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Batata Bravas" },
-      "en": { "name": "Patatas Bravas" },
-      "es": { "name": "Patatas Bravas" }
-    }
-  },
-  {
-    "id": "chicken-crispy",
-    "category": "entrees",
-    "subcategory": "entrees-chaudes",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Chicken Crispy" },
-      "en": { "name": "Crispy Chicken" },
-      "es": { "name": "Pollo Crujiente" }
-    }
-  },
-  {
-    "id": "salade-nicoise",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Niçoise", "ingredients": "Pomme de terre, carotte, haricots verts, thon, anchois, œufs, laitue" },
-      "en": { "name": "Niçoise Salad", "ingredients": "Potato, carrot, green beans, tuna, anchovies, eggs, lettuce" },
-      "es": { "name": "Ensalada Niçoise", "ingredients": "Patata, zanahoria, judías verdes, atún, anchoas, huevos, lechuga" }
-    }
-  },
-  {
-    "id": "salade-marocaine",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Marocaine", "ingredients": "Laitue, tomate, thon, maïs, olives noirs" },
-      "en": { "name": "Moroccan Salad", "ingredients": "Lettuce, tomato, tuna, corn, black olives" },
-      "es": { "name": "Ensalada Marroquí", "ingredients": "Lechuga, tomate, atún, maíz, aceitunas negras" }
-    }
-  },
-  {
-    "id": "salade-cesar",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade César", "ingredients": "Laitue, fromage, croûtons de pain, sauce césar, tomate, poulet mariné" },
-      "en": { "name": "Caesar Salad", "ingredients": "Lettuce, cheese, croutons, Caesar dressing, tomato, marinated chicken" },
-      "es": { "name": "Ensalada César", "ingredients": "Lechuga, queso, picatostes, salsa césar, tomate, pollo marinado" }
-    }
-  },
-  {
-    "id": "salade-russe",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Russe", "ingredients": "Pomme de terre, carotte, petits pois, thon, œufs" },
-      "en": { "name": "Russian Salad", "ingredients": "Potato, carrot, green peas, tuna, eggs" },
-      "es": { "name": "Ensaladilla Rusa", "ingredients": "Patata, zanahoria, guisantes, atún, huevos" }
-    }
-  },
-  {
-    "id": "salade-pecheur",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Pêcheur", "ingredients": "Laitue, crevette, moules, calamar, surimi, thon" },
-      "en": { "name": "Fisherman's Salad", "ingredients": "Lettuce, prawns, mussels, calamari, surimi, tuna" },
-      "es": { "name": "Ensalada Marinera", "ingredients": "Lechuga, gambas, mejillones, calamar, surimi, atún" }
-    }
-  },
-  {
-    "id": "salade-italienne",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Italienne", "ingredients": "Penne, thon, maïs, poivron mix, fromage rouge" },
-      "en": { "name": "Italian Salad", "ingredients": "Penne, tuna, corn, mixed peppers, red cheese" },
-      "es": { "name": "Ensalada Italiana", "ingredients": "Penne, atún, maíz, mezcla de pimientos, queso rojo" }
-    }
-  },
-  {
-    "id": "salade-pandy",
-    "category": "entrees",
-    "subcategory": "salade",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade Pandy", "ingredients": "Mangue, ananas, maïs, crevette, riz, haricot vert, avocat, sauce chef" },
-      "en": { "name": "Pandy Salad", "ingredients": "Mango, pineapple, corn, prawns, rice, green beans, avocado, chef's sauce" },
-      "es": { "name": "Ensalada Pandy", "ingredients": "Mango, piña, maíz, gambas, arroz, judías verdes, aguacate, salsa del chef" }
-    }
-  },
-  {
-    "id": "filet-boeuf",
-    "category": "plats",
-    "subcategory": "viandes",
-    "price": 140,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Filet de Bœuf avec sauce aux champignons", "ingredients": "Servi avec deux accompagnements au choix: riz, légumes de saison, frites, potatoes" },
-      "en": { "name": "Beef Fillet with Mushroom Sauce", "ingredients": "Served with two side dishes of choice: rice, seasonal vegetables, fries, wedges" },
-      "es": { "name": "Filete de Ternera con Salsa de Champiñones", "ingredients": "Servido con dos guarniciones a elegir: arroz, verduras de temporada, patatas fritas, patatas gajo" }
-    }
-  },
-  {
-    "id": "brochettes-boeuf",
-    "category": "plats",
-    "subcategory": "viandes",
-    "price": 100,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Brochettes de Bœuf", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Beef Skewers", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Pinchos de Ternera", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "emince-boeuf",
-    "category": "plats",
-    "subcategory": "viandes",
-    "price": 110,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Émincé de Bœuf", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Sliced Beef", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Tiras de Ternera", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "brochettes-viande-hachee",
-    "category": "plats",
-    "subcategory": "viandes",
-    "price": 90,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Brochettes de Viande Hachée", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Minced Meat Skewers", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Pinchos de Carne Picada", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "emince-poulet",
-    "category": "plats",
-    "subcategory": "volailles",
-    "price": 85,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Émincé de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Sliced Chicken", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Tiras de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "brochettes-poulet",
-    "category": "plats",
-    "subcategory": "volailles",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Brochettes de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Chicken Skewers", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Pinchos de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "escalopes-milanaise",
-    "category": "plats",
-    "subcategory": "volailles",
-    "price": 85,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Escalopes de poulet à la Milanaise", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Chicken Escalope Milanese", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Escalope de Pollo a la Milanesa", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "spirale-poulet",
-    "category": "plats",
-    "subcategory": "volailles",
-    "price": 80,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Spirale de Poulet", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Chicken Spiral", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Espiral de Pollo", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "poulet-parmigiana",
-    "category": "plats",
-    "subcategory": "volailles",
-    "price": 90,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Poulet Parmigiana", "ingredients": "Servi avec deux accompagnements au choix" },
-      "en": { "name": "Chicken Parmigiana", "ingredients": "Served with two side dishes of choice" },
-      "es": { "name": "Pollo a la Parmesana", "ingredients": "Servido con dos guarniciones a elegir" }
-    }
-  },
-  {
-    "id": "espadon-champignon",
-    "category": "plats",
-    "subcategory": "poissons",
-    "price": 120,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Espadon à la Crème Champignon" },
-      "en": { "name": "Swordfish in Mushroom Cream Sauce" },
-      "es": { "name": "Pez Espada con Crema de Champiñones" }
-    }
-  },
-  {
-    "id": "saint-pierre-champignon",
-    "category": "plats",
-    "subcategory": "poissons",
-    "price": 110,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Saint-Pierre à la Crème Champignon" },
-      "en": { "name": "John Dory in Mushroom Cream Sauce" },
-      "es": { "name": "Pez de San Pedro con Crema de Champiñones" }
-    }
-  },
-  {
-    "id": "saumon-champignon",
-    "category": "plats",
-    "subcategory": "poissons",
-    "price": 130,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pavé de saumon à la Crème Champignon" },
-      "en": { "name": "Salmon Steak in Mushroom Cream Sauce" },
-      "es": { "name": "Lomo de Salmón con Crema de Champiñones" }
-    }
-  },
-  {
-    "id": "pil-pil-ajillo",
-    "category": "plats",
-    "subcategory": "poissons",
-    "price": 75,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pil Pil al Ajillo" },
-      "en": { "name": "Garlic Pil Pil" },
-      "es": { "name": "Pil Pil al Ajillo" }
-    }
-  },
-  {
-    "id": "poisson-rigamonte",
-    "category": "plats",
-    "subcategory": "poissons",
-    "price": 120,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Poisson Rigamonte" },
-      "en": { "name": "Rigamonte Fish" },
-      "es": { "name": "Pescado Rigamonte" }
-    }
-  },
-  {
-    "id": "crepe-fromage",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 30,
-    "image": "assets/images/CREP salee/7.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Fromage" },
-      "en": { "name": "Cheese Crepe" },
-      "es": { "name": "Crepe de Queso" }
-    }
-  },
-  {
-    "id": "crepe-dinde-fumee",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 35,
-    "image": "assets/images/CREP salee/1.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Dinde Fumée" },
-      "en": { "name": "Smoked Turkey Crepe" },
-      "es": { "name": "Crepe de Pavo Ahumado" }
-    }
-  },
-  {
-    "id": "crepe-poulet-champignons",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 40,
-    "image": "assets/images/CREP salee/2.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Poulet et Champignons" },
-      "en": { "name": "Chicken & Mushroom Crepe" },
-      "es": { "name": "Crepe de Pollo y Champiñones" }
-    }
-  },
-  {
-    "id": "crepe-viande-hachee",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 40,
-    "image": "assets/images/CREP salee/3.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Viande Hachée" },
-      "en": { "name": "Minced Meat Crepe" },
-      "es": { "name": "Crepe de Carne Picada" }
-    }
-  },
-  {
-    "id": "crepe-crevettes",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 50,
-    "image": "assets/images/CREP salee/4.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Crevettes" },
-      "en": { "name": "Prawn Crepe" },
-      "es": { "name": "Crepe de Gambas" }
-    }
-  },
-  {
-    "id": "crepe-vegetarien",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 35,
-    "image": "assets/images/CREP salee/5.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Végétarienne" },
-      "en": { "name": "Vegetarian Crepe" },
-      "es": { "name": "Crepe Vegetariana" }
-    }
-  },
-  {
-    "id": "crepe-thon",
-    "category": "desserts",
-    "subcategory": "crepes-salees",
-    "price": 35,
-    "image": "assets/images/CREP salee/6.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Thon" },
-      "en": { "name": "Tuna Crepe" },
-      "es": { "name": "Crepe de Atún" }
-    }
-  },
-  {
-    "id": "crepe-nature",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 20,
-    "image": "assets/images/crep sucre/1.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Nature" },
-      "en": { "name": "Plain Crepe" },
-      "es": { "name": "Crepe Natural" }
-    }
-  },
-  {
-    "id": "crepe-au-sucre",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 25,
-    "image": "assets/images/crep sucre/2.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe au Sucre" },
-      "en": { "name": "Sugar Crepe" },
-      "es": { "name": "Crepe con Azúcar" }
-    }
-  },
-  {
-    "id": "crepe-nutella",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 30,
-    "image": "assets/images/crep sucre/3.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Nutella" },
-      "en": { "name": "Nutella Crepe" },
-      "es": { "name": "Crepe de Nutella" }
-    }
-  },
-  {
-    "id": "crepe-nutella-banane",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 35,
-    "image": "assets/images/crep sucre/4.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Nutella et Banane" },
-      "en": { "name": "Nutella & Banana Crepe" },
-      "es": { "name": "Crepe de Nutella y Plátano" }
-    }
-  },
-  {
-    "id": "crepe-pistache",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 40,
-    "image": "assets/images/crep sucre/5.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Pistache" },
-      "en": { "name": "Pistachio Crepe" },
-      "es": { "name": "Crepe de Pistacho" }
-    }
-  },
-  {
-    "id": "crepe-amlou-miel",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 35,
-    "image": "assets/images/crep sucre/6.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Amlou ou Miel" },
-      "en": { "name": "Amlou or Honey Crepe" },
-      "es": { "name": "Crepe de Amlou o Miel" }
-    }
-  },
-  {
-    "id": "crepe-dubai",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 45,
-    "image": "assets/images/crep sucre/7.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Dubaï", "ingredients": "Nutella, pistache, konafa" },
-      "en": { "name": "Dubai Crepe", "ingredients": "Nutella, pistachio, knafeh" },
-      "es": { "name": "Crepe Dubái", "ingredients": "Nutella, pistacho, knafeh" }
-    }
-  },
-  {
-    "id": "crepe-brazilian",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 40,
-    "image": "assets/images/crep sucre/8.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Brazilian", "ingredients": "Nutella, banane, topping caramel, crème Chantilly" },
-      "en": { "name": "Brazilian Crepe", "ingredients": "Nutella, banana, caramel topping, whipped cream" },
-      "es": { "name": "Crepe Brasileño", "ingredients": "Nutella, plátano, sirope de caramelo, nata montada" }
-    }
-  },
-  {
-    "id": "maison-pandy",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 55,
-    "image": "assets/images/crep sucre/9.jpg",
-    "translations": {
-      "fr": { "name": "Maison Pandy", "ingredients": "Pistache, Nutella, boule de glace au choix, banane, topping chocolat" },
-      "en": { "name": "Pandy House", "ingredients": "Pistachio, Nutella, scoop of ice cream of choice, banana, chocolate topping" },
-      "es": { "name": "Especial Casa Pandy", "ingredients": "Pistacho, Nutella, bola de helado a elegir, plátano, sirope de chocolate" }
-    }
-  },
-  {
-    "id": "crepe-assortiment",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 45,
-    "image": "assets/images/crep sucre/10.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Gourmande", "ingredients": "Lotus, caramel, Oreo, kinder Bueno, KitKat" },
-      "en": { "name": "Gourmet Crepe", "ingredients": "Lotus, caramel, Oreo, Kinder Bueno, KitKat" },
-      "es": { "name": "Crepe Gourmet", "ingredients": "Lotus, caramelo, Oreo, Kinder Bueno, KitKat" }
-    }
-  },
-  {
-    "id": "crepe-royal",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 60,
-    "image": "assets/images/crep sucre/10.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Royal", "ingredients": "Nutella, Oreo, kinder Bueno, banane, boule de glace, crème Chantilly" },
-      "en": { "name": "Royal Crepe", "ingredients": "Nutella, Oreo, Kinder Bueno, banana, scoop of ice cream, whipped cream" },
-      "es": { "name": "Crepe Real", "ingredients": "Nutella, Oreo, Kinder Bueno, plátano, bola de helado, nata montada" }
-    }
-  },
-  {
-    "id": "crepe-tropical",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 55,
-    "image": "assets/images/crep sucre/11.jpg",
-    "translations": {
-      "fr": { "name": "Crêpe Tropical", "ingredients": "Fruits de saison, topping tropical, crème Chantilly" },
-      "en": { "name": "Tropical Crepe", "ingredients": "Seasonal fruits, tropical topping, whipped cream" },
-      "es": { "name": "Crepe Tropical", "ingredients": "Frutas de temporada, sirope tropical, nata montada" }
-    }
-  },
-  {
-    "id": "croissant-glace",
-    "category": "desserts",
-    "subcategory": "crepes-sucrees",
-    "price": 35,
-    "image": "assets/images/crep sucre/12.jpg",
-    "translations": {
-      "fr": { "name": "Croissant Glacé", "ingredients": "Boule de glace au choix" },
-      "en": { "name": "Ice Cream Croissant", "ingredients": "Scoop of ice cream of choice" },
-      "es": { "name": "Croissant con Helado", "ingredients": "Bola de helado a elegir" }
-    }
-  },
-  {
-    "id": "ice-coffee",
-    "category": "boissons",
-    "subcategory": "ice-coffee",
-    "price": 35,
-    "image": "assets/images/menu 2/1.jpg",
-    "translations": {
-      "fr": { "name": "Ice Coffee" },
-      "en": { "name": "Ice Coffee" },
-      "es": { "name": "Café Helado" }
-    }
-  },
-  {
-    "id": "ice-coffee-latte",
-    "category": "boissons",
-    "subcategory": "ice-coffee",
-    "price": 35,
-    "image": "assets/images/menu 2/2.jpg",
-    "translations": {
-      "fr": { "name": "Ice Coffee Latte" },
-      "en": { "name": "Iced Coffee Latte" },
-      "es": { "name": "Café Latte Helado" }
-    }
-  },
-  {
-    "id": "ice-coconut-latte",
-    "category": "boissons",
-    "subcategory": "ice-coffee",
-    "price": 40,
-    "image": "assets/images/menu 2/3.jpg",
-    "translations": {
-      "fr": { "name": "Ice Coconut Latte" },
-      "en": { "name": "Iced Coconut Latte" },
-      "es": { "name": "Café Latte de Coco Helado" }
-    }
-  },
-  {
-    "id": "ice-tea-citron",
-    "category": "boissons",
-    "subcategory": "ice-tea",
-    "price": 35,
-    "image": "assets/images/menu 2/4.jpg",
-    "translations": {
-      "fr": { "name": "Ice Tea Citron" },
-      "en": { "name": "Lemon Iced Tea" },
-      "es": { "name": "Té Helado de Limón" }
-    }
-  },
-  {
-    "id": "ice-tea-peche",
-    "category": "boissons",
-    "subcategory": "ice-tea",
-    "price": 35,
-    "image": "assets/images/menu 2/5.jpg",
-    "translations": {
-      "fr": { "name": "Ice Tea Pêche" },
-      "en": { "name": "Peach Iced Tea" },
-      "es": { "name": "Té Helado de Melocotón" }
-    }
-  },
-  {
-    "id": "ice-tea-fruits-rouges",
-    "category": "boissons",
-    "subcategory": "ice-tea",
-    "price": 40,
-    "image": "assets/images/menu 2/6.jpg",
-    "translations": {
-      "fr": { "name": "Ice Tea Fruits Rouges" },
-      "en": { "name": "Red Fruits Iced Tea" },
-      "es": { "name": "Té Helado de Frutos Rojos" }
-    }
-  },
-  {
-    "id": "mojito-virgin",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 35,
-    "image": "assets/images/menu 2/8.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Virgin" },
-      "en": { "name": "Virgin Mojito" },
-      "es": { "name": "Mojito Clásico (Sin Alcohol)" }
-    }
-  },
-  {
-    "id": "mojito-green",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 40,
-    "image": "assets/images/menu 2/9.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Green" },
-      "en": { "name": "Green Mojito" },
-      "es": { "name": "Mojito Verde" }
-    }
-  },
-  {
-    "id": "mojito-red",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 40,
-    "image": "assets/images/menu 2/10.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Red" },
-      "en": { "name": "Red Mojito" },
-      "es": { "name": "Mojito Rojo" }
-    }
-  },
-  {
-    "id": "mojito-blue",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 40,
-    "image": "assets/images/menu 2/11.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Blue" },
-      "en": { "name": "Blue Mojito" },
-      "es": { "name": "Mojito Azul" }
-    }
-  },
-  {
-    "id": "mojito-pina-colada",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 45,
-    "image": "assets/images/menu 2/12.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Piña Colada" },
-      "en": { "name": "Piña Colada Mojito" },
-      "es": { "name": "Mojito Piña Colada" }
-    }
-  },
-  {
-    "id": "mojito-energetique",
-    "category": "boissons",
-    "subcategory": "mojitos-virgin",
-    "price": 50,
-    "image": "assets/images/menu 2/13.jpg",
-    "translations": {
-      "fr": { "name": "Mojito Énergétique" },
-      "en": { "name": "Energy Mojito" },
-      "es": { "name": "Mojito Energético" }
-    }
-  },
-  {
-    "id": "smoothie-mangue",
-    "category": "boissons",
-    "subcategory": "smoothies",
-    "price": 40,
-    "image": "assets/images/menu 2/14.jpg",
-    "translations": {
-      "fr": { "name": "Smoothie Mangue" },
-      "en": { "name": "Mango Smoothie" },
-      "es": { "name": "Smoothie de Mango" }
-    }
-  },
-  {
-    "id": "smoothie-fraise",
-    "category": "boissons",
-    "subcategory": "smoothies",
-    "price": 40,
-    "image": "assets/images/menu 2/15.jpg",
-    "translations": {
-      "fr": { "name": "Smoothie Fraise" },
-      "en": { "name": "Strawberry Smoothie" },
-      "es": { "name": "Smoothie de Fresa" }
-    }
-  },
-  {
-    "id": "smoothie-ananas",
-    "category": "boissons",
-    "subcategory": "smoothies",
-    "price": 45,
-    "image": "assets/images/menu 2/16.jpg",
-    "translations": {
-      "fr": { "name": "Smoothie Ananas" },
-      "en": { "name": "Pineapple Smoothie" },
-      "es": { "name": "Smoothie de Piña" }
-    }
-  },
-  {
-    "id": "smoothie-flower",
-    "category": "boissons",
-    "subcategory": "smoothies",
-    "price": 45,
-    "image": "assets/images/menu 2/17.jpg",
-    "translations": {
-      "fr": { "name": "Smoothie Flower" },
-      "en": { "name": "Flower Smoothie" },
-      "es": { "name": "Smoothie Flower" }
-    }
-  },
-  {
-    "id": "milkshake-fraise",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 40,
-    "image": "assets/images/milkshake/2.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Fraise" },
-      "en": { "name": "Strawberry Milkshake" },
-      "es": { "name": "Batido de Fresa" }
-    }
-  },
-  {
-    "id": "milkshake-chocolat",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 40,
-    "image": "assets/images/milkshake/3.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Chocolat" },
-      "en": { "name": "Chocolate Milkshake" },
-      "es": { "name": "Batido de Chocolate" }
-    }
-  },
-  {
-    "id": "milkshake-vanille",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 35,
-    "image": "assets/images/milkshake/4.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Vanille" },
-      "en": { "name": "Vanilla Milkshake" },
-      "es": { "name": "Batido de Vainilla" }
-    }
-  },
-  {
-    "id": "milkshake-yaourt",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 40,
-    "image": "assets/images/milkshake/5.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Yaourt" },
-      "en": { "name": "Yogurt Milkshake" },
-      "es": { "name": "Batido de Yogur" }
-    }
-  },
-  {
-    "id": "milkshake-citron",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 35,
-    "image": "assets/images/milkshake/7.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Citron" },
-      "en": { "name": "Lemon Milkshake" },
-      "es": { "name": "Batido de Limón" }
-    }
-  },
-  {
-    "id": "milkshake-pistache",
-    "category": "boissons",
-    "subcategory": "milkshakes-speciaux",
-    "price": 50,
-    "image": "assets/images/milkshake/8.jpg",
-    "translations": {
-      "fr": { "name": "Milkshake Pistache" },
-      "en": { "name": "Pistachio Milkshake" },
-      "es": { "name": "Batido de Pistacho" }
-    }
-  },
-  {
-    "id": "coupe-sorbets",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/1.jpg",
-    "translations": {
-      "fr": { "name": "Coupe de Sorbets", "ingredients": "Fraise, citron et crème Chantilly" },
-      "en": { "name": "Sorbet Cup", "ingredients": "Strawberry, lemon and whipped cream" },
-      "es": { "name": "Copa de Sorbetes", "ingredients": "Fresa, limón y nata montada" }
-    }
-  },
-  {
-    "id": "coupe-enfants",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/2.jpg",
-    "translations": {
-      "fr": { "name": "Coupe Enfants", "ingredients": "Vanille, fraise, citron et crème Chantilly" },
-      "en": { "name": "Kids Cup", "ingredients": "Vanilla, strawberry, lemon and whipped cream" },
-      "es": { "name": "Copa Infantil", "ingredients": "Vainilla, fresa, limón y nata montada" }
-    }
-  },
-  {
-    "id": "coupe-pan-dy",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/3.jpg",
-    "translations": {
-      "fr": { "name": "Coupe Pan Dy", "ingredients": "Yaourt, fraise, citron et crème Chantilly" },
-      "en": { "name": "Pan Dy Cup", "ingredients": "Yogurt, strawberry, lemon and whipped cream" },
-      "es": { "name": "Copa Pan Dy", "ingredients": "Yogur, fresa, limón y nata montada" }
-    }
-  },
-  {
-    "id": "coupe-split",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/4.jpg",
-    "translations": {
-      "fr": { "name": "Coupe Split", "ingredients": "Chocolat, vanille, pistache et crème Chantilly" },
-      "en": { "name": "Split Cup", "ingredients": "Chocolate, vanilla, pistachio and whipped cream" },
-      "es": { "name": "Copa Split", "ingredients": "Chocolate, vainilla, pistacho y nata montada" }
-    }
-  },
-  {
-    "id": "coupe-valor",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/5.jpg",
-    "translations": {
-      "fr": { "name": "Coupe Valor", "ingredients": "Vanille et crème Chantilly" },
-      "en": { "name": "Valor Cup", "ingredients": "Vanilla and whipped cream" },
-      "es": { "name": "Copa Valor", "ingredients": "Vainilla y nata montada" }
-    }
-  },
-  {
-    "id": "coupe-med",
-    "category": "desserts",
-    "subcategory": "glaces",
-    "price": 40,
-    "image": "assets/images/glaces/6.jpg",
-    "translations": {
-      "fr": { "name": "Coupe Med", "ingredients": "Yaourt, citron et crème Chantilly" },
-      "en": { "name": "Med Cup", "ingredients": "Yogurt, lemon and whipped cream" },
-      "es": { "name": "Copa Med", "ingredients": "Yogur, limón y nata montada" }
-    }
-  },
-  {
-    "id": "jus-fruit-saison",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Fruit de Saison" },
-      "en": { "name": "Seasonal Fruit" },
-      "es": { "name": "Fruta de Temporada" }
-    }
-  },
-  {
-    "id": "jus-ananas-presse",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Ananas Pressé" },
-      "en": { "name": "Fresh Squeezed Pineapple" },
-      "es": { "name": "Piña Exprimida" }
-    }
-  },
-  {
-    "id": "jus-pomme-pressee",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pomme Pressée" },
-      "en": { "name": "Fresh Squeezed Apple" },
-      "es": { "name": "Manzana Exprimida" }
-    }
-  },
-  {
-    "id": "jus-carotte-pressee",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Carotte Pressée" },
-      "en": { "name": "Fresh Squeezed Carrot" },
-      "es": { "name": "Zanahoria Exprimida" }
-    }
-  },
-  {
-    "id": "jus-poire-pressee",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Poire Pressée" },
-      "en": { "name": "Fresh Squeezed Pear" },
-      "es": { "name": "Pera Exprimida" }
-    }
-  },
-  {
-    "id": "jus-pomme-ananas",
-    "category": "boissons",
-    "subcategory": "jus-presses",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pomme Ananas" },
-      "en": { "name": "Apple & Pineapple" },
-      "es": { "name": "Manzana y Piña" }
-    }
-  },
-  {
-    "id": "jus-tropical",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Tropical - Mangue & Ananas" },
-      "en": { "name": "Tropical - Mango & Pineapple" },
-      "es": { "name": "Tropical - Mango y Piña" }
-    }
-  },
-  {
-    "id": "jus-banane",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Banane" },
-      "en": { "name": "Banana" },
-      "es": { "name": "Plátano" }
-    }
-  },
-  {
-    "id": "jus-pomme",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pomme" },
-      "en": { "name": "Apple" },
-      "es": { "name": "Manzana" }
-    }
-  },
-  {
-    "id": "jus-avocat",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Avocat" },
-      "en": { "name": "Avocado" },
-      "es": { "name": "Aguacate" }
-    }
-  },
-  {
-    "id": "jus-ananas",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Ananas" },
-      "en": { "name": "Pineapple" },
-      "es": { "name": "Piña" }
-    }
-  },
-  {
-    "id": "jus-fraise",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Fraise" },
-      "en": { "name": "Strawberry" },
-      "es": { "name": "Fresa" }
-    }
-  },
-  {
-    "id": "jus-mangue",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Mangue" },
-      "en": { "name": "Mango" },
-      "es": { "name": "Mango" }
-    }
-  },
-  {
-    "id": "jus-peche",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pêche" },
-      "en": { "name": "Peach" },
-      "es": { "name": "Melocotón" }
-    }
-  },
-  {
-    "id": "jus-dragon",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Dragon" },
-      "en": { "name": "Dragon Fruit" },
-      "es": { "name": "Fruta del Dragón" }
-    }
-  },
-  {
-    "id": "jus-dragon-fruits",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Dragon et Fruits" },
-      "en": { "name": "Dragon Fruit & Mixed Fruits" },
-      "es": { "name": "Fruta del Dragón y Frutas Mixtas" }
-    }
-  },
-  {
-    "id": "jus-special-pandy",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Spécial Pan Dy" },
-      "en": { "name": "Pan Dy Special" },
-      "es": { "name": "Especial Pan Dy" }
-    }
-  },
-  {
-    "id": "jus-panache",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Panaché aux Fruits" },
-      "en": { "name": "Mixed Fruit Panaché" },
-      "es": { "name": "Panaché de Frutas" }
-    }
-  },
-  {
-    "id": "salade-de-fruits",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Salade de Fruits" },
-      "en": { "name": "Fruit Salad" },
-      "es": { "name": "Ensalada de Frutas" }
-    }
-  },
-  {
-    "id": "jus-citron",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Citron" },
-      "en": { "name": "Lemon" },
-      "es": { "name": "Limón" }
-    }
-  },
-  {
-    "id": "jus-citron-gingembre",
-    "category": "boissons",
-    "subcategory": "jus-de-fruits",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Citron Gingembre" },
-      "en": { "name": "Lemon Ginger" },
-      "es": { "name": "Limón y Jengibre" }
-    }
-  },
-  {
-    "id": "chaud-nespresso",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Nespresso" },
-      "en": { "name": "Nespresso" },
-      "es": { "name": "Nespresso" }
-    }
-  },
-  {
-    "id": "chaud-nespresso-lait",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 22,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Nespresso au Lait" },
-      "en": { "name": "Nespresso with Milk" },
-      "es": { "name": "Nespresso con Leche" }
-    }
-  },
-  {
-    "id": "chaud-cafe-separe",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Café Séparé" },
-      "en": { "name": "Separated Coffee (Milk on the side)" },
-      "es": { "name": "Café Separado (Leche aparte)" }
-    }
-  },
-  {
-    "id": "chaud-cafe-americain",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Café Américain" },
-      "en": { "name": "Americano Coffee" },
-      "es": { "name": "Café Americano" }
-    }
-  },
-  {
-    "id": "chaud-cafe-noir",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Café Noir" },
-      "en": { "name": "Black Coffee" },
-      "es": { "name": "Café Solo" }
-    }
-  },
-  {
-    "id": "chaud-cafe-italien",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Café Italien" },
-      "en": { "name": "Italian Coffee" },
-      "es": { "name": "Café Italiano" }
-    }
-  },
-  {
-    "id": "chaud-cafe-creme",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Café Crème" },
-      "en": { "name": "Coffee with Cream" },
-      "es": { "name": "Café con Crema" }
-    }
-  },
-  {
-    "id": "chaud-cappuccino",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Cappuccino" },
-      "en": { "name": "Cappuccino" },
-      "es": { "name": "Capuchino" }
-    }
-  },
-  {
-    "id": "chaud-colacao",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Colacao" },
-      "en": { "name": "Colacao (Hot Chocolate)" },
-      "es": { "name": "Colacao" }
-    }
-  },
-  {
-    "id": "chaud-lait-chaud",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Lait Chaud" },
-      "en": { "name": "Hot Milk" },
-      "es": { "name": "Leche Caliente" }
-    }
-  },
-  {
-    "id": "chaud-the-marocain",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Thé Marocain / Noir" },
-      "en": { "name": "Moroccan Tea / Black Tea" },
-      "es": { "name": "Té Marroquí / Té Negro" }
-    }
-  },
-  {
-    "id": "chaud-the-lait",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Thé au Lait" },
-      "en": { "name": "Tea with Milk" },
-      "es": { "name": "Té con Leche" }
-    }
-  },
-  {
-    "id": "chaud-the-gingembre",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Thé au Gingembre" },
-      "en": { "name": "Ginger Tea" },
-      "es": { "name": "Té de Jengibre" }
-    }
-  },
-  {
-    "id": "chaud-infusion",
-    "category": "boissons",
-    "subcategory": "boissons-chaudes",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Infusion" },
-      "en": { "name": "Herbal Tea" },
-      "es": { "name": "Infusión" }
-    }
-  },
-  {
-    "id": "froid-sodas",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Sodas Canettes" },
-      "en": { "name": "Canned Sodas" },
-      "es": { "name": "Refrescos en Lata" }
-    }
-  },
-  {
-    "id": "froid-oulmes",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Oulmès 25CL" },
-      "en": { "name": "Oulmès Sparkling Water 25CL" },
-      "es": { "name": "Agua con Gas Oulmès 25CL" }
-    }
-  },
-  {
-    "id": "froid-eau-15l",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Eau Minérale 1,5L" },
-      "en": { "name": "Mineral Water 1.5L" },
-      "es": { "name": "Agua Mineral 1,5L" }
-    }
-  },
-  {
-    "id": "froid-eau-demi",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 10,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Eau Minérale 1/2L" },
-      "en": { "name": "Mineral Water 1/2L" },
-      "es": { "name": "Agua Mineral 1/2L" }
-    }
-  },
-  {
-    "id": "froid-eau-33cl",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 5,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Eau Minérale 33CL" },
-      "en": { "name": "Mineral Water 33CL" },
-      "es": { "name": "Agua Mineral 33CL" }
-    }
-  },
-  {
-    "id": "froid-redbull",
-    "category": "boissons",
-    "subcategory": "boissons-fraiches",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Red Bull" },
-      "en": { "name": "Red Bull" },
-      "es": { "name": "Red Bull" }
-    }
-  },
-  {
-    "id": "oeuf-plat-normal",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Œuf au Plat Normal" },
-      "en": { "name": "Fried Egg (Regular)" },
-      "es": { "name": "Huevo Frito Normal" }
-    }
-  },
-  {
-    "id": "oeuf-plat-deux",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Deux Œufs au Plat" },
-      "en": { "name": "Two Fried Eggs" },
-      "es": { "name": "Dos Huevos Fritos" }
-    }
-  },
-  {
-    "id": "oeuf-plat-fromage",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Œuf au Plat avec Fromage" },
-      "en": { "name": "Fried Egg with Cheese" },
-      "es": { "name": "Huevo Frito con Queso" }
-    }
-  },
-  {
-    "id": "oeuf-plat-deux-fromage",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Deux Œufs au Plat avec Fromage" },
-      "en": { "name": "Two Fried Eggs with Cheese" },
-      "es": { "name": "Dos Huevos Fritos con Queso" }
-    }
-  },
-  {
-    "id": "oeuf-plat-deux-special",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Deux Œufs au Plat Spécial" },
-      "en": { "name": "Two Fried Eggs Special" },
-      "es": { "name": "Dos Huevos Fritos Especial" }
-    }
-  },
-  {
-    "id": "oeuf-tajine-khlie",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 30,
-    "image": "assets/images/ftorat/9.jpg",
-    "translations": {
-      "fr": { "name": "Tajine, Œufs au Khlie" },
-      "en": { "name": "Tagine, Eggs with Khlie (Preserved Meat)" },
-      "es": { "name": "Tajine, Huevos con Khlie (Carne Conservada)" }
-    }
-  },
-  {
-    "id": "oeuf-tajine-2-khlie",
-    "category": "petit-dejeuner",
-    "subcategory": "oeuf-au-plat",
-    "price": 40,
-    "image": "assets/images/ftorat/9.jpg",
-    "translations": {
-      "fr": { "name": "Tajine avec 2 Œufs au Khlie" },
-      "en": { "name": "Tagine with 2 Eggs & Khlie" },
-      "es": { "name": "Tajine con 2 Huevos y Khlie" }
-    }
-  },
-  {
-    "id": "croque-normal",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Croque Normal" },
-      "en": { "name": "Classic Croque" },
-      "es": { "name": "Croque Clásico" }
-    }
-  },
-  {
-    "id": "croque-monsieur",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Croque Monsieur" },
-      "en": { "name": "Croque Monsieur" },
-      "es": { "name": "Croque Monsieur" }
-    }
-  },
-  {
-    "id": "croque-madame",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Croque Madame" },
-      "en": { "name": "Croque Madame" },
-      "es": { "name": "Croque Madame" }
-    }
-  },
-  {
-    "id": "croque-pain-special",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pain Spécial" },
-      "en": { "name": "Special Bread" },
-      "es": { "name": "Pan Especial" }
-    }
-  },
-  {
-    "id": "croque-pain-farci",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Pain Farci" },
-      "en": { "name": "Stuffed Bread" },
-      "es": { "name": "Pan Relleno" }
-    }
-  },
-  {
-    "id": "croque-pain-fromage",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 20,
-    "image": "assets/images/ftorat/5.jpg",
-    "translations": {
-      "fr": { "name": "Pain au Fromage" },
-      "en": { "name": "Cheese Bread" },
-      "es": { "name": "Pan de Queso" }
-    }
-  },
-  {
-    "id": "croque-farci-assorti",
-    "category": "petit-dejeuner",
-    "subcategory": "croque",
-    "price": 15,
-    "image": "assets/images/ftorat/7.jpg",
-    "translations": {
-      "fr": { "name": "Farci", "ingredients": "Baghrir, rghayef, harcha, meloui, pain cake" },
-      "en": { "name": "Stuffed Assortment", "ingredients": "Baghrir, rghayef, harcha, meloui, loaf cake" },
-      "es": { "name": "Variado Relleno", "ingredients": "Baghrir, rghayef, harcha, meloui, bizcocho" }
-    }
-  },
-  {
-    "id": "granola-bowl",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 50,
-    "image": "assets/images/ftorat/4.jpg",
-    "translations": {
-      "fr": { "name": "Granola Bowl", "ingredients": "Granola Maison aux Grains et Fruits Secs, Yaourt Fraise, et Fruits de saison" },
-      "en": { "name": "Granola Bowl", "ingredients": "Homemade Granola with Grains and Dried Fruits, Strawberry Yogurt, and Seasonal Fruits" },
-      "es": { "name": "Bol de Granola", "ingredients": "Granola Casera con Granos y Frutos Secos, Yogur de Fresa y Frutas de Temporada" }
-    }
-  },
-  {
-    "id": "toast-farci",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 15,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toast Farci" },
-      "en": { "name": "Stuffed Toast" },
-      "es": { "name": "Tostada Rellena" }
-    }
-  },
-  {
-    "id": "toast-fromage",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 20,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toast au Fromage" },
-      "en": { "name": "Cheese Toast" },
-      "es": { "name": "Tostada con Queso" }
-    }
-  },
-  {
-    "id": "toast-special",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 30,
-    "image": "assets/images/ftorat/7.jpg",
-    "translations": {
-      "fr": { "name": "Toast Spécial", "ingredients": "Œuf, Fromage Rouge, Dinde Fumée, Mortadella, Kiri" },
-      "en": { "name": "Special Toast", "ingredients": "Egg, Red Cheese, Smoked Turkey, Mortadella, Kiri cheese" },
-      "es": { "name": "Tostada Especial", "ingredients": "Huevo, Queso Rojo, Pavo Ahumado, Mortadela, Queso Kiri" }
-    }
-  },
-  {
-    "id": "toast-avocat-saumon",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 50,
-    "image": "assets/images/ftorat/10.jpg",
-    "translations": {
-      "fr": { "name": "Toast Avocat et Saumon" },
-      "en": { "name": "Avocado and Salmon Toast" },
-      "es": { "name": "Tostada de Aguacate y Salmón" }
-    }
-  },
-  {
-    "id": "toast-thon-tomates",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toast Thon et Tomates" },
-      "en": { "name": "Tuna and Tomato Toast" },
-      "es": { "name": "Tostada de Atún y Tomate" }
-    }
-  },
-  {
-    "id": "toast-espagnol",
-    "category": "petit-dejeuner",
-    "subcategory": "toast-item",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Toast Espagnol" },
-      "en": { "name": "Spanish Toast" },
-      "es": { "name": "Tostada Española" }
-    }
-  },
-  {
-    "id": "omelette-nature",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 25,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Nature" },
-      "en": { "name": "Plain Omelet" },
-      "es": { "name": "Tortilla Francesa" }
-    }
-  },
-  {
-    "id": "omelette-fromage",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette au Fromage" },
-      "en": { "name": "Cheese Omelet" },
-      "es": { "name": "Tortilla de Queso" }
-    }
-  },
-  {
-    "id": "omelette-vegetarienne",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Végétarienne" },
-      "en": { "name": "Vegetarian Omelet" },
-      "es": { "name": "Tortilla Vegetariana" }
-    }
-  },
-  {
-    "id": "omelette-champignons",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette aux Champignons" },
-      "en": { "name": "Mushroom Omelet" },
-      "es": { "name": "Tortilla de Champiñones" }
-    }
-  },
-  {
-    "id": "omelette-espagnole",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 35,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Espagnole (Tortilla)" },
-      "en": { "name": "Spanish Omelet (Tortilla)" },
-      "es": { "name": "Tortilla Española" }
-    }
-  },
-  {
-    "id": "omelette-fromage-thon",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Fromage Thon" },
-      "en": { "name": "Cheese & Tuna Omelet" },
-      "es": { "name": "Tortilla de Queso y Atún" }
-    }
-  },
-  {
-    "id": "omelette-fromage-dinde",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Fromage et Dinde" },
-      "en": { "name": "Cheese & Turkey Omelet" },
-      "es": { "name": "Tortilla de Queso y Pavo" }
-    }
-  },
-  {
-    "id": "omelette-charcuteries",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 30,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Charcuteries" },
-      "en": { "name": "Deli Meat Omelet" },
-      "es": { "name": "Tortilla de Embutidos" }
-    }
-  },
-  {
-    "id": "mqila-marocaine",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 40,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Mqila Marocaine" },
-      "en": { "name": "Moroccan Mqila" },
-      "es": { "name": "Mqila Marroquí" }
-    }
-  },
-  {
-    "id": "omelette-crevettes",
-    "category": "petit-dejeuner",
-    "subcategory": "omelettes",
-    "price": 50,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Omelette Crevettes" },
-      "en": { "name": "Shrimp Omelet" },
-      "es": { "name": "Tortilla de Gambas" }
-    }
-  },
-  {
-    "id": "pdj-espagnol",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 60,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Espagnol", "ingredients": "Pain Grillé, Tortilla, Fromage de Manchego, Thon, Fromage Blanc, Huile d'Olive, Tomate Râpée, Origan et l'Ail" },
-      "en": { "name": "Spanish Breakfast", "ingredients": "Toasted Bread, Tortilla, Manchego Cheese, Tuna, White Cheese, Olive Oil, Grated Tomato, Oregano and Garlic" },
-      "es": { "name": "Desayuno Español", "ingredients": "Pan Tostado, Tortilla, Queso Manchego, Atún, Queso Blanco, Aceite de Oliva, Tomate Rallado, Orégano y Ajo" }
-    }
-  },
-  {
-    "id": "pdj-pandy",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 55,
-    "image": "assets/images/ftorat/10.jpg",
-    "translations": {
-      "fr": { "name": "Pan Dy", "ingredients": "Boisson Chaude (Thé à la menthe ou Café), Croque, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Mini Jus d'orange et eau minérale" },
-      "en": { "name": "Pan Dy Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Croque, 2 Mini Pastries or 1 Large Pastry, Mini Orange Juice and Mineral Water" },
-      "es": { "name": "Desayuno Pan Dy", "ingredients": "Bebida Caliente (Té de Menta o Café), Croque, 2 Mini Bollerías o 1 Bollería Grande, Mini Zumo de Naranja y Agua Mineral" }
-    }
-  },
-  {
-    "id": "pdj-prestige",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 45,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Prestige", "ingredients": "Boisson Chaude (Thé à la Menthe ou café), Jus d'Orange, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Corbeille à pain, Miel, Confiture, Kiri, Beurre, Amlou et Eau Minérale" },
-      "en": { "name": "Prestige Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Orange Juice, 2 Mini Pastries or 1 Large Pastry, Bread Basket, Honey, Jam, Kiri, Butter, Amlou and Mineral Water" },
-      "es": { "name": "Desayuno Prestige", "ingredients": "Bebida Caliente (Té de Menta o Café), Zumo de Naranja, 2 Mini Bollerías o 1 Bollería Grande, Cesta de Pan, Miel, Mermelada, Kiri, Mantequilla, Amlou y Agua Mineral" }
-    }
-  },
-  {
-    "id": "pdj-beldi",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 50,
-    "image": "assets/images/ftorat/9.jpg",
-    "translations": {
-      "fr": { "name": "Beldi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Œufs Beldi, Olives, Fromage Beldi, Rghayef, Harcha, Huil d'Olive, Corbeille à Pain, Mini Jus d'Orange, eau Minérale" },
-      "en": { "name": "Beldi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Beldi Eggs, Olives, Beldi Cheese, Rghayef, Harcha, Olive Oil, Bread Basket, Mini Orange Juice, Mineral Water" },
-      "es": { "name": "Desayuno Beldi", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Huevos Beldi, Aceitunas, Queso Beldi, Rghayef, Harcha, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja, Agua Mineral" }
-    }
-  },
-  {
-    "id": "pdj-parisien",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 35,
-    "image": "assets/images/ftorat/8.jpg",
-    "translations": {
-      "fr": { "name": "Parisien", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Mini Viennoiseries, Mini Jus d'Orange" },
-      "en": { "name": "Parisian Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Mini Pastries, Mini Orange Juice" },
-      "es": { "name": "Desayuno Parisino", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Mini Bollerías, Mini Zumo de Naranja" }
-    }
-  },
-  {
-    "id": "pdj-fassi",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 60,
-    "image": "assets/images/ftorat/9.jpg",
-    "translations": {
-      "fr": { "name": "Fassi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), Tagine 2 Œufs au Khlie, Olives, Huile d'Olive, Corbeille à Pain, Mini Jus d'Orange et Eau minérale" },
-      "en": { "name": "Fassi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Tagine with 2 Eggs & Khlie, Olives, Olive Oil, Bread Basket, Mini Orange Juice and Mineral Water" },
-      "es": { "name": "Desayuno Fassi", "ingredients": "Bebida Caliente (Té de Menta o Café), Tajine de 2 Huevos con Khlie, Aceitunas, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja y Agua Mineral" }
-    }
-  },
-  {
-    "id": "pdj-healthy",
-    "category": "petit-dejeuner",
-    "subcategory": "petit-dejeuner",
-    "price": 65,
-    "image": "assets/images/placeholder.jpg",
-    "translations": {
-      "fr": { "name": "Petit Déjeuner Healthy", "ingredients": "Tartine de Pain Complet, Guacamole, Œuf Poché, Mini Granola aux Fruits Secs, Olive Noire, Huile d'Olive, Pain Grillé, Mini Jus d'Orange, Boisson Chaude au Choix" },
-      "en": { "name": "Healthy Breakfast", "ingredients": "Whole Wheat Toast, Guacamole, Poached Egg, Mini Granola with Dried Fruits, Black Olive, Olive Oil, Toasted Bread, Mini Orange Juice, Hot Drink of Choice" },
-      "es": { "name": "Desayuno Saludable", "ingredients": "Tostada de Pan Integral, Guacamole, Huevo Escalfado, Mini Granola con Frutos Secos, Aceituna Negra, Aceite de Oliva, Pan Tostado, Mini Zumo de Naranja, Bebida Caliente a Elegir" }
+  "id": "tacos-poulet",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Au Poulet" },
+    "en": { "name": "Chicken Tacos" },
+    "es": { "name": "Tacos de Pollo" },
+    "ar": { "name": "تاكو الدجاج" },
+    "de": { "name": "Hähnchen-Tacos" },
+    "nl": { "name": "Kip Tacos" }
+  }
+},
+{
+  "id": "tacos-viande-hachee",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos À la Viande Hachée" },
+    "en": { "name": "Minced Meat Tacos" },
+    "es": { "name": "Tacos de Carne Picada" },
+    "ar": { "name": "تاكو اللحم المفروم" },
+    "de": { "name": "Hackfleisch-Tacos" },
+    "nl": { "name": "Taco's met Gehakt" }
+  }
+},
+{
+  "id": "tacos-cordon-bleu",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Cordon Bleu" },
+    "en": { "name": "Cordon Bleu Tacos" },
+    "es": { "name": "Tacos Cordon Bleu" },
+    "ar": { "name": "تاكو كوردون بلو" },
+    "de": { "name": "Cordon-Bleu-Tacos" },
+    "nl": { "name": "Cordon Bleu Taco's" }
+  }
+},
+{
+  "id": "tacos-nuggets",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Aux Nuggets" },
+    "en": { "name": "Nugget Tacos" },
+    "es": { "name": "Tacos con Nuggets" },
+    "ar": { "name": "تاكو ناجتس" },
+    "de": { "name": "Nugget-Tacos" },
+    "nl": { "name": "Nugget Taco's" }
+  }
+},
+{
+  "id": "tacos-mixte",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Mixte" },
+    "en": { "name": "Mixed Tacos" },
+    "es": { "name": "Tacos Mixtos" },
+    "ar": { "name": "تاكو مشكل" },
+    "de": { "name": "Gemischte Tacos" },
+    "nl": { "name": "Gemengde Taco's" }
+  }
+},
+{
+  "id": "tacos-fruits-de-mer",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Aux Fruits de Mer" },
+    "en": { "name": "Seafood Tacos" },
+    "es": { "name": "Tacos de Mariscos" },
+    "ar": { "name": "تاكو المأكولات البحرية" },
+    "de": { "name": "Meeresfrüchte-Tacos" },
+    "nl": { "name": "Taco's met Zeevruchten" }
+  }
+},
+{
+  "id": "tacos-crispy",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tacos Crispy" },
+    "en": { "name": "Crispy Tacos" },
+    "es": { "name": "Tacos Crujientes" },
+    "ar": { "name": "تاكو كريسبي" },
+    "de": { "name": "Knusprige Tacos" },
+    "nl": { "name": "Krokante Taco's" }
+  }
+},
+{
+  "id": "tacos-sauce-fromagere",
+  "category": "fast-food",
+  "subcategory": "tacos",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": {
+      "name": "Tacos à la sauce Fromagère",
+      "ingredients": "Poulet, viande hachée, nuggets (au choix)"
+    },
+    "en": {
+      "name": "Cheese Sauce Tacos",
+      "ingredients": "Chicken, minced meat, or nuggets (your choice)"
+    },
+    "es": {
+      "name": "Tacos con Salsa de Queso",
+      "ingredients": "Pollo, carne picada o nuggets (a elegir)"
+    },
+    "ar": {
+      "name": "تاكو بصلصة الجبن",
+      "ingredients": "دجاج أو لحم مفروم أو ناجتس (حسب اختيارك)"
+    },
+    "de": {
+      "name": "Tacos mit Käsesoße",
+      "ingredients": "Hähnchen, Hackfleisch oder Nuggets (nach Wahl)"
+    },
+    "nl": {
+      "name": "Taco's met Kaassaus",
+      "ingredients": "Kip, gehakt of nuggets (naar keuze)"
     }
   }
+},
+{
+  "id": "panini-poulet",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Au Poulet" },
+    "en": { "name": "Chicken Panini" },
+    "es": { "name": "Panini de Pollo" },
+    "ar": { "name": "بانيني الدجاج" },
+    "de": { "name": "Hähnchen-Panini" },
+    "nl": { "name": "Panini Kip" }
+  }
+},
+{
+  "id": "panini-viande-hachee",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini À La Viande Hachée" },
+    "en": { "name": "Minced Meat Panini" },
+    "es": { "name": "Panini de Carne Picada" },
+    "ar": { "name": "بانيني اللحم المفروم" },
+    "de": { "name": "Hackfleisch-Panini" },
+    "nl": { "name": "Panini Gehakt" }
+  }
+},
+{
+  "id": "panini-mixte",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Mixte" },
+    "en": { "name": "Mixed Panini" },
+    "es": { "name": "Panini Mixto" },
+    "ar": { "name": "بانيني مشكل" },
+    "de": { "name": "Gemischtes Panini" },
+    "nl": { "name": "Gemengde Panini" }
+  }
+},
+{
+  "id": "panini-saumon",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 55,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Au Saumon" },
+    "en": { "name": "Salmon Panini" },
+    "es": { "name": "Panini de Salmón" },
+    "ar": { "name": "بانيني السلمون" },
+    "de": { "name": "Lachs-Panini" },
+    "nl": { "name": "Panini Zalm" }
+  }
+},
+{
+  "id": "panini-fruits-de-mer",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Aux Fruits de Mer" },
+    "en": { "name": "Seafood Panini" },
+    "es": { "name": "Panini de Mariscos" },
+    "ar": { "name": "بانيني المأكولات البحرية" },
+    "de": { "name": "Meeresfrüchte-Panini" },
+    "nl": { "name": "Panini Zeevruchten" }
+  }
+},
+{
+  "id": "panini-charcuterie",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Charcuterie" },
+    "en": { "name": "Deli Meat Panini" },
+    "es": { "name": "Panini de Embutidos" },
+    "ar": { "name": "بانيني المرتديلا" },
+    "de": { "name": "Panini mit Aufschnitt" },
+    "nl": { "name": "Panini Belegde Vleeswaren" }
+  }
+},
+{
+  "id": "panini-thon",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini Au Thon" },
+    "en": { "name": "Tuna Panini" },
+    "es": { "name": "Panini de Atún" },
+    "ar": { "name": "بانيني التونة" },
+    "de": { "name": "Thunfisch-Panini" },
+    "nl": { "name": "Panini Tonijn" }
+  }
+},
+{
+  "id": "panini-4-fromages",
+  "category": "fast-food",
+  "subcategory": "panini",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panini 4 Fromages" },
+    "en": { "name": "4 Cheese Panini" },
+    "es": { "name": "Panini 4 Quesos" },
+    "ar": { "name": "بانيني أربعة أجبان" },
+    "de": { "name": "Panini mit Vier Käsesorten" },
+    "nl": { "name": "Panini Vier Kazen" }
+  }
+},
+  {
+  "id": "wrap-poulet",
+  "category": "fast-food",
+  "subcategory": "wrap",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Wrap Au Poulet" },
+    "en": { "name": "Chicken Wrap" },
+    "es": { "name": "Wrap de Pollo" },
+    "ar": { "name": "راب الدجاج" },
+    "de": { "name": "Hähnchen-Wrap" },
+    "nl": { "name": "Kip Wrap" }
+  }
+},
+{
+  "id": "wrap-viande-hachee",
+  "category": "fast-food",
+  "subcategory": "wrap",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Wrap À la Viande Hachée" },
+    "en": { "name": "Minced Meat Wrap" },
+    "es": { "name": "Wrap de Carne Picada" },
+    "ar": { "name": "راب اللحم المفروم" },
+    "de": { "name": "Hackfleisch-Wrap" },
+    "nl": { "name": "Wrap met Gehakt" }
+  }
+},
+{
+  "id": "wrap-thon",
+  "category": "fast-food",
+  "subcategory": "wrap",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Wrap Au Thon" },
+    "en": { "name": "Tuna Wrap" },
+    "es": { "name": "Wrap de Atún" },
+    "ar": { "name": "راب التونة" },
+    "de": { "name": "Thunfisch-Wrap" },
+    "nl": { "name": "Tonijn Wrap" }
+  }
+},
+{
+  "id": "wrap-saumon-fume",
+  "category": "fast-food",
+  "subcategory": "wrap",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Wrap Au Saumon Fumé" },
+    "en": { "name": "Smoked Salmon Wrap" },
+    "es": { "name": "Wrap de Salmón Ahumado" },
+    "ar": { "name": "راب السلمون المدخن" },
+    "de": { "name": "Wrap mit Geräuchertem Lachs" },
+    "nl": { "name": "Wrap met Gerookte Zalm" }
+  }
+},
+{
+  "id": "sandwich-poulet",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich Au Poulet" },
+    "en": { "name": "Chicken Sandwich" },
+    "es": { "name": "Sándwich de Pollo" },
+    "ar": { "name": "ساندويتش الدجاج" },
+    "de": { "name": "Hähnchen-Sandwich" },
+    "nl": { "name": "Kip Sandwich" }
+  }
+},
+{
+  "id": "sandwich-viande-hachee",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich À La Viande Hachée" },
+    "en": { "name": "Minced Meat Sandwich" },
+    "es": { "name": "Sándwich de Carne Picada" },
+    "ar": { "name": "ساندويتش اللحم المفروم" },
+    "de": { "name": "Hackfleisch-Sandwich" },
+    "nl": { "name": "Sandwich met Gehakt" }
+  }
+},
+{
+  "id": "sandwich-mixte",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich Mixte" },
+    "en": { "name": "Mixed Sandwich" },
+    "es": { "name": "Sándwich Mixto" },
+    "ar": { "name": "ساندويتش مشكل" },
+    "de": { "name": "Gemischtes Sandwich" },
+    "nl": { "name": "Gemengd Sandwich" }
+  }
+},
+{
+  "id": "sandwich-fruits-de-mer",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich Aux Fruits de Mer" },
+    "en": { "name": "Seafood Sandwich" },
+    "es": { "name": "Sándwich de Mariscos" },
+    "ar": { "name": "ساندويتش المأكولات البحرية" },
+    "de": { "name": "Meeresfrüchte-Sandwich" },
+    "nl": { "name": "Broodje Zeevruchten" }
+  }
+},
+{
+  "id": "sandwich-boeuf",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 55,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich Au Bœuf" },
+    "en": { "name": "Beef Sandwich" },
+    "es": { "name": "Sándwich de Ternera" },
+    "ar": { "name": "ساندويتش اللحم البقري" },
+    "de": { "name": "Rindfleisch-Sandwich" },
+    "nl": { "name": "Broodje Rundvlees" }
+  }
+},
+{
+  "id": "sandwich-crispy",
+  "category": "fast-food",
+  "subcategory": "sandwich",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sandwich Crispy" },
+    "en": { "name": "Crispy Sandwich" },
+    "es": { "name": "Sándwich Crujiente" },
+    "ar": { "name": "ساندويتش كريسبي" },
+    "de": { "name": "Knuspriges Sandwich" },
+    "nl": { "name": "Krokant Sandwich" }
+  }
+},
+{
+  "id": "hamburger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Hamburger" },
+    "en": { "name": "Hamburger" },
+    "es": { "name": "Hamburguesa" },
+    "ar": { "name": "هامبرغر" },
+    "de": { "name": "Hamburger" },
+    "nl": { "name": "Hamburger" }
+  }
+},
+{
+  "id": "egg-burger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Egg Burger" },
+    "en": { "name": "Egg Burger" },
+    "es": { "name": "Hamburguesa con Huevo" },
+    "ar": { "name": "برغر بالبيض" },
+    "de": { "name": "Burger mit Ei" },
+    "nl": { "name": "Burger met Ei" }
+  }
+},
+{
+  "id": "egg-cheese-burger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Egg Cheese Burger" },
+    "en": { "name": "Egg Cheese Burger" },
+    "es": { "name": "Hamburguesa con Huevo y Queso" },
+    "ar": { "name": "برغر بالبيض والجبن" },
+    "de": { "name": "Burger mit Ei und Käse" },
+    "nl": { "name": "Burger met Ei en Kaas" }
+  }
+},
+{
+  "id": "double-cheese",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Double Cheese" },
+    "en": { "name": "Double Cheese" },
+    "es": { "name": "Doble Queso" },
+    "ar": { "name": "دبل تشيز برغر" },
+    "de": { "name": "Double-Cheeseburger" },
+    "nl": { "name": "Dubbele Cheeseburger" }
+  }
+},
+  {
+  "id": "luxe-burger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 70,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Luxe Burger" },
+    "en": { "name": "Luxury Burger" },
+    "es": { "name": "Hamburguesa de Lujo" },
+    "ar": { "name": "برغر فاخر" },
+    "de": { "name": "Deluxe-Burger" },
+    "nl": { "name": "Luxe Burger" }
+  }
+},
+{
+  "id": "crispy-burger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Crispy Burger" },
+    "en": { "name": "Crispy Burger" },
+    "es": { "name": "Hamburguesa Crujiente" },
+    "ar": { "name": "برغر كريسبي" },
+    "de": { "name": "Knuspriger Burger" },
+    "nl": { "name": "Krokante Burger" }
+  }
+},
+{
+  "id": "chicken-burger",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Chicken Burger" },
+    "en": { "name": "Chicken Burger" },
+    "es": { "name": "Hamburguesa de Pollo" },
+    "ar": { "name": "برغر الدجاج" },
+    "de": { "name": "Hähnchenburger" },
+    "nl": { "name": "Kipburger" }
+  }
+},
+{
+  "id": "burger-royal",
+  "category": "fast-food",
+  "subcategory": "hamburgers",
+  "price": 70,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Burger Royal" },
+    "en": { "name": "Royal Burger" },
+    "es": { "name": "Hamburguesa Royal" },
+    "ar": { "name": "برغر رويال" },
+    "de": { "name": "Royal-Burger" },
+    "nl": { "name": "Royal Burger" }
+  }
+},
+{
+  "id": "pates-thon",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes Au Thon", "ingredients": "Spaghetti, tagliatelles ou penne" },
+    "en": { "name": "Tuna Pasta", "ingredients": "Spaghetti, tagliatelle, or penne" },
+    "es": { "name": "Pasta con Atún", "ingredients": "Espaguetis, tallarines o penne" },
+    "ar": { "name": "باستا بالتونة", "ingredients": "سباغيتي أو تاغلياتيلي أو بيني" },
+    "de": { "name": "Thunfisch-Pasta", "ingredients": "Spaghetti, Tagliatelle oder Penne" },
+    "nl": { "name": "Pasta met Tonijn", "ingredients": "Spaghetti, tagliatelle of penne" }
+  }
+},
+{
+  "id": "pates-bolognaise",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes À la Bolognaise" },
+    "en": { "name": "Bolognese Pasta" },
+    "es": { "name": "Pasta a la Boloñesa" },
+    "ar": { "name": "باستا بولونيز" },
+    "de": { "name": "Pasta Bolognese" },
+    "nl": { "name": "Pasta Bolognese" }
+  }
+},
+{
+  "id": "pates-fruits-de-mer",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 75,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes Aux Fruits de Mer" },
+    "en": { "name": "Seafood Pasta" },
+    "es": { "name": "Pasta de Mariscos" },
+    "ar": { "name": "باستا بالمأكولات البحرية" },
+    "de": { "name": "Meeresfrüchte-Pasta" },
+    "nl": { "name": "Pasta met Zeevruchten" }
+  }
+},
+{
+  "id": "pates-saumon",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 80,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes Au saumon" },
+    "en": { "name": "Salmon Pasta" },
+    "es": { "name": "Pasta con Salmón" },
+    "ar": { "name": "باستا بالسلمون" },
+    "de": { "name": "Lachs-Pasta" },
+    "nl": { "name": "Pasta met Zalm" }
+  }
+},
+{
+  "id": "pates-moules",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes Aux Moules", "ingredients": "Sauce à l'Ail et fromage" },
+    "en": { "name": "Mussel Pasta", "ingredients": "Garlic sauce and cheese" },
+    "es": { "name": "Pasta con Mejillones", "ingredients": "Salsa de ajo y queso" },
+    "ar": { "name": "باستا ببلح البحر", "ingredients": "صلصة الثوم والجبن" },
+    "de": { "name": "Muschel-Pasta", "ingredients": "Knoblauchsoße und Käse" },
+    "nl": { "name": "Pasta met Mosselen", "ingredients": "Knoflooksaus en kaas" }
+  }
+},
+{
+  "id": "penne-pesto",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Penne avec Pesto au Fromage" },
+    "en": { "name": "Penne with Cheese Pesto" },
+    "es": { "name": "Penne con Pesto y Queso" },
+    "ar": { "name": "بيني بصلصة البيستو والجبن" },
+    "de": { "name": "Penne mit Käsepesto" },
+    "nl": { "name": "Penne met Kaaspesto" }
+  }
+},
+{
+  "id": "lasagne-bolognaise",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Lasagne à la Bolognaise" },
+    "en": { "name": "Bolognese Lasagna" },
+    "es": { "name": "Lasaña Boloñesa" },
+    "ar": { "name": "لازانيا بولونيز" },
+    "de": { "name": "Lasagne Bolognese" },
+    "nl": { "name": "Lasagne Bolognese" }
+  }
+},
+{
+  "id": "pates-poulet",
+  "category": "italien",
+  "subcategory": "pates",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pâtes Au Poulet" },
+    "en": { "name": "Chicken Pasta" },
+    "es": { "name": "Pasta con Pollo" },
+    "ar": { "name": "باستا بالدجاج" },
+    "de": { "name": "Hähnchen-Pasta" },
+    "nl": { "name": "Pasta met Kip" }
+  }
+},
+{
+  "id": "pasticcio-charcuterie",
+  "category": "italien",
+  "subcategory": "pasticcio",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pasticcio Charcuterie" },
+    "en": { "name": "Deli Meat Pasticcio" },
+    "es": { "name": "Pasticcio de Embutidos" },
+    "ar": { "name": "باستيشيو بالمرتديلا" },
+    "de": { "name": "Pasticcio mit Aufschnitt" },
+    "nl": { "name": "Pasticcio met Vleeswaren" }
+  }
+},
+{
+  "id": "pasticcio-poulet-champignons",
+  "category": "italien",
+  "subcategory": "pasticcio",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pasticcio Au Poulet et Champignons" },
+    "en": { "name": "Chicken & Mushroom Pasticcio" },
+    "es": { "name": "Pasticcio de Pollo y Champiñones" },
+    "ar": { "name": "باستيشيو بالدجاج والفطر" },
+    "de": { "name": "Pasticcio mit Hähnchen und Champignons" },
+    "nl": { "name": "Pasticcio met Kip en Champignons" }
+  }
+},
+{
+  "id": "pasticcio-thon",
+  "category": "italien",
+  "subcategory": "pasticcio",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pasticcio Au Thon" },
+    "en": { "name": "Tuna Pasticcio" },
+    "es": { "name": "Pasticcio de Atún" },
+    "ar": { "name": "باستيشيو بالتونة" },
+    "de": { "name": "Thunfisch-Pasticcio" },
+    "nl": { "name": "Pasticcio met Tonijn" }
+  }
+},
+{
+  "id": "pasticcio-viande-hachee",
+  "category": "italien",
+  "subcategory": "pasticcio",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pasticcio À la Viande Hachée" },
+    "en": { "name": "Minced Meat Pasticcio" },
+    "es": { "name": "Pasticcio de Carne Picada" },
+    "ar": { "name": "باستيشيو باللحم المفروم" },
+    "de": { "name": "Hackfleisch-Pasticcio" },
+    "nl": { "name": "Pasticcio met Gehakt" }
+  }
+},
+{
+  "id": "pasticcio-pepperoni",
+  "category": "italien",
+  "subcategory": "pasticcio",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pasticcio Charcuterie Pepperoni" },
+    "en": { "name": "Pepperoni Pasticcio" },
+    "es": { "name": "Pasticcio de Pepperoni" },
+    "ar": { "name": "باستيشيو بيبروني" },
+    "de": { "name": "Pepperoni-Pasticcio" },
+    "nl": { "name": "Pepperoni Pasticcio" }
+  }
+},
+{
+  "id": "risotto-fungo",
+  "category": "italien",
+  "subcategory": "risotto",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Risotto Fungo au Poulet et Champignons" },
+    "en": { "name": "Chicken & Mushroom Fungo Risotto" },
+    "es": { "name": "Risotto de Pollo y Champiñones" },
+    "ar": { "name": "ريزوتو فونغو بالدجاج والفطر" },
+    "de": { "name": "Fungo-Risotto mit Hähnchen und Champignons" },
+    "nl": { "name": "Fungo Risotto met Kip en Champignons" }
+  }
+},
+{
+  "id": "risotto-gambas",
+  "category": "italien",
+  "subcategory": "risotto",
+  "price": 80,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Risotto aux Gambas" },
+    "en": { "name": "Prawn Risotto" },
+    "es": { "name": "Risotto con Gambas" },
+    "ar": { "name": "ريزوتو بالروبيان" },
+    "de": { "name": "Garnelen-Risotto" },
+    "nl": { "name": "Risotto met Garnalen" }
+  }
+},
+{
+  "id": "risotto-manzo",
+  "category": "italien",
+  "subcategory": "risotto",
+  "price": 80,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Risotto al Manzo (Bœuf)" },
+    "en": { "name": "Beef Risotto" },
+    "es": { "name": "Risotto de Ternera" },
+    "ar": { "name": "ريزوتو باللحم البقري" },
+    "de": { "name": "Rindfleisch-Risotto" },
+    "nl": { "name": "Risotto met Rundvlees" }
+  }
+},
+  {
+  "id": "pizza-margherita",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Margherita", "ingredients": "Sauce de tomate, fromage, olives noires" },
+    "en": { "name": "Margherita Pizza", "ingredients": "Tomato sauce, cheese, black olives" },
+    "es": { "name": "Pizza Margarita", "ingredients": "Salsa de tomate, queso, aceitunas negras" },
+    "ar": { "name": "بيتزا مارغريتا", "ingredients": "صلصة طماطم، جبن، زيتون أسود" },
+    "de": { "name": "Pizza Margherita", "ingredients": "Tomatensoße, Käse, schwarze Oliven" },
+    "nl": { "name": "Pizza Margherita", "ingredients": "Tomatensaus, kaas, zwarte olijven" }
+  }
+},
+{
+  "id": "pizza-fruits-de-mer",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 75,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza aux Fruits de Mer", "ingredients": "Sauce de tomate, crevettes, calamars, champignons, surimi et moules" },
+    "en": { "name": "Seafood Pizza", "ingredients": "Tomato sauce, prawns, calamari, mushrooms, surimi, and mussels" },
+    "es": { "name": "Pizza de Mariscos", "ingredients": "Salsa de tomate, gambas, calamares, champiñones, surimi y mejillones" },
+    "ar": { "name": "بيتزا المأكولات البحرية", "ingredients": "صلصة طماطم، روبيان، كالاماري، فطر، سوريمي وبلح البحر" },
+    "de": { "name": "Meeresfrüchtepizza", "ingredients": "Tomatensoße, Garnelen, Calamari, Champignons, Surimi und Muscheln" },
+    "nl": { "name": "Pizza Zeevruchten", "ingredients": "Tomatensaus, garnalen, calamari, champignons, surimi en mosselen" }
+  }
+},
+{
+  "id": "pizza-4-saisons",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 80,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza 4 Saisons", "ingredients": "Sauce de tomate, fromage, crevettes, thon, viande hachée, poulet" },
+    "en": { "name": "Four Seasons Pizza", "ingredients": "Tomato sauce, cheese, prawns, tuna, minced meat, chicken" },
+    "es": { "name": "Pizza 4 Estaciones", "ingredients": "Salsa de tomate, queso, gambas, atún, carne picada, pollo" },
+    "ar": { "name": "بيتزا الفصول الأربعة", "ingredients": "صلصة طماطم، جبن، روبيان، تونة، لحم مفروم، دجاج" },
+    "de": { "name": "Pizza Vier Jahreszeiten", "ingredients": "Tomatensoße, Käse, Garnelen, Thunfisch, Hackfleisch, Hähnchen" },
+    "nl": { "name": "Pizza Vier Seizoenen", "ingredients": "Tomatensaus, kaas, garnalen, tonijn, gehakt, kip" }
+  }
+},
+{
+  "id": "pizza-thon",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 55,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Thon", "ingredients": "Sauce tomate, fromage, oignons, champignons" },
+    "en": { "name": "Tuna Pizza", "ingredients": "Tomato sauce, cheese, onions, mushrooms" },
+    "es": { "name": "Pizza de Atún", "ingredients": "Salsa de tomate, queso, cebollas, champiñones" },
+    "ar": { "name": "بيتزا التونة", "ingredients": "صلصة طماطم، جبن، بصل، فطر" },
+    "de": { "name": "Thunfischpizza", "ingredients": "Tomatensoße, Käse, Zwiebeln, Champignons" },
+    "nl": { "name": "Pizza Tonijn", "ingredients": "Tomatensaus, kaas, uien, champignons" }
+  }
+},
+{
+  "id": "pizza-vegetarienne",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Végétarienne", "ingredients": "Sauce tomate, fromage, poivron jaune, poivron rouge, oignons, tomate, maïs et olives noires" },
+    "en": { "name": "Vegetarian Pizza", "ingredients": "Tomato sauce, cheese, yellow pepper, red pepper, onions, tomato, corn, and black olives" },
+    "es": { "name": "Pizza Vegetariana", "ingredients": "Salsa de tomate, queso, pimiento amarillo, pimiento rojo, cebollas, tomate, maíz y aceitunas negras" },
+    "ar": { "name": "بيتزا نباتية", "ingredients": "صلصة طماطم، جبن، فلفل أصفر، فلفل أحمر، بصل، طماطم، ذرة، زيتون أسود" },
+    "de": { "name": "Vegetarische Pizza", "ingredients": "Tomatensoße, Käse, gelbe Paprika, rote Paprika, Zwiebeln, Tomaten, Mais und schwarze Oliven" },
+    "nl": { "name": "Vegetarische Pizza", "ingredients": "Tomatensaus, kaas, gele paprika, rode paprika, ui, tomaat, maïs en zwarte olijven" }
+  }
+},
+{
+  "id": "pizza-napolitaine",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Napolitaine", "ingredients": "Sauce de tomate, fromage, câpres, anchois, champignons, oignons, olives noires" },
+    "en": { "name": "Neapolitan Pizza", "ingredients": "Tomato sauce, cheese, capers, anchovies, mushrooms, onions, black olives" },
+    "es": { "name": "Pizza Napolitana", "ingredients": "Salsa de tomate, queso, alcaparras, anchoas, champiñones, cebollas, aceitunas negras" },
+    "ar": { "name": "بيتزا نابوليتانا", "ingredients": "صلصة طماطم، جبن، كبر، أنشوفة، فطر، بصل، زيتون أسود" },
+    "de": { "name": "Neapolitanische Pizza", "ingredients": "Tomatensoße, Käse, Kapern, Sardellen, Champignons, Zwiebeln, schwarze Oliven" },
+    "nl": { "name": "Napolitaanse Pizza", "ingredients": "Tomatensaus, kaas, kappertjes, ansjovis, champignons, ui, zwarte olijven" }
+  }
+},
+{
+  "id": "pizza-royale",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 80,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Royale", "ingredients": "Sauce tomate, crevettes, calamar, moules, thon, poivrons jaunes, poivron vert, et olives noires" },
+    "en": { "name": "Royal Pizza", "ingredients": "Tomato sauce, prawns, calamari, mussels, tuna, yellow peppers, green pepper, and black olives" },
+    "es": { "name": "Pizza Royal", "ingredients": "Salsa de tomate, gambas, calamar, mejillones, atún, pimientos amarillos, pimiento verde y aceitunas negras" },
+    "ar": { "name": "بيتزا رويال", "ingredients": "صلصة طماطم، روبيان، كالاماري، بلح البحر، تونة، فلفل أصفر، فلفل أخضر، زيتون أسود" },
+    "de": { "name": "Royal-Pizza", "ingredients": "Tomatensoße, Garnelen, Calamari, Muscheln, Thunfisch, gelbe Paprika, grüne Paprika und schwarze Oliven" },
+    "nl": { "name": "Royal Pizza", "ingredients": "Tomatensaus, garnalen, calamari, mosselen, tonijn, gele paprika, groene paprika en zwarte olijven" }
+  }
+},
+{
+  "id": "pizza-pandy",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 85,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Pandy", "ingredients": "Sauce tomate, fromage, saumon fumé, champignons" },
+    "en": { "name": "Pandy Pizza", "ingredients": "Tomato sauce, cheese, smoked salmon, mushrooms" },
+    "es": { "name": "Pizza Pandy", "ingredients": "Salsa de tomate, queso, salmón ahumado, champiñones" },
+    "ar": { "name": "بيتزا باندي", "ingredients": "صلصة طماطم، جبن، سلمون مدخن، فطر" },
+    "de": { "name": "Pandy-Pizza", "ingredients": "Tomatensoße, Käse, geräucherter Lachs, Champignons" },
+    "nl": { "name": "Pandy Pizza", "ingredients": "Tomatensaus, kaas, gerookte zalm, champignons" }
+  }
+},
+{
+  "id": "pizza-bolognaise",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Bolognaise", "ingredients": "Sauce de tomate, viande hachée et fromage" },
+    "en": { "name": "Bolognese Pizza", "ingredients": "Tomato sauce, minced meat, and cheese" },
+    "es": { "name": "Pizza Boloñesa", "ingredients": "Salsa de tomate, carne picada y queso" },
+    "ar": { "name": "بيتزا بولونيز", "ingredients": "صلصة طماطم، لحم مفروم، جبن" },
+    "de": { "name": "Pizza Bolognese", "ingredients": "Tomatensoße, Hackfleisch und Käse" },
+    "nl": { "name": "Pizza Bolognese", "ingredients": "Tomatensaus, gehakt en kaas" }
+  }
+},
+{
+  "id": "pizza-pepperoni",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 70,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Pepperoni", "ingredients": "Sauce de tomate, pepperoni et fromage" },
+    "en": { "name": "Pepperoni Pizza", "ingredients": "Tomato sauce, pepperoni, and cheese" },
+    "es": { "name": "Pizza de Pepperoni", "ingredients": "Salsa de tomate, pepperoni y queso" },
+    "ar": { "name": "بيتزا بيبروني", "ingredients": "صلصة طماطم، بيبروني، جبن" },
+    "de": { "name": "Pepperoni-Pizza", "ingredients": "Tomatensoße, Pepperoni und Käse" },
+    "nl": { "name": "Pepperoni Pizza", "ingredients": "Tomatensaus, pepperoni en kaas" }
+  }
+},
+{
+  "id": "pizza-alfredo",
+  "category": "italien",
+  "subcategory": "pizza",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pizza Alfredo (Poulet)", "ingredients": "Sauce tomate, fromage, champignons, poulet" },
+    "en": { "name": "Alfredo Pizza (Chicken)", "ingredients": "Tomato sauce, cheese, mushrooms, chicken" },
+    "es": { "name": "Pizza Alfredo (Pollo)", "ingredients": "Salsa de tomate, queso, champiñones, pollo" },
+    "ar": { "name": "بيتزا ألفريدو (دجاج)", "ingredients": "صلصة طماطم، جبن، فطر، دجاج" },
+    "de": { "name": "Alfredo-Pizza (Hähnchen)", "ingredients": "Tomatensoße, Käse, Champignons, Hähnchen" },
+    "nl": { "name": "Alfredo Pizza (Kip)", "ingredients": "Tomatensaus, kaas, champignons, kip" }
+  }
+},
+{
+  "id": "soupe-poisson",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Soupe de poisson" },
+    "en": { "name": "Fish Soup" },
+    "es": { "name": "Sopa de Pescado" },
+    "ar": { "name": "شوربة السمك" },
+    "de": { "name": "Fischsuppe" },
+    "nl": { "name": "Vissoep" }
+  }
+},
+{
+  "id": "soupe-legumes",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Soupe de Légumes" },
+    "en": { "name": "Vegetable Soup" },
+    "es": { "name": "Sopa de Verduras" },
+    "ar": { "name": "شوربة الخضار" },
+    "de": { "name": "Gemüsesuppe" },
+    "nl": { "name": "Groentesoep" }
+  }
+},
+{
+  "id": "gratin-poulet",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Gratin de Poulet" },
+    "en": { "name": "Chicken Gratin" },
+    "es": { "name": "Gratinado de Pollo" },
+    "ar": { "name": "غراتان الدجاج" },
+    "de": { "name": "Hähnchen-Gratin" },
+    "nl": { "name": "Kipgratin" }
+  }
+},
+{
+  "id": "toasts-saumon",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toasts au Saumon" },
+    "en": { "name": "Salmon Toasts" },
+    "es": { "name": "Tostadas de Salmón" },
+    "ar": { "name": "توست بالسلمون" },
+    "de": { "name": "Lachs-Toast" },
+    "nl": { "name": "Toast met Zalm" }
+  }
+},
+{
+  "id": "toasts-thon",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toasts au Thon" },
+    "en": { "name": "Tuna Toasts" },
+    "es": { "name": "Tostadas de Atún" },
+    "ar": { "name": "توست بالتونة" },
+    "de": { "name": "Thunfisch-Toast" },
+    "nl": { "name": "Toast met Tonijn" }
+  }
+},
+{
+  "id": "batata-bravas",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Batata Bravas" },
+    "en": { "name": "Patatas Bravas" },
+    "es": { "name": "Patatas Bravas" },
+    "ar": { "name": "باتاتاس برافاس" },
+    "de": { "name": "Patatas Bravas" },
+    "nl": { "name": "Patatas Bravas" }
+  }
+},
+  {
+  "id": "chicken-crispy",
+  "category": "entrees",
+  "subcategory": "entrees-chaudes",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Chicken Crispy" },
+    "en": { "name": "Crispy Chicken" },
+    "es": { "name": "Pollo Crujiente" },
+    "ar": { "name": "دجاج كريسبي" },
+    "de": { "name": "Knuspriges Hähnchen" },
+    "nl": { "name": "Krokante Kip" }
+  }
+},
+{
+  "id": "salade-nicoise",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Niçoise", "ingredients": "Pomme de terre, carotte, haricots verts, thon, anchois, œufs, laitue" },
+    "en": { "name": "Niçoise Salad", "ingredients": "Potato, carrot, green beans, tuna, anchovies, eggs, lettuce" },
+    "es": { "name": "Ensalada Niçoise", "ingredients": "Patata, zanahoria, judías verdes, atún, anchoas, huevos, lechuga" },
+    "ar": { "name": "سلطة نيسواز", "ingredients": "بطاطس، جزر، فاصوليا خضراء، تونة، أنشوفة، بيض، خس" },
+    "de": { "name": "Salat Niçoise", "ingredients": "Kartoffeln, Karotten, grüne Bohnen, Thunfisch, Sardellen, Eier, Salat" },
+    "nl": { "name": "Niçoise Salade", "ingredients": "Aardappel, wortel, sperziebonen, tonijn, ansjovis, eieren, sla" }
+  }
+},
+{
+  "id": "salade-marocaine",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Marocaine", "ingredients": "Laitue, tomate, thon, maïs, olives noirs" },
+    "en": { "name": "Moroccan Salad", "ingredients": "Lettuce, tomato, tuna, corn, black olives" },
+    "es": { "name": "Ensalada Marroquí", "ingredients": "Lechuga, tomate, atún, maíz, aceitunas negras" },
+    "ar": { "name": "سلطة مغربية", "ingredients": "خس، طماطم، تونة، ذرة، زيتون أسود" },
+    "de": { "name": "Marokkanischer Salat", "ingredients": "Salat, Tomaten, Thunfisch, Mais, schwarze Oliven" },
+    "nl": { "name": "Marokkaanse Salade", "ingredients": "Sla, tomaat, tonijn, maïs, zwarte olijven" }
+  }
+},
+{
+  "id": "salade-cesar",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade César", "ingredients": "Laitue, fromage, croûtons de pain, sauce césar, tomate, poulet mariné" },
+    "en": { "name": "Caesar Salad", "ingredients": "Lettuce, cheese, croutons, Caesar dressing, tomato, marinated chicken" },
+    "es": { "name": "Ensalada César", "ingredients": "Lechuga, queso, picatostes, salsa césar, tomate, pollo marinado" },
+    "ar": { "name": "سلطة سيزر", "ingredients": "خس، جبن، خبز محمص، صلصة سيزر، طماطم، دجاج متبل" },
+    "de": { "name": "Caesar Salat", "ingredients": "Salat, Käse, Croutons, Caesar-Dressing, Tomaten, mariniertes Hähnchen" },
+    "nl": { "name": "Caesar Salade", "ingredients": "Sla, kaas, croutons, Caesar dressing, tomaat, gemarineerde kip" }
+  }
+},
+{
+  "id": "salade-russe",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Russe", "ingredients": "Pomme de terre, carotte, petits pois, thon, œufs" },
+    "en": { "name": "Russian Salad", "ingredients": "Potato, carrot, green peas, tuna, eggs" },
+    "es": { "name": "Ensaladilla Rusa", "ingredients": "Patata, zanahoria, guisantes, atún, huevos" },
+    "ar": { "name": "سلطة روسية", "ingredients": "بطاطس، جزر، بازلاء، تونة، بيض" },
+    "de": { "name": "Russischer Salat", "ingredients": "Kartoffeln, Karotten, Erbsen, Thunfisch, Eier" },
+    "nl": { "name": "Russische Salade", "ingredients": "Aardappel, wortel, doperwten, tonijn, eieren" }
+  }
+},
+{
+  "id": "salade-pecheur",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Pêcheur", "ingredients": "Laitue, crevette, moules, calamar, surimi, thon" },
+    "en": { "name": "Fisherman's Salad", "ingredients": "Lettuce, prawns, mussels, calamari, surimi, tuna" },
+    "es": { "name": "Ensalada Marinera", "ingredients": "Lechuga, gambas, mejillones, calamar, surimi, atún" },
+    "ar": { "name": "سلطة الصياد", "ingredients": "خس، روبيان، بلح البحر، كالاماري، سوريمي، تونة" },
+    "de": { "name": "Fischersalat", "ingredients": "Salat, Garnelen, Muscheln, Calamari, Surimi, Thunfisch" },
+    "nl": { "name": "Visserssalade", "ingredients": "Sla, garnalen, mosselen, calamari, surimi, tonijn" }
+  }
+},
+{
+  "id": "salade-italienne",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Italienne", "ingredients": "Penne, thon, maïs, poivron mix, fromage rouge" },
+    "en": { "name": "Italian Salad", "ingredients": "Penne, tuna, corn, mixed peppers, red cheese" },
+    "es": { "name": "Ensalada Italiana", "ingredients": "Penne, atún, maíz, mezcla de pimientos, queso rojo" },
+    "ar": { "name": "سلطة إيطالية", "ingredients": "بيني، تونة، ذرة، فلفل مشكل، جبن أحمر" },
+    "de": { "name": "Italienischer Salat", "ingredients": "Penne, Thunfisch, Mais, Paprikamix, roter Käse" },
+    "nl": { "name": "Italiaanse Salade", "ingredients": "Penne, tonijn, maïs, gemengde paprika, rode kaas" }
+  }
+},
+{
+  "id": "salade-pandy",
+  "category": "entrees",
+  "subcategory": "salade",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade Pandy", "ingredients": "Mangue, ananas, maïs, crevette, riz, haricot vert, avocat, sauce chef" },
+    "en": { "name": "Pandy Salad", "ingredients": "Mango, pineapple, corn, prawns, rice, green beans, avocado, chef's sauce" },
+    "es": { "name": "Ensalada Pandy", "ingredients": "Mango, piña, maíz, gambas, arroz, judías verdes, aguacate, salsa del chef" },
+    "ar": { "name": "سلطة باندي", "ingredients": "مانجو، أناناس، ذرة، روبيان، أرز، فاصوليا خضراء، أفوكادو، صلصة الشيف" },
+    "de": { "name": "Pandy-Salat", "ingredients": "Mango, Ananas, Mais, Garnelen, Reis, grüne Bohnen, Avocado, Chefsoße" },
+    "nl": { "name": "Pandy Salade", "ingredients": "Mango, ananas, maïs, garnalen, rijst, sperziebonen, avocado, chefsaus" }
+  }
+},
+{
+  "id": "filet-boeuf",
+  "category": "plats",
+  "subcategory": "viandes",
+  "price": 140,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Filet de Bœuf avec sauce aux champignons", "ingredients": "Servi avec deux accompagnements au choix: riz, légumes de saison, frites, potatoes" },
+    "en": { "name": "Beef Fillet with Mushroom Sauce", "ingredients": "Served with two side dishes of choice: rice, seasonal vegetables, fries, wedges" },
+    "es": { "name": "Filete de Ternera con Salsa de Champiñones", "ingredients": "Servido con dos guarniciones a elegir: arroz, verduras de temporada, patatas fritas, patatas gajo" },
+    "ar": { "name": "فيليه لحم بقري بصلصة الفطر", "ingredients": "يقدم مع طبقين جانبيين من اختيارك: أرز، خضار موسمية، بطاطس مقلية أو ودجز" },
+    "de": { "name": "Rinderfilet mit Champignonsoße", "ingredients": "Serviert mit zwei Beilagen nach Wahl: Reis, Saisongemüse, Pommes oder Kartoffelspalten" },
+    "nl": { "name": "Runderfilet met Champignonsaus", "ingredients": "Geserveerd met twee bijgerechten naar keuze: rijst, seizoensgroenten, friet of aardappelpartjes" }
+  }
+},
+{
+  "id": "brochettes-boeuf",
+  "category": "plats",
+  "subcategory": "viandes",
+  "price": 100,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Brochettes de Bœuf", "ingredients": "Servi avec deux accompagnements au choix" },
+    "en": { "name": "Beef Skewers", "ingredients": "Served with two side dishes of choice" },
+    "es": { "name": "Pinchos de Ternera", "ingredients": "Servido con dos guarniciones a elegir" },
+    "ar": { "name": "أسياخ لحم بقري", "ingredients": "تقدم مع طبقين جانبيين من اختيارك" },
+    "de": { "name": "Rindfleischspieße", "ingredients": "Serviert mit zwei Beilagen nach Wahl" },
+    "nl": { "name": "Rundvleesspiesjes", "ingredients": "Geserveerd met twee bijgerechten naar keuze" }
+  }
+},
+  {
+  "id": "crepe-dinde-fumee",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 35,
+  "image": "assets/images/CREP salee/1.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Dinde Fumée" },
+    "en": { "name": "Smoked Turkey Crepe" },
+    "es": { "name": "Crepe de Pavo Ahumado" },
+    "ar": { "name": "كريب ديك رومي مدخن" },
+    "de": { "name": "Crêpe mit geräucherter Pute" },
+    "nl": { "name": "Crêpe met Gerookte Kalkoen" }
+  }
+},
+{
+  "id": "crepe-poulet-champignons",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 40,
+  "image": "assets/images/CREP salee/2.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Poulet et Champignons" },
+    "en": { "name": "Chicken & Mushroom Crepe" },
+    "es": { "name": "Crepe de Pollo y Champiñones" },
+    "ar": { "name": "كريب بالدجاج والفطر" },
+    "de": { "name": "Crêpe mit Hähnchen und Pilzen" },
+    "nl": { "name": "Crêpe met Kip en Champignons" }
+  }
+},
+{
+  "id": "crepe-viande-hachee",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 40,
+  "image": "assets/images/CREP salee/3.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Viande Hachée" },
+    "en": { "name": "Minced Meat Crepe" },
+    "es": { "name": "Crepe de Carne Picada" },
+    "ar": { "name": "كريب باللحم المفروم" },
+    "de": { "name": "Crêpe mit Hackfleisch" },
+    "nl": { "name": "Crêpe met Gehakt" }
+  }
+},
+{
+  "id": "crepe-crevettes",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 50,
+  "image": "assets/images/CREP salee/4.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Crevettes" },
+    "en": { "name": "Prawn Crepe" },
+    "es": { "name": "Crepe de Gambas" },
+    "ar": { "name": "كريب بالروبيان" },
+    "de": { "name": "Crêpe mit Garnelen" },
+    "nl": { "name": "Crêpe met Garnalen" }
+  }
+},
+{
+  "id": "crepe-vegetarien",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 35,
+  "image": "assets/images/CREP salee/5.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Végétarienne" },
+    "en": { "name": "Vegetarian Crepe" },
+    "es": { "name": "Crepe Vegetariana" },
+    "ar": { "name": "كريب نباتي" },
+    "de": { "name": "Vegetarische Crêpe" },
+    "nl": { "name": "Vegetarische Crêpe" }
+  }
+},
+{
+  "id": "crepe-thon",
+  "category": "desserts",
+  "subcategory": "crepes-salees",
+  "price": 35,
+  "image": "assets/images/CREP salee/6.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Thon" },
+    "en": { "name": "Tuna Crepe" },
+    "es": { "name": "Crepe de Atún" },
+    "ar": { "name": "كريب بالتونة" },
+    "de": { "name": "Crêpe mit Thunfisch" },
+    "nl": { "name": "Crêpe met Tonijn" }
+  }
+},
+{
+  "id": "crepe-nature",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 20,
+  "image": "assets/images/crep sucre/1.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Nature" },
+    "en": { "name": "Plain Crepe" },
+    "es": { "name": "Crepe Natural" },
+    "ar": { "name": "كريب سادة" },
+    "de": { "name": "Natur-Crêpe" },
+    "nl": { "name": "Naturel Crêpe" }
+  }
+},
+{
+  "id": "crepe-au-sucre",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 25,
+  "image": "assets/images/crep sucre/2.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe au Sucre" },
+    "en": { "name": "Sugar Crepe" },
+    "es": { "name": "Crepe con Azúcar" },
+    "ar": { "name": "كريب بالسكر" },
+    "de": { "name": "Crêpe mit Zucker" },
+    "nl": { "name": "Crêpe met Suiker" }
+  }
+},
+{
+  "id": "crepe-nutella",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 30,
+  "image": "assets/images/crep sucre/3.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Nutella" },
+    "en": { "name": "Nutella Crepe" },
+    "es": { "name": "Crepe de Nutella" },
+    "ar": { "name": "كريب بالنوتيلا" },
+    "de": { "name": "Nutella-Crêpe" },
+    "nl": { "name": "Nutella Crêpe" }
+  }
+},
+{
+  "id": "crepe-nutella-banane",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 35,
+  "image": "assets/images/crep sucre/4.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Nutella et Banane" },
+    "en": { "name": "Nutella & Banana Crepe" },
+    "es": { "name": "Crepe de Nutella y Plátano" },
+    "ar": { "name": "كريب بالنوتيلا والموز" },
+    "de": { "name": "Crêpe mit Nutella und Banane" },
+    "nl": { "name": "Crêpe met Nutella en Banaan" }
+  }
+},
+{
+  "id": "crepe-pistache",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 40,
+  "image": "assets/images/crep sucre/5.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Pistache" },
+    "en": { "name": "Pistachio Crepe" },
+    "es": { "name": "Crepe de Pistacho" },
+    "ar": { "name": "كريب بالفستق" },
+    "de": { "name": "Pistazien-Crêpe" },
+    "nl": { "name": "Pistache Crêpe" }
+  }
+},
+{
+  "id": "crepe-amlou-miel",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 35,
+  "image": "assets/images/crep sucre/6.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Amlou ou Miel" },
+    "en": { "name": "Amlou or Honey Crepe" },
+    "es": { "name": "Crepe de Amlou o Miel" },
+    "ar": { "name": "كريب بالأملو أو العسل" },
+    "de": { "name": "Crêpe mit Amlou oder Honig" },
+    "nl": { "name": "Crêpe met Amlou of Honing" }
+  }
+},
+{
+  "id": "crepe-dubai",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 45,
+  "image": "assets/images/crep sucre/7.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Dubaï", "ingredients": "Nutella, pistache, konafa" },
+    "en": { "name": "Dubai Crepe", "ingredients": "Nutella, pistachio, knafeh" },
+    "es": { "name": "Crepe Dubái", "ingredients": "Nutella, pistacho, knafeh" },
+    "ar": { "name": "كريب دبي", "ingredients": "نوتيلا، فستق، كنافة" },
+    "de": { "name": "Dubai-Crêpe", "ingredients": "Nutella, Pistazien, Knafeh" },
+    "nl": { "name": "Dubai Crêpe", "ingredients": "Nutella, pistache, knafeh" }
+  }
+},
+{
+  "id": "crepe-brazilian",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 40,
+  "image": "assets/images/crep sucre/8.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Brazilian", "ingredients": "Nutella, banane, topping caramel, crème Chantilly" },
+    "en": { "name": "Brazilian Crepe", "ingredients": "Nutella, banana, caramel topping, whipped cream" },
+    "es": { "name": "Crepe Brasileño", "ingredients": "Nutella, plátano, sirope de caramelo, nata montada" },
+    "ar": { "name": "كريب برازيلي", "ingredients": "نوتيلا، موز، صوص كراميل، كريمة شانتي" },
+    "de": { "name": "Brasilianische Crêpe", "ingredients": "Nutella, Banane, Karamellsoße, Schlagsahne" },
+    "nl": { "name": "Braziliaanse Crêpe", "ingredients": "Nutella, banaan, karameltopping, slagroom" }
+  }
+},
+{
+  "id": "maison-pandy",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 55,
+  "image": "assets/images/crep sucre/9.jpg",
+  "translations": {
+    "fr": { "name": "Maison Pandy", "ingredients": "Pistache, Nutella, boule de glace au choix, banane, topping chocolat" },
+    "en": { "name": "Pandy House", "ingredients": "Pistachio, Nutella, scoop of ice cream of choice, banana, chocolate topping" },
+    "es": { "name": "Especial Casa Pandy", "ingredients": "Pistacho, Nutella, bola de helado a elegir, plátano, sirope de chocolate" },
+    "ar": { "name": "باندي هاوس", "ingredients": "فستق، نوتيلا، كرة آيس كريم حسب الاختيار، موز، صوص شوكولاتة" },
+    "de": { "name": "Pandy House", "ingredients": "Pistazien, Nutella, Kugel Eis nach Wahl, Banane, Schokoladensoße" },
+    "nl": { "name": "Pandy House", "ingredients": "Pistache, Nutella, bol ijs naar keuze, banaan, chocoladetopping" }
+  }
+},
+{
+  "id": "crepe-assortiment",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 45,
+  "image": "assets/images/crep sucre/10.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Gourmande", "ingredients": "Lotus, caramel, Oreo, kinder Bueno, KitKat" },
+    "en": { "name": "Gourmet Crepe", "ingredients": "Lotus, caramel, Oreo, Kinder Bueno, KitKat" },
+    "es": { "name": "Crepe Gourmet", "ingredients": "Lotus, caramelo, Oreo, Kinder Bueno, KitKat" },
+    "ar": { "name": "كريب جورميه", "ingredients": "لوتس، كراميل، أوريو، كيندر بوينو، كيت كات" },
+    "de": { "name": "Gourmet-Crêpe", "ingredients": "Lotus, Karamell, Oreo, Kinder Bueno, KitKat" },
+    "nl": { "name": "Gourmet Crêpe", "ingredients": "Lotus, karamel, Oreo, Kinder Bueno, KitKat" }
+  }
+},
+{
+  "id": "crepe-royal",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 60,
+  "image": "assets/images/crep sucre/10.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Royal", "ingredients": "Nutella, Oreo, kinder Bueno, banane, boule de glace, crème Chantilly" },
+    "en": { "name": "Royal Crepe", "ingredients": "Nutella, Oreo, Kinder Bueno, banana, scoop of ice cream, whipped cream" },
+    "es": { "name": "Crepe Real", "ingredients": "Nutella, Oreo, Kinder Bueno, plátano, bola de helado, nata montada" },
+    "ar": { "name": "كريب رويال", "ingredients": "نوتيلا، أوريو، كيندر بوينو، موز، كرة آيس كريم، كريمة شانتي" },
+    "de": { "name": "Royal-Crêpe", "ingredients": "Nutella, Oreo, Kinder Bueno, Banane, Kugel Eis, Schlagsahne" },
+    "nl": { "name": "Royal Crêpe", "ingredients": "Nutella, Oreo, Kinder Bueno, banaan, bol ijs, slagroom" }
+  }
+},
+  {
+  "id": "crepe-tropical",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 55,
+  "image": "assets/images/crep sucre/11.jpg",
+  "translations": {
+    "fr": { "name": "Crêpe Tropical", "ingredients": "Fruits de saison, topping tropical, crème Chantilly" },
+    "en": { "name": "Tropical Crepe", "ingredients": "Seasonal fruits, tropical topping, whipped cream" },
+    "es": { "name": "Crepe Tropical", "ingredients": "Frutas de temporada, sirope tropical, nata montada" },
+    "ar": { "name": "كريب استوائي", "ingredients": "فواكه موسمية، صوص استوائي، كريمة شانتيه" },
+    "de": { "name": "Tropischer Crêpe", "ingredients": "Saisonale Früchte, tropisches Topping, Schlagsahne" },
+    "nl": { "name": "Tropische Crêpe", "ingredients": "Seizoensfruit, tropische topping, slagroom" }
+  }
+},
+{
+  "id": "croissant-glace",
+  "category": "desserts",
+  "subcategory": "crepes-sucrees",
+  "price": 35,
+  "image": "assets/images/crep sucre/12.jpg",
+  "translations": {
+    "fr": { "name": "Croissant Glacé", "ingredients": "Boule de glace au choix" },
+    "en": { "name": "Ice Cream Croissant", "ingredients": "Scoop of ice cream of choice" },
+    "es": { "name": "Croissant con Helado", "ingredients": "Bola de helado a elegir" },
+    "ar": { "name": "كرواسون بالآيس كريم", "ingredients": "كرة آيس كريم من اختيارك" },
+    "de": { "name": "Croissant mit Eis", "ingredients": "Eine Kugel Eis nach Wahl" },
+    "nl": { "name": "Croissant met IJs", "ingredients": "Een bolletje ijs naar keuze" }
+  }
+},
+{
+  "id": "ice-coffee",
+  "category": "boissons",
+  "subcategory": "ice-coffee",
+  "price": 35,
+  "image": "assets/images/menu 2/1.jpg",
+  "translations": {
+    "fr": { "name": "Ice Coffee" },
+    "en": { "name": "Ice Coffee" },
+    "es": { "name": "Café Helado" },
+    "ar": { "name": "قهوة مثلجة" },
+    "de": { "name": "Eiskaffee" },
+    "nl": { "name": "IJskoffie" }
+  }
+},
+{
+  "id": "ice-coffee-latte",
+  "category": "boissons",
+  "subcategory": "ice-coffee",
+  "price": 35,
+  "image": "assets/images/menu 2/2.jpg",
+  "translations": {
+    "fr": { "name": "Ice Coffee Latte" },
+    "en": { "name": "Iced Coffee Latte" },
+    "es": { "name": "Café Latte Helado" },
+    "ar": { "name": "لاتيه مثلج" },
+    "de": { "name": "Eis-Caffè Latte" },
+    "nl": { "name": "IJs Latte" }
+  }
+},
+{
+  "id": "ice-coconut-latte",
+  "category": "boissons",
+  "subcategory": "ice-coffee",
+  "price": 40,
+  "image": "assets/images/menu 2/3.jpg",
+  "translations": {
+    "fr": { "name": "Ice Coconut Latte" },
+    "en": { "name": "Iced Coconut Latte" },
+    "es": { "name": "Café Latte de Coco Helado" },
+    "ar": { "name": "لاتيه جوز الهند المثلج" },
+    "de": { "name": "Eis-Kokos-Latte" },
+    "nl": { "name": "IJs Kokos Latte" }
+  }
+},
+{
+  "id": "ice-tea-citron",
+  "category": "boissons",
+  "subcategory": "ice-tea",
+  "price": 35,
+  "image": "assets/images/menu 2/4.jpg",
+  "translations": {
+    "fr": { "name": "Ice Tea Citron" },
+    "en": { "name": "Lemon Iced Tea" },
+    "es": { "name": "Té Helado de Limón" },
+    "ar": { "name": "شاي مثلج بالليمون" },
+    "de": { "name": "Zitronen-Eistee" },
+    "nl": { "name": "Citroen IJsthee" }
+  }
+},
+{
+  "id": "ice-tea-peche",
+  "category": "boissons",
+  "subcategory": "ice-tea",
+  "price": 35,
+  "image": "assets/images/menu 2/5.jpg",
+  "translations": {
+    "fr": { "name": "Ice Tea Pêche" },
+    "en": { "name": "Peach Iced Tea" },
+    "es": { "name": "Té Helado de Melocotón" },
+    "ar": { "name": "شاي مثلج بالخوخ" },
+    "de": { "name": "Pfirsich-Eistee" },
+    "nl": { "name": "Perzik IJsthee" }
+  }
+},
+{
+  "id": "ice-tea-fruits-rouges",
+  "category": "boissons",
+  "subcategory": "ice-tea",
+  "price": 40,
+  "image": "assets/images/menu 2/6.jpg",
+  "translations": {
+    "fr": { "name": "Ice Tea Fruits Rouges" },
+    "en": { "name": "Red Fruits Iced Tea" },
+    "es": { "name": "Té Helado de Frutos Rojos" },
+    "ar": { "name": "شاي مثلج بالفواكه الحمراء" },
+    "de": { "name": "Eistee mit roten Früchten" },
+    "nl": { "name": "IJsthee Rode Vruchten" }
+  }
+},
+{
+  "id": "mojito-virgin",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 35,
+  "image": "assets/images/menu 2/8.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Virgin" },
+    "en": { "name": "Virgin Mojito" },
+    "es": { "name": "Mojito Clásico (Sin Alcohol)" },
+    "ar": { "name": "موهيتو كلاسيكي (بدون كحول)" },
+    "de": { "name": "Virgin Mojito" },
+    "nl": { "name": "Virgin Mojito" }
+  }
+},
+{
+  "id": "mojito-green",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 40,
+  "image": "assets/images/menu 2/9.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Green" },
+    "en": { "name": "Green Mojito" },
+    "es": { "name": "Mojito Verde" },
+    "ar": { "name": "موهيتو أخضر" },
+    "de": { "name": "Grüner Mojito" },
+    "nl": { "name": "Groene Mojito" }
+  }
+},
+{
+  "id": "mojito-red",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 40,
+  "image": "assets/images/menu 2/10.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Red" },
+    "en": { "name": "Red Mojito" },
+    "es": { "name": "Mojito Rojo" },
+    "ar": { "name": "موهيتو أحمر" },
+    "de": { "name": "Roter Mojito" },
+    "nl": { "name": "Rode Mojito" }
+  }
+},
+{
+  "id": "mojito-blue",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 40,
+  "image": "assets/images/menu 2/11.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Blue" },
+    "en": { "name": "Blue Mojito" },
+    "es": { "name": "Mojito Azul" },
+    "ar": { "name": "موهيتو أزرق" },
+    "de": { "name": "Blauer Mojito" },
+    "nl": { "name": "Blauwe Mojito" }
+  }
+},
+{
+  "id": "mojito-pina-colada",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 45,
+  "image": "assets/images/menu 2/12.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Piña Colada" },
+    "en": { "name": "Piña Colada Mojito" },
+    "es": { "name": "Mojito Piña Colada" },
+    "ar": { "name": "موهيتو بينيا كولادا" },
+    "de": { "name": "Piña-Colada-Mojito" },
+    "nl": { "name": "Piña Colada Mojito" }
+  }
+},
+{
+  "id": "mojito-energetique",
+  "category": "boissons",
+  "subcategory": "mojitos-virgin",
+  "price": 50,
+  "image": "assets/images/menu 2/13.jpg",
+  "translations": {
+    "fr": { "name": "Mojito Énergétique" },
+    "en": { "name": "Energy Mojito" },
+    "es": { "name": "Mojito Energético" },
+    "ar": { "name": "موهيتو الطاقة" },
+    "de": { "name": "Energy-Mojito" },
+    "nl": { "name": "Energy Mojito" }
+  }
+},
+ {
+  "id": "smoothie-mangue",
+  "category": "boissons",
+  "subcategory": "smoothies",
+  "price": 40,
+  "image": "assets/images/menu 2/14.jpg",
+  "translations": {
+    "fr": { "name": "Smoothie Mangue" },
+    "en": { "name": "Mango Smoothie" },
+    "es": { "name": "Smoothie de Mango" },
+    "ar": { "name": "سموذي المانجو" },
+    "de": { "name": "Mango-Smoothie" },
+    "nl": { "name": "Mango Smoothie" }
+  }
+},
+{
+  "id": "smoothie-fraise",
+  "category": "boissons",
+  "subcategory": "smoothies",
+  "price": 40,
+  "image": "assets/images/menu 2/15.jpg",
+  "translations": {
+    "fr": { "name": "Smoothie Fraise" },
+    "en": { "name": "Strawberry Smoothie" },
+    "es": { "name": "Smoothie de Fresa" },
+    "ar": { "name": "سموذي الفراولة" },
+    "de": { "name": "Erdbeer-Smoothie" },
+    "nl": { "name": "Aardbei Smoothie" }
+  }
+},
+{
+  "id": "smoothie-ananas",
+  "category": "boissons",
+  "subcategory": "smoothies",
+  "price": 45,
+  "image": "assets/images/menu 2/16.jpg",
+  "translations": {
+    "fr": { "name": "Smoothie Ananas" },
+    "en": { "name": "Pineapple Smoothie" },
+    "es": { "name": "Smoothie de Piña" },
+    "ar": { "name": "سموذي الأناناس" },
+    "de": { "name": "Ananas-Smoothie" },
+    "nl": { "name": "Ananas Smoothie" }
+  }
+},
+{
+  "id": "smoothie-flower",
+  "category": "boissons",
+  "subcategory": "smoothies",
+  "price": 45,
+  "image": "assets/images/menu 2/17.jpg",
+  "translations": {
+    "fr": { "name": "Smoothie Flower" },
+    "en": { "name": "Flower Smoothie" },
+    "es": { "name": "Smoothie Flower" },
+    "ar": { "name": "سموذي الزهور" },
+    "de": { "name": "Blüten-Smoothie" },
+    "nl": { "name": "Bloemen Smoothie" }
+  }
+},
+  {
+  "id": "milkshake-fraise",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 40,
+  "image": "assets/images/milkshake/2.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Fraise" },
+    "en": { "name": "Strawberry Milkshake" },
+    "es": { "name": "Batido de Fresa" },
+    "ar": { "name": "ميلك شيك بالفراولة" },
+    "de": { "name": "Erdbeer-Milchshake" },
+    "nl": { "name": "Aardbeienmilkshake" }
+  }
+},
+{
+  "id": "milkshake-chocolat",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 40,
+  "image": "assets/images/milkshake/3.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Chocolat" },
+    "en": { "name": "Chocolate Milkshake" },
+    "es": { "name": "Batido de Chocolate" },
+    "ar": { "name": "ميلك شيك بالشوكولاتة" },
+    "de": { "name": "Schokoladen-Milchshake" },
+    "nl": { "name": "Chocolademilkshake" }
+  }
+},
+{
+  "id": "milkshake-vanille",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 35,
+  "image": "assets/images/milkshake/4.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Vanille" },
+    "en": { "name": "Vanilla Milkshake" },
+    "es": { "name": "Batido de Vainilla" },
+    "ar": { "name": "ميلك شيك بالفانيليا" },
+    "de": { "name": "Vanille-Milchshake" },
+    "nl": { "name": "Vanillemilkshake" }
+  }
+},
+{
+  "id": "milkshake-yaourt",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 40,
+  "image": "assets/images/milkshake/5.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Yaourt" },
+    "en": { "name": "Yogurt Milkshake" },
+    "es": { "name": "Batido de Yogur" },
+    "ar": { "name": "ميلك شيك بالزبادي" },
+    "de": { "name": "Joghurt-Milchshake" },
+    "nl": { "name": "Yoghurtmilkshake" }
+  }
+},
+{
+  "id": "milkshake-citron",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 35,
+  "image": "assets/images/milkshake/7.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Citron" },
+    "en": { "name": "Lemon Milkshake" },
+    "es": { "name": "Batido de Limón" },
+    "ar": { "name": "ميلك شيك بالليمون" },
+    "de": { "name": "Zitronen-Milchshake" },
+    "nl": { "name": "Citroenmilkshake" }
+  }
+},
+{
+  "id": "milkshake-pistache",
+  "category": "boissons",
+  "subcategory": "milkshakes-speciaux",
+  "price": 50,
+  "image": "assets/images/milkshake/8.jpg",
+  "translations": {
+    "fr": { "name": "Milkshake Pistache" },
+    "en": { "name": "Pistachio Milkshake" },
+    "es": { "name": "Batido de Pistacho" },
+    "ar": { "name": "ميلك شيك بالفستق" },
+    "de": { "name": "Pistazien-Milchshake" },
+    "nl": { "name": "Pistachemilkshake" }
+  }
+},
+  {
+  "id": "coupe-sorbets",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/1.jpg",
+  "translations": {
+    "fr": { "name": "Coupe de Sorbets", "ingredients": "Fraise, citron et crème Chantilly" },
+    "en": { "name": "Sorbet Cup", "ingredients": "Strawberry, lemon and whipped cream" },
+    "es": { "name": "Copa de Sorbetes", "ingredients": "Fresa, limón y nata montada" },
+    "ar": { "name": "كأس سوربيه", "ingredients": "فراولة، ليمون وكريمة شانتيه" },
+    "de": { "name": "Sorbetbecher", "ingredients": "Erdbeere, Zitrone und Schlagsahne" },
+    "nl": { "name": "Sorbet Coupe", "ingredients": "Aardbei, citroen en slagroom" }
+  }
+},
+{
+  "id": "coupe-enfants",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/2.jpg",
+  "translations": {
+    "fr": { "name": "Coupe Enfants", "ingredients": "Vanille, fraise, citron et crème Chantilly" },
+    "en": { "name": "Kids Cup", "ingredients": "Vanilla, strawberry, lemon and whipped cream" },
+    "es": { "name": "Copa Infantil", "ingredients": "Vainilla, fresa, limón y nata montada" },
+    "ar": { "name": "كأس الأطفال", "ingredients": "فانيليا، فراولة، ليمون وكريمة شانتيه" },
+    "de": { "name": "Kinderbecher", "ingredients": "Vanille, Erdbeere, Zitrone und Schlagsahne" },
+    "nl": { "name": "Kinder Coupe", "ingredients": "Vanille, aardbei, citroen en slagroom" }
+  }
+},
+{
+  "id": "coupe-pan-dy",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/3.jpg",
+  "translations": {
+    "fr": { "name": "Coupe Pan Dy", "ingredients": "Yaourt, fraise, citron et crème Chantilly" },
+    "en": { "name": "Pan Dy Cup", "ingredients": "Yogurt, strawberry, lemon and whipped cream" },
+    "es": { "name": "Copa Pan Dy", "ingredients": "Yogur, fresa, limón y nata montada" },
+    "ar": { "name": "كأس بان دي", "ingredients": "زبادي، فراولة، ليمون وكريمة شانتيه" },
+    "de": { "name": "Pan Dy Becher", "ingredients": "Joghurt, Erdbeere, Zitrone und Schlagsahne" },
+    "nl": { "name": "Pan Dy Coupe", "ingredients": "Yoghurt, aardbei, citroen en slagroom" }
+  }
+},
+{
+  "id": "coupe-split",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/4.jpg",
+  "translations": {
+    "fr": { "name": "Coupe Split", "ingredients": "Chocolat, vanille, pistache et crème Chantilly" },
+    "en": { "name": "Split Cup", "ingredients": "Chocolate, vanilla, pistachio and whipped cream" },
+    "es": { "name": "Copa Split", "ingredients": "Chocolate, vainilla, pistacho y nata montada" },
+    "ar": { "name": "كأس سبليت", "ingredients": "شوكولاتة، فانيليا، فستق وكريمة شانتيه" },
+    "de": { "name": "Split-Becher", "ingredients": "Schokolade, Vanille, Pistazie und Schlagsahne" },
+    "nl": { "name": "Split Coupe", "ingredients": "Chocolade, vanille, pistache en slagroom" }
+  }
+},
+{
+  "id": "coupe-valor",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/5.jpg",
+  "translations": {
+    "fr": { "name": "Coupe Valor", "ingredients": "Vanille et crème Chantilly" },
+    "en": { "name": "Valor Cup", "ingredients": "Vanilla and whipped cream" },
+    "es": { "name": "Copa Valor", "ingredients": "Vainilla y nata montada" },
+    "ar": { "name": "كأس فالور", "ingredients": "فانيليا وكريمة شانتيه" },
+    "de": { "name": "Valor-Becher", "ingredients": "Vanille und Schlagsahne" },
+    "nl": { "name": "Valor Coupe", "ingredients": "Vanille en slagroom" }
+  }
+},
+{
+  "id": "coupe-med",
+  "category": "desserts",
+  "subcategory": "glaces",
+  "price": 40,
+  "image": "assets/images/glaces/6.jpg",
+  "translations": {
+    "fr": { "name": "Coupe Med", "ingredients": "Yaourt, citron et crème Chantilly" },
+    "en": { "name": "Med Cup", "ingredients": "Yogurt, lemon and whipped cream" },
+    "es": { "name": "Copa Med", "ingredients": "Yogur, limón y nata montada" },
+    "ar": { "name": "كأس ميد", "ingredients": "زبادي، ليمون وكريمة شانتيه" },
+    "de": { "name": "Med-Becher", "ingredients": "Joghurt, Zitrone und Schlagsahne" },
+    "nl": { "name": "Med Coupe", "ingredients": "Yoghurt, citroen en slagroom" }
+  }
+},
+{
+  "id": "jus-fruit-saison",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Fruit de Saison" },
+    "en": { "name": "Seasonal Fruit" },
+    "es": { "name": "Fruta de Temporada" },
+    "ar": { "name": "فاكهة الموسم" },
+    "de": { "name": "Saisonale Früchte" },
+    "nl": { "name": "Seizoensfruit" }
+  }
+},
+{
+  "id": "jus-ananas-presse",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Ananas Pressé" },
+    "en": { "name": "Fresh Squeezed Pineapple" },
+    "es": { "name": "Piña Exprimida" },
+    "ar": { "name": "عصير أناناس طازج" },
+    "de": { "name": "Frisch gepresste Ananas" },
+    "nl": { "name": "Versgeperste Ananas" }
+  }
+},
+{
+  "id": "jus-pomme-pressee",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pomme Pressée" },
+    "en": { "name": "Fresh Squeezed Apple" },
+    "es": { "name": "Manzana Exprimida" },
+    "ar": { "name": "عصير تفاح طازج" },
+    "de": { "name": "Frisch gepresster Apfel" },
+    "nl": { "name": "Versgeperste Appel" }
+  }
+},
+{
+  "id": "jus-carotte-pressee",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Carotte Pressée" },
+    "en": { "name": "Fresh Squeezed Carrot" },
+    "es": { "name": "Zanahoria Exprimida" },
+    "ar": { "name": "عصير جزر طازج" },
+    "de": { "name": "Frisch gepresste Karotte" },
+    "nl": { "name": "Versgeperste Wortel" }
+  }
+},
+  {
+  "id": "jus-poire-pressee",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Poire Pressée" },
+    "en": { "name": "Fresh Squeezed Pear" },
+    "es": { "name": "Pera Exprimida" },
+    "ar": { "name": "عصير كمثرى طازج" },
+    "de": { "name": "Frisch gepresste Birne" },
+    "nl": { "name": "Versgeperste Peer" }
+  }
+},
+{
+  "id": "jus-pomme-ananas",
+  "category": "boissons",
+  "subcategory": "jus-presses",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pomme Ananas" },
+    "en": { "name": "Apple & Pineapple" },
+    "es": { "name": "Manzana y Piña" },
+    "ar": { "name": "تفاح وأناناس" },
+    "de": { "name": "Apfel & Ananas" },
+    "nl": { "name": "Appel & Ananas" }
+  }
+},
+{
+  "id": "jus-tropical",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Tropical - Mangue & Ananas" },
+    "en": { "name": "Tropical - Mango & Pineapple" },
+    "es": { "name": "Tropical - Mango y Piña" },
+    "ar": { "name": "استوائي - مانجو وأناناس" },
+    "de": { "name": "Tropisch - Mango & Ananas" },
+    "nl": { "name": "Tropisch - Mango & Ananas" }
+  }
+},
+{
+  "id": "jus-banane",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Banane" },
+    "en": { "name": "Banana" },
+    "es": { "name": "Plátano" },
+    "ar": { "name": "موز" },
+    "de": { "name": "Banane" },
+    "nl": { "name": "Banaan" }
+  }
+},
+{
+  "id": "jus-pomme",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pomme" },
+    "en": { "name": "Apple" },
+    "es": { "name": "Manzana" },
+    "ar": { "name": "تفاح" },
+    "de": { "name": "Apfel" },
+    "nl": { "name": "Appel" }
+  }
+},
+{
+  "id": "jus-avocat",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Avocat" },
+    "en": { "name": "Avocado" },
+    "es": { "name": "Aguacate" },
+    "ar": { "name": "أفوكادو" },
+    "de": { "name": "Avocado" },
+    "nl": { "name": "Avocado" }
+  }
+},
+{
+  "id": "jus-ananas",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Ananas" },
+    "en": { "name": "Pineapple" },
+    "es": { "name": "Piña" },
+    "ar": { "name": "أناناس" },
+    "de": { "name": "Ananas" },
+    "nl": { "name": "Ananas" }
+  }
+},
+{
+  "id": "jus-fraise",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Fraise" },
+    "en": { "name": "Strawberry" },
+    "es": { "name": "Fresa" },
+    "ar": { "name": "فراولة" },
+    "de": { "name": "Erdbeere" },
+    "nl": { "name": "Aardbei" }
+  }
+},
+{
+  "id": "jus-mangue",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Mangue" },
+    "en": { "name": "Mango" },
+    "es": { "name": "Mango" },
+    "ar": { "name": "مانجو" },
+    "de": { "name": "Mango" },
+    "nl": { "name": "Mango" }
+  }
+},
+{
+  "id": "jus-peche",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pêche" },
+    "en": { "name": "Peach" },
+    "es": { "name": "Melocotón" },
+    "ar": { "name": "خوخ" },
+    "de": { "name": "Pfirsich" },
+    "nl": { "name": "Perzik" }
+  }
+},
+{
+  "id": "jus-dragon",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Dragon" },
+    "en": { "name": "Dragon Fruit" },
+    "es": { "name": "Fruta del Dragón" },
+    "ar": { "name": "فاكهة التنين" },
+    "de": { "name": "Drachenfrucht" },
+    "nl": { "name": "Drakenfruit" }
+  }
+},
+{
+  "id": "jus-dragon-fruits",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Dragon et Fruits" },
+    "en": { "name": "Dragon Fruit & Mixed Fruits" },
+    "es": { "name": "Fruta del Dragón y Frutas Mixtas" },
+    "ar": { "name": "فاكهة التنين وفواكه مشكلة" },
+    "de": { "name": "Drachenfrucht & Gemischte Früchte" },
+    "nl": { "name": "Drakenfruit & Gemengd Fruit" }
+  }
+},
+{
+  "id": "jus-special-pandy",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Spécial Pan Dy" },
+    "en": { "name": "Pan Dy Special" },
+    "es": { "name": "Especial Pan Dy" },
+    "ar": { "name": "بان دي الخاص" },
+    "de": { "name": "Pan Dy Spezial" },
+    "nl": { "name": "Pan Dy Special" }
+  }
+},
+{
+  "id": "jus-panache",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Panaché aux Fruits" },
+    "en": { "name": "Mixed Fruit Panaché" },
+    "es": { "name": "Panaché de Frutas" },
+    "ar": { "name": "عصير فواكه مشكلة" },
+    "de": { "name": "Gemischter Fruchtsaft" },
+    "nl": { "name": "Gemengd Fruitsap" }
+  }
+},
+{
+  "id": "salade-de-fruits",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Salade de Fruits" },
+    "en": { "name": "Fruit Salad" },
+    "es": { "name": "Ensalada de Frutas" },
+    "ar": { "name": "سلطة فواكه" },
+    "de": { "name": "Obstsalat" },
+    "nl": { "name": "Fruitsalade" }
+  }
+},
+{
+  "id": "jus-citron",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Citron" },
+    "en": { "name": "Lemon" },
+    "es": { "name": "Limón" },
+    "ar": { "name": "ليمون" },
+    "de": { "name": "Zitrone" },
+    "nl": { "name": "Citroen" }
+  }
+},
+{
+  "id": "jus-citron-gingembre",
+  "category": "boissons",
+  "subcategory": "jus-de-fruits",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Citron Gingembre" },
+    "en": { "name": "Lemon Ginger" },
+    "es": { "name": "Limón y Jengibre" },
+    "ar": { "name": "ليمون وزنجبيل" },
+    "de": { "name": "Zitrone & Ingwer" },
+    "nl": { "name": "Citroen & Gember" }
+  }
+},
+  {
+  "id": "chaud-nespresso",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Nespresso" },
+    "en": { "name": "Nespresso" },
+    "es": { "name": "Nespresso" },
+    "ar": { "name": "نسبريسو" },
+    "de": { "name": "Nespresso" },
+    "nl": { "name": "Nespresso" }
+  }
+},
+{
+  "id": "chaud-nespresso-lait",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 22,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Nespresso au Lait" },
+    "en": { "name": "Nespresso with Milk" },
+    "es": { "name": "Nespresso con Leche" },
+    "ar": { "name": "نسبريسو بالحليب" },
+    "de": { "name": "Nespresso mit Milch" },
+    "nl": { "name": "Nespresso met Melk" }
+  }
+},
+{
+  "id": "chaud-cafe-separe",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Café Séparé" },
+    "en": { "name": "Separated Coffee (Milk on the side)" },
+    "es": { "name": "Café Separado (Leche aparte)" },
+    "ar": { "name": "قهوة مع الحليب جانباً" },
+    "de": { "name": "Kaffee mit Milch separat" },
+    "nl": { "name": "Koffie met Melk Apart" }
+  }
+},
+{
+  "id": "chaud-cafe-americain",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Café Américain" },
+    "en": { "name": "Americano Coffee" },
+    "es": { "name": "Café Americano" },
+    "ar": { "name": "قهوة أمريكية" },
+    "de": { "name": "Americano" },
+    "nl": { "name": "Americano" }
+  }
+},
+{
+  "id": "chaud-cafe-noir",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Café Noir" },
+    "en": { "name": "Black Coffee" },
+    "es": { "name": "Café Solo" },
+    "ar": { "name": "قهوة سوداء" },
+    "de": { "name": "Schwarzer Kaffee" },
+    "nl": { "name": "Zwarte Koffie" }
+  }
+},
+{
+  "id": "chaud-cafe-italien",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Café Italien" },
+    "en": { "name": "Italian Coffee" },
+    "es": { "name": "Café Italiano" },
+    "ar": { "name": "قهوة إيطالية" },
+    "de": { "name": "Italienischer Kaffee" },
+    "nl": { "name": "Italiaanse Koffie" }
+  }
+},
+{
+  "id": "chaud-cafe-creme",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Café Crème" },
+    "en": { "name": "Coffee with Cream" },
+    "es": { "name": "Café con Crema" },
+    "ar": { "name": "قهوة بالكريمة" },
+    "de": { "name": "Kaffee mit Sahne" },
+    "nl": { "name": "Koffie met Room" }
+  }
+},
+{
+  "id": "chaud-cappuccino",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Cappuccino" },
+    "en": { "name": "Cappuccino" },
+    "es": { "name": "Capuchino" },
+    "ar": { "name": "كابتشينو" },
+    "de": { "name": "Cappuccino" },
+    "nl": { "name": "Cappuccino" }
+  }
+},
+{
+  "id": "chaud-colacao",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Colacao" },
+    "en": { "name": "Colacao (Hot Chocolate)" },
+    "es": { "name": "Colacao" },
+    "ar": { "name": "كولاكاو (شوكولاتة ساخنة)" },
+    "de": { "name": "Colacao (Heiße Schokolade)" },
+    "nl": { "name": "Colacao (Warme Chocolade)" }
+  }
+},
+{
+  "id": "chaud-lait-chaud",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Lait Chaud" },
+    "en": { "name": "Hot Milk" },
+    "es": { "name": "Leche Caliente" },
+    "ar": { "name": "حليب ساخن" },
+    "de": { "name": "Warme Milch" },
+    "nl": { "name": "Warme Melk" }
+  }
+},
+{
+  "id": "chaud-the-marocain",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Thé Marocain / Noir" },
+    "en": { "name": "Moroccan Tea / Black Tea" },
+    "es": { "name": "Té Marroquí / Té Negro" },
+    "ar": { "name": "شاي مغربي / شاي أسود" },
+    "de": { "name": "Marokkanischer Tee / Schwarzer Tee" },
+    "nl": { "name": "Marokkaanse Thee / Zwarte Thee" }
+  }
+},
+{
+  "id": "chaud-the-lait",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Thé au Lait" },
+    "en": { "name": "Tea with Milk" },
+    "es": { "name": "Té con Leche" },
+    "ar": { "name": "شاي بالحليب" },
+    "de": { "name": "Tee mit Milch" },
+    "nl": { "name": "Thee met Melk" }
+  }
+},
+{
+  "id": "chaud-the-gingembre",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Thé au Gingembre" },
+    "en": { "name": "Ginger Tea" },
+    "es": { "name": "Té de Jengibre" },
+    "ar": { "name": "شاي بالزنجبيل" },
+    "de": { "name": "Ingwertee" },
+    "nl": { "name": "Gemberthee" }
+  }
+},
+{
+  "id": "chaud-infusion",
+  "category": "boissons",
+  "subcategory": "boissons-chaudes",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Infusion" },
+    "en": { "name": "Herbal Tea" },
+    "es": { "name": "Infusión" },
+    "ar": { "name": "شاي أعشاب" },
+    "de": { "name": "Kräutertee" },
+    "nl": { "name": "Kruidenthee" }
+  }
+},
+{
+  "id": "froid-sodas",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Sodas Canettes" },
+    "en": { "name": "Canned Sodas" },
+    "es": { "name": "Refrescos en Lata" },
+    "ar": { "name": "مشروبات غازية (علب)" },
+    "de": { "name": "Dosenlimonaden" },
+    "nl": { "name": "Frisdrank in Blik" }
+  }
+},
+  {
+  "id": "froid-oulmes",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Oulmès 25CL" },
+    "en": { "name": "Oulmès Sparkling Water 25CL" },
+    "es": { "name": "Agua con Gas Oulmès 25CL" },
+    "ar": { "name": "أولماس مياه غازية 25 سل" },
+    "de": { "name": "Oulmès Mineralwasser mit Kohlensäure 25CL" },
+    "nl": { "name": "Oulmès Bruisend Mineraalwater 25CL" }
+  }
+},
+{
+  "id": "froid-eau-15l",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Eau Minérale 1,5L" },
+    "en": { "name": "Mineral Water 1.5L" },
+    "es": { "name": "Agua Mineral 1,5L" },
+    "ar": { "name": "مياه معدنية 1.5 لتر" },
+    "de": { "name": "Mineralwasser 1,5L" },
+    "nl": { "name": "Mineraalwater 1,5L" }
+  }
+},
+{
+  "id": "froid-eau-demi",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 10,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Eau Minérale 1/2L" },
+    "en": { "name": "Mineral Water 1/2L" },
+    "es": { "name": "Agua Mineral 1/2L" },
+    "ar": { "name": "مياه معدنية نصف لتر" },
+    "de": { "name": "Mineralwasser 0,5L" },
+    "nl": { "name": "Mineraalwater 0,5L" }
+  }
+},
+{
+  "id": "froid-eau-33cl",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 5,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Eau Minérale 33CL" },
+    "en": { "name": "Mineral Water 33CL" },
+    "es": { "name": "Agua Mineral 33CL" },
+    "ar": { "name": "مياه معدنية 33 سل" },
+    "de": { "name": "Mineralwasser 33CL" },
+    "nl": { "name": "Mineraalwater 33CL" }
+  }
+},
+{
+  "id": "froid-redbull",
+  "category": "boissons",
+  "subcategory": "boissons-fraiches",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Red Bull" },
+    "en": { "name": "Red Bull" },
+    "es": { "name": "Red Bull" },
+    "ar": { "name": "ريد بول" },
+    "de": { "name": "Red Bull" },
+    "nl": { "name": "Red Bull" }
+  }
+},
+{
+  "id": "oeuf-plat-normal",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Œuf au Plat Normal" },
+    "en": { "name": "Fried Egg (Regular)" },
+    "es": { "name": "Huevo Frito Normal" },
+    "ar": { "name": "بيض مقلي عادي" },
+    "de": { "name": "Spiegelei (Normal)" },
+    "nl": { "name": "Gebakken Ei (Normaal)" }
+  }
+},
+{
+  "id": "oeuf-plat-deux",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Deux Œufs au Plat" },
+    "en": { "name": "Two Fried Eggs" },
+    "es": { "name": "Dos Huevos Fritos" },
+    "ar": { "name": "بيضتان مقليتان" },
+    "de": { "name": "Zwei Spiegeleier" },
+    "nl": { "name": "Twee Gebakken Eieren" }
+  }
+},
+{
+  "id": "oeuf-plat-fromage",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Œuf au Plat avec Fromage" },
+    "en": { "name": "Fried Egg with Cheese" },
+    "es": { "name": "Huevo Frito con Queso" },
+    "ar": { "name": "بيض مقلي بالجبن" },
+    "de": { "name": "Spiegelei mit Käse" },
+    "nl": { "name": "Gebakken Ei met Kaas" }
+  }
+},
+{
+  "id": "oeuf-plat-deux-fromage",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Deux Œufs au Plat avec Fromage" },
+    "en": { "name": "Two Fried Eggs with Cheese" },
+    "es": { "name": "Dos Huevos Fritos con Queso" },
+    "ar": { "name": "بيضتان مقليتان بالجبن" },
+    "de": { "name": "Zwei Spiegeleier mit Käse" },
+    "nl": { "name": "Twee Gebakken Eieren met Kaas" }
+  }
+},
+{
+  "id": "oeuf-plat-deux-special",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Deux Œufs au Plat Spécial" },
+    "en": { "name": "Two Fried Eggs Special" },
+    "es": { "name": "Dos Huevos Fritos Especial" },
+    "ar": { "name": "بيضتان مقليتان خاصتان" },
+    "de": { "name": "Zwei Spezial-Spiegeleier" },
+    "nl": { "name": "Twee Speciale Gebakken Eieren" }
+  }
+},
+{
+  "id": "oeuf-tajine-khlie",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 30,
+  "image": "assets/images/ftorat/9.jpg",
+  "translations": {
+    "fr": { "name": "Tajine, Œufs au Khlie" },
+    "en": { "name": "Tagine, Eggs with Khlie (Preserved Meat)" },
+    "es": { "name": "Tajine, Huevos con Khlie (Carne Conservada)" },
+    "ar": { "name": "طاجين بيض بالخليع" },
+    "de": { "name": "Tajine mit Eiern und Khlie" },
+    "nl": { "name": "Tajine met Eieren en Khlie" }
+  }
+},
+{
+  "id": "oeuf-tajine-2-khlie",
+  "category": "petit-dejeuner",
+  "subcategory": "oeuf-au-plat",
+  "price": 40,
+  "image": "assets/images/ftorat/9.jpg",
+  "translations": {
+    "fr": { "name": "Tajine avec 2 Œufs au Khlie" },
+    "en": { "name": "Tagine with 2 Eggs & Khlie" },
+    "es": { "name": "Tajine con 2 Huevos y Khlie" },
+    "ar": { "name": "طاجين مع بيضتين وخليع" },
+    "de": { "name": "Tajine mit 2 Eiern und Khlie" },
+    "nl": { "name": "Tajine met 2 Eieren en Khlie" }
+  }
+},
+{
+  "id": "croque-normal",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Croque Normal" },
+    "en": { "name": "Classic Croque" },
+    "es": { "name": "Croque Clásico" },
+    "ar": { "name": "كروك كلاسيكي" },
+    "de": { "name": "Klassischer Croque" },
+    "nl": { "name": "Klassieke Croque" }
+  }
+},
+{
+  "id": "croque-monsieur",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Croque Monsieur" },
+    "en": { "name": "Croque Monsieur" },
+    "es": { "name": "Croque Monsieur" },
+    "ar": { "name": "كروك موسيو" },
+    "de": { "name": "Croque Monsieur" },
+    "nl": { "name": "Croque Monsieur" }
+  }
+},
+  {
+  "id": "croque-madame",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Croque Madame" },
+    "en": { "name": "Croque Madame" },
+    "es": { "name": "Croque Madame" },
+    "ar": { "name": "كروك مدام" },
+    "de": { "name": "Croque Madame" },
+    "nl": { "name": "Croque Madame" }
+  }
+},
+{
+  "id": "croque-pain-special",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pain Spécial" },
+    "en": { "name": "Special Bread" },
+    "es": { "name": "Pan Especial" },
+    "ar": { "name": "خبز خاص" },
+    "de": { "name": "Spezialbrot" },
+    "nl": { "name": "Speciaal Brood" }
+  }
+},
+{
+  "id": "croque-pain-farci",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Pain Farci" },
+    "en": { "name": "Stuffed Bread" },
+    "es": { "name": "Pan Relleno" },
+    "ar": { "name": "خبز محشو" },
+    "de": { "name": "Gefülltes Brot" },
+    "nl": { "name": "Gevuld Brood" }
+  }
+},
+{
+  "id": "croque-pain-fromage",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 20,
+  "image": "assets/images/ftorat/5.jpg",
+  "translations": {
+    "fr": { "name": "Pain au Fromage" },
+    "en": { "name": "Cheese Bread" },
+    "es": { "name": "Pan de Queso" },
+    "ar": { "name": "خبز بالجبن" },
+    "de": { "name": "Käsebrot" },
+    "nl": { "name": "Kaasbrood" }
+  }
+},
+{
+  "id": "croque-farci-assorti",
+  "category": "petit-dejeuner",
+  "subcategory": "croque",
+  "price": 15,
+  "image": "assets/images/ftorat/7.jpg",
+  "translations": {
+    "fr": { "name": "Farci", "ingredients": "Baghrir, rghayef, harcha, meloui, pain cake" },
+    "en": { "name": "Stuffed Assortment", "ingredients": "Baghrir, rghayef, harcha, meloui, loaf cake" },
+    "es": { "name": "Variado Relleno", "ingredients": "Baghrir, rghayef, harcha, meloui, bizcocho" },
+    "ar": { "name": "تشكيلة محشية", "ingredients": "بغرير، رغايف، حرشة، ملوي، كيك" },
+    "de": { "name": "Gefüllte Auswahl", "ingredients": "Baghrir, Rghayef, Harcha, Meloui, Kuchen" },
+    "nl": { "name": "Gevulde Selectie", "ingredients": "Baghrir, Rghayef, Harcha, Meloui, Cake" }
+  }
+},
+{
+  "id": "granola-bowl",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 50,
+  "image": "assets/images/ftorat/4.jpg",
+  "translations": {
+    "fr": { "name": "Granola Bowl", "ingredients": "Granola Maison aux Grains et Fruits Secs, Yaourt Fraise, et Fruits de saison" },
+    "en": { "name": "Granola Bowl", "ingredients": "Homemade Granola with Grains and Dried Fruits, Strawberry Yogurt, and Seasonal Fruits" },
+    "es": { "name": "Bol de Granola", "ingredients": "Granola Casera con Granos y Frutos Secos, Yogur de Fresa y Frutas de Temporada" },
+    "ar": { "name": "وعاء جرانولا", "ingredients": "جرانولا منزلية بالحبوب والفواكه المجففة، زبادي بالفراولة، وفواكه موسمية" },
+    "de": { "name": "Granola Bowl", "ingredients": "Hausgemachtes Granola mit Getreide und Trockenfrüchten, Erdbeerjoghurt und Saisonfrüchten" },
+    "nl": { "name": "Granola Bowl", "ingredients": "Huisgemaakte granola met granen en gedroogd fruit, aardbeiyoghurt en seizoensfruit" }
+  }
+},
+{
+  "id": "toast-farci",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 15,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toast Farci" },
+    "en": { "name": "Stuffed Toast" },
+    "es": { "name": "Tostada Rellena" },
+    "ar": { "name": "توست محشي" },
+    "de": { "name": "Gefüllter Toast" },
+    "nl": { "name": "Gevulde Toast" }
+  }
+},
+{
+  "id": "toast-fromage",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 20,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toast au Fromage" },
+    "en": { "name": "Cheese Toast" },
+    "es": { "name": "Tostada con Queso" },
+    "ar": { "name": "توست بالجبن" },
+    "de": { "name": "Käsetoast" },
+    "nl": { "name": "Kaastoast" }
+  }
+},
+{
+  "id": "toast-special",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 30,
+  "image": "assets/images/ftorat/7.jpg",
+  "translations": {
+    "fr": { "name": "Toast Spécial", "ingredients": "Œuf, Fromage Rouge, Dinde Fumée, Mortadella, Kiri" },
+    "en": { "name": "Special Toast", "ingredients": "Egg, Red Cheese, Smoked Turkey, Mortadella, Kiri cheese" },
+    "es": { "name": "Tostada Especial", "ingredients": "Huevo, Queso Rojo, Pavo Ahumado, Mortadela, Queso Kiri" },
+    "ar": { "name": "توست خاص", "ingredients": "بيض، جبن أحمر، ديك رومي مدخن، مرتديلا، جبن كيري" },
+    "de": { "name": "Spezial-Toast", "ingredients": "Ei, roter Käse, geräucherter Truthahn, Mortadella, Kiri-Käse" },
+    "nl": { "name": "Speciale Toast", "ingredients": "Ei, rode kaas, gerookte kalkoen, mortadella, Kiri-kaas" }
+  }
+},
+{
+  "id": "toast-avocat-saumon",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 50,
+  "image": "assets/images/ftorat/10.jpg",
+  "translations": {
+    "fr": { "name": "Toast Avocat et Saumon" },
+    "en": { "name": "Avocado and Salmon Toast" },
+    "es": { "name": "Tostada de Aguacate y Salmón" },
+    "ar": { "name": "توست بالأفوكادو والسلمون" },
+    "de": { "name": "Toast mit Avocado und Lachs" },
+    "nl": { "name": "Toast met Avocado en Zalm" }
+  }
+},
+{
+  "id": "toast-thon-tomates",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toast Thon et Tomates" },
+    "en": { "name": "Tuna and Tomato Toast" },
+    "es": { "name": "Tostada de Atún y Tomate" },
+    "ar": { "name": "توست بالتونة والطماطم" },
+    "de": { "name": "Toast mit Thunfisch und Tomaten" },
+    "nl": { "name": "Toast met Tonijn en Tomaat" }
+  }
+},
+{
+  "id": "toast-espagnol",
+  "category": "petit-dejeuner",
+  "subcategory": "toast-item",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Toast Espagnol" },
+    "en": { "name": "Spanish Toast" },
+    "es": { "name": "Tostada Española" },
+    "ar": { "name": "توست إسباني" },
+    "de": { "name": "Spanischer Toast" },
+    "nl": { "name": "Spaanse Toast" }
+  }
+},
+{
+  "id": "omelette-nature",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 25,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Nature" },
+    "en": { "name": "Plain Omelet" },
+    "es": { "name": "Tortilla Francesa" },
+    "ar": { "name": "عجة سادة" },
+    "de": { "name": "Natur-Omelett" },
+    "nl": { "name": "Naturel Omelet" }
+  }
+},
+{
+  "id": "omelette-fromage",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette au Fromage" },
+    "en": { "name": "Cheese Omelet" },
+    "es": { "name": "Tortilla de Queso" },
+    "ar": { "name": "عجة بالجبن" },
+    "de": { "name": "Käseomelett" },
+    "nl": { "name": "Kaasomelet" }
+  }
+},
+{
+  "id": "omelette-vegetarienne",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Végétarienne" },
+    "en": { "name": "Vegetarian Omelet" },
+    "es": { "name": "Tortilla Vegetariana" },
+    "ar": { "name": "عجة نباتية" },
+    "de": { "name": "Vegetarisches Omelett" },
+    "nl": { "name": "Vegetarische Omelet" }
+  }
+},
+{
+  "id": "omelette-champignons",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette aux Champignons" },
+    "en": { "name": "Mushroom Omelet" },
+    "es": { "name": "Tortilla de Champiñones" },
+    "ar": { "name": "عجة بالفطر" },
+    "de": { "name": "Pilzomelett" },
+    "nl": { "name": "Omelet met Champignons" }
+  }
+},
+{
+  "id": "omelette-espagnole",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 35,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Espagnole (Tortilla)" },
+    "en": { "name": "Spanish Omelet (Tortilla)" },
+    "es": { "name": "Tortilla Española" },
+    "ar": { "name": "عجة إسبانية" },
+    "de": { "name": "Spanisches Omelett (Tortilla)" },
+    "nl": { "name": "Spaanse Omelet (Tortilla)" }
+  }
+},
+{
+  "id": "omelette-fromage-thon",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Fromage Thon" },
+    "en": { "name": "Cheese & Tuna Omelet" },
+    "es": { "name": "Tortilla de Queso y Atún" },
+    "ar": { "name": "عجة بالجبن والتونة" },
+    "de": { "name": "Käse-Thunfisch-Omelett" },
+    "nl": { "name": "Omelet met Kaas en Tonijn" }
+  }
+},
+{
+  "id": "omelette-fromage-dinde",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Fromage et Dinde" },
+    "en": { "name": "Cheese & Turkey Omelet" },
+    "es": { "name": "Tortilla de Queso y Pavo" },
+    "ar": { "name": "عجة بالجبن والديك الرومي" },
+    "de": { "name": "Käse-Truthahn-Omelett" },
+    "nl": { "name": "Omelet met Kaas en Kalkoen" }
+  }
+},
+{
+  "id": "omelette-charcuteries",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 30,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Charcuteries" },
+    "en": { "name": "Deli Meat Omelet" },
+    "es": { "name": "Tortilla de Embutidos" },
+    "ar": { "name": "عجة باللحوم الباردة" },
+    "de": { "name": "Omelett mit Aufschnitt" },
+    "nl": { "name": "Omelet met Vleeswaren" }
+  }
+},
+  {
+  "id": "mqila-marocaine",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 40,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Mqila Marocaine" },
+    "en": { "name": "Moroccan Mqila" },
+    "es": { "name": "Mqila Marroquí" },
+    "ar": { "name": "مقيلة مغربية" },
+    "de": { "name": "Marokkanische Mqila" },
+    "nl": { "name": "Marokkaanse Mqila" }
+  }
+},
+{
+  "id": "omelette-crevettes",
+  "category": "petit-dejeuner",
+  "subcategory": "omelettes",
+  "price": 50,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Omelette Crevettes" },
+    "en": { "name": "Shrimp Omelet" },
+    "es": { "name": "Tortilla de Gambas" },
+    "ar": { "name": "عجة بالروبيان" },
+    "de": { "name": "Garnelenomelett" },
+    "nl": { "name": "Garnalenomelet" }
+  }
+},
+{
+  "id": "pdj-espagnol",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 60,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Espagnol", "ingredients": "Pain Grillé, Tortilla, Fromage de Manchego, Thon, Fromage Blanc, Huile d'Olive, Tomate Râpée, Origan et l'Ail" },
+    "en": { "name": "Spanish Breakfast", "ingredients": "Toasted Bread, Tortilla, Manchego Cheese, Tuna, White Cheese, Olive Oil, Grated Tomato, Oregano and Garlic" },
+    "es": { "name": "Desayuno Español", "ingredients": "Pan Tostado, Tortilla, Queso Manchego, Atún, Queso Blanco, Aceite de Oliva, Tomate Rallado, Orégano y Ajo" },
+    "ar": { "name": "فطور إسباني", "ingredients": "خبز محمص، تورتيلا، جبن مانشيغو، تونة، جبن أبيض، زيت زيتون، طماطم مبشورة، أوريغانو وثوم" },
+    "de": { "name": "Spanisches Frühstück", "ingredients": "Geröstetes Brot, Tortilla, Manchego-Käse, Thunfisch, Frischkäse, Olivenöl, geriebene Tomaten, Oregano und Knoblauch" },
+    "nl": { "name": "Spaans Ontbijt", "ingredients": "Geroosterd brood, tortilla, Manchego-kaas, tonijn, witte kaas, olijfolie, geraspte tomaat, oregano en knoflook" }
+  }
+},
+{
+  "id": "pdj-pandy",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 55,
+  "image": "assets/images/ftorat/10.jpg",
+  "translations": {
+    "fr": { "name": "Pan Dy", "ingredients": "Boisson Chaude (Thé à la menthe ou Café), Croque, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Mini Jus d'orange et eau minérale" },
+    "en": { "name": "Pan Dy Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Croque, 2 Mini Pastries or 1 Large Pastry, Mini Orange Juice and Mineral Water" },
+    "es": { "name": "Desayuno Pan Dy", "ingredients": "Bebida Caliente (Té de Menta o Café), Croque, 2 Mini Bollerías o 1 Bollería Grande, Mini Zumo de Naranja y Agua Mineral" },
+    "ar": { "name": "فطور بان دي", "ingredients": "مشروب ساخن (شاي بالنعناع أو قهوة)، كروك، قطعتان من المعجنات الصغيرة أو قطعة كبيرة، عصير برتقال صغير ومياه معدنية" },
+    "de": { "name": "Pan Dy Frühstück", "ingredients": "Heißgetränk (Minztee oder Kaffee), Croque, 2 Mini-Gebäckstücke oder 1 großes Gebäck, kleiner Orangensaft und Mineralwasser" },
+    "nl": { "name": "Pan Dy Ontbijt", "ingredients": "Warme drank (muntthee of koffie), croque, 2 mini-gebakjes of 1 groot gebakje, klein sinaasappelsap en mineraalwater" }
+  }
+},
+{
+  "id": "pdj-prestige",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 45,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Prestige", "ingredients": "Boisson Chaude (Thé à la Menthe ou café), Jus d'Orange, 2 Mini Viennoiseries ou 1 Grande Viennoiserie, Corbeille à pain, Miel, Confiture, Kiri, Beurre, Amlou et Eau Minérale" },
+    "en": { "name": "Prestige Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Orange Juice, 2 Mini Pastries or 1 Large Pastry, Bread Basket, Honey, Jam, Kiri, Butter, Amlou and Mineral Water" },
+    "es": { "name": "Desayuno Prestige", "ingredients": "Bebida Caliente (Té de Menta o Café), Zumo de Naranja, 2 Mini Bollerías o 1 Bollería Grande, Cesta de Pan, Miel, Mermelada, Kiri, Mantequilla, Amlou y Agua Mineral" },
+    "ar": { "name": "فطور بريستيج", "ingredients": "مشروب ساخن (شاي بالنعناع أو قهوة)، عصير برتقال، قطعتان من المعجنات الصغيرة أو قطعة كبيرة، سلة خبز، عسل، مربى، كيري، زبدة، أملو ومياه معدنية" },
+    "de": { "name": "Prestige Frühstück", "ingredients": "Heißgetränk (Minztee oder Kaffee), Orangensaft, 2 Mini-Gebäckstücke oder 1 großes Gebäck, Brotkorb, Honig, Marmelade, Kiri, Butter, Amlou und Mineralwasser" },
+    "nl": { "name": "Prestige Ontbijt", "ingredients": "Warme drank (muntthee of koffie), sinaasappelsap, 2 mini-gebakjes of 1 groot gebakje, broodmand, honing, jam, Kiri, boter, Amlou en mineraalwater" }
+  }
+},
+{
+  "id": "pdj-beldi",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 50,
+  "image": "assets/images/ftorat/9.jpg",
+  "translations": {
+    "fr": { "name": "Beldi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Œufs Beldi, Olives, Fromage Beldi, Rghayef, Harcha, Huil d'Olive, Corbeille à Pain, Mini Jus d'Orange, eau Minérale" },
+    "en": { "name": "Beldi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Beldi Eggs, Olives, Beldi Cheese, Rghayef, Harcha, Olive Oil, Bread Basket, Mini Orange Juice, Mineral Water" },
+    "es": { "name": "Desayuno Beldi", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Huevos Beldi, Aceitunas, Queso Beldi, Rghayef, Harcha, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja, Agua Mineral" },
+    "ar": { "name": "فطور بلدي", "ingredients": "مشروب ساخن (شاي بالنعناع أو قهوة)، بيضتان بلديتان، زيتون، جبن بلدي، رغايف، حرشة، زيت زيتون، سلة خبز، عصير برتقال صغير، مياه معدنية" },
+    "de": { "name": "Beldi Frühstück", "ingredients": "Heißgetränk (Minztee oder Kaffee), 2 Beldi-Eier, Oliven, Beldi-Käse, Rghayef, Harcha, Olivenöl, Brotkorb, kleiner Orangensaft, Mineralwasser" },
+    "nl": { "name": "Beldi Ontbijt", "ingredients": "Warme drank (muntthee of koffie), 2 Beldi-eieren, olijven, Beldi-kaas, Rghayef, Harcha, olijfolie, broodmand, klein sinaasappelsap, mineraalwater" }
+  }
+},
+{
+  "id": "pdj-parisien",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 35,
+  "image": "assets/images/ftorat/8.jpg",
+  "translations": {
+    "fr": { "name": "Parisien", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), 2 Mini Viennoiseries, Mini Jus d'Orange" },
+    "en": { "name": "Parisian Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), 2 Mini Pastries, Mini Orange Juice" },
+    "es": { "name": "Desayuno Parisino", "ingredients": "Bebida Caliente (Té de Menta o Café), 2 Mini Bollerías, Mini Zumo de Naranja" },
+    "ar": { "name": "فطور باريسي", "ingredients": "مشروب ساخن (شاي بالنعناع أو قهوة)، قطعتان من المعجنات الصغيرة، عصير برتقال صغير" },
+    "de": { "name": "Pariser Frühstück", "ingredients": "Heißgetränk (Minztee oder Kaffee), 2 Mini-Gebäckstücke, kleiner Orangensaft" },
+    "nl": { "name": "Parijs Ontbijt", "ingredients": "Warme drank (muntthee of koffie), 2 mini-gebakjes, klein sinaasappelsap" }
+  }
+},
+{
+  "id": "pdj-fassi",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 60,
+  "image": "assets/images/ftorat/9.jpg",
+  "translations": {
+    "fr": { "name": "Fassi", "ingredients": "Boisson Chaude (Thé à la Menthe ou Café), Tagine 2 Œufs au Khlie, Olives, Huile d'Olive, Corbeille à Pain, Mini Jus d'Orange et Eau minérale" },
+    "en": { "name": "Fassi Breakfast", "ingredients": "Hot Drink (Mint Tea or Coffee), Tagine with 2 Eggs & Khlie, Olives, Olive Oil, Bread Basket, Mini Orange Juice and Mineral Water" },
+    "es": { "name": "Desayuno Fassi", "ingredients": "Bebida Caliente (Té de Menta o Café), Tajine de 2 Huevos con Khlie, Aceitunas, Aceite de Oliva, Cesta de Pan, Mini Zumo de Naranja y Agua Mineral" },
+    "ar": { "name": "فطور فاسي", "ingredients": "مشروب ساخن (شاي بالنعناع أو قهوة)، طاجين بيضتين مع الخليع، زيتون، زيت زيتون، سلة خبز، عصير برتقال صغير ومياه معدنية" },
+    "de": { "name": "Fassi Frühstück", "ingredients": "Heißgetränk (Minztee oder Kaffee), Tajine mit 2 Eiern und Khlie, Oliven, Olivenöl, Brotkorb, kleiner Orangensaft und Mineralwasser" },
+    "nl": { "name": "Fassi Ontbijt", "ingredients": "Warme drank (muntthee of koffie), tajine met 2 eieren en khlie, olijven, olijfolie, broodmand, klein sinaasappelsap en mineraalwater" }
+  }
+},
+{
+  "id": "pdj-healthy",
+  "category": "petit-dejeuner",
+  "subcategory": "petit-dejeuner",
+  "price": 65,
+  "image": "assets/images/placeholder.jpg",
+  "translations": {
+    "fr": { "name": "Petit Déjeuner Healthy", "ingredients": "Tartine de Pain Complet, Guacamole, Œuf Poché, Mini Granola aux Fruits Secs, Olive Noire, Huile d'Olive, Pain Grillé, Mini Jus d'Orange, Boisson Chaude au Choix" },
+    "en": { "name": "Healthy Breakfast", "ingredients": "Whole Wheat Toast, Guacamole, Poached Egg, Mini Granola with Dried Fruits, Black Olive, Olive Oil, Toasted Bread, Mini Orange Juice, Hot Drink of Choice" },
+    "es": { "name": "Desayuno Saludable", "ingredients": "Tostada de Pan Integral, Guacamole, Huevo Escalfado, Mini Granola con Frutos Secos, Aceituna Negra, Aceite de Oliva, Pan Tostado, Mini Zumo de Naranja, Bebida Caliente a Elegir" },
+    "ar": { "name": "فطور صحي", "ingredients": "خبز قمح كامل، غواكامولي، بيض مسلوق بدون قشر، غرانولا صغيرة بالفواكه المجففة، زيتون أسود، زيت زيتون، خبز محمص، عصير برتقال صغير، مشروب ساخن حسب الاختيار" },
+    "de": { "name": "Gesundes Frühstück", "ingredients": "Vollkorntoast, Guacamole, pochiertes Ei, Mini-Granola mit Trockenfrüchten, schwarze Oliven, Olivenöl, geröstetes Brot, kleiner Orangensaft, Heißgetränk nach Wahl" },
+    "nl": { "name": "Gezond Ontbijt", "ingredients": "Volkoren toast, guacamole, gepocheerd ei, mini granola met gedroogd fruit, zwarte olijven, olijfolie, geroosterd brood, klein sinaasappelsap, warme drank naar keuze" }
+  }
+}
 ]
